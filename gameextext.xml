@@ -1,0 +1,1275 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<TEXT>
+<!-- START NEW ADDED BY SENCORE -->
+<SENTENSE Ver="1" Id="CHANGEPIN_PAGE_PW_ERROR">
+<VALUE Lang="th">Please Type in your Password.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPIN_PAGE_OPW2_ERROR">
+<VALUE Lang="th">Please Type in your Password.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPIN_PAGE_PW2_ERROR">
+<VALUE Lang="th">Please Type in your Pincode.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPIN_PAGE_PW2_ERROR">
+<VALUE Lang="th">Please re-Type in your Pincode.</VALUE>
+</SENTENSE>
+
+<SENTENSE Ver="1" Id="CHANGEPIN_SUCCESS">
+<VALUE Lang="th">Update Completed!.</VALUE>
+<VALUE Lang="th">Click ok to confirm.</VALUE>
+</SENTENSE>
+
+<SENTENSE Ver="1" Id="CHANGEPASS_PAGE_PW_ERROR">
+<VALUE Lang="th">Please Type in your Password.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPASS_PAGE_OPW_ERROR">
+<VALUE Lang="th">Please Type in your Password.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPASS_PAGE_PW2_ERROR">
+<VALUE Lang="th">Please Type in your Pincode.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPASS_PAGE_RPW2_ERROR">
+<VALUE Lang="th">Please re-Type in your Password.</VALUE>
+</SENTENSE>
+
+<SENTENSE Ver="1" Id="CHANGEPASS_SUCCESS">
+<VALUE Lang="th">Update Completed!.</VALUE>
+<VALUE Lang="th">Click ok to confirm.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEEMAIL_PAGE_PW_ERROR">
+<VALUE Lang="th">Please Type in your Password.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEEMAIL_PAGE_PW2_ERROR">
+<VALUE Lang="th">Please Type in your Pincode.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEEMAIL_PAGE_EM_ERROR">
+<VALUE Lang="th">Please check in your Email.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEEMAIL_PAGE_REM_ERROR">
+<VALUE Lang="th">Please re-check in your Email.</VALUE>
+</SENTENSE>
+
+<SENTENSE Ver="1" Id="CHANGEEMAIL_SUCCESS">
+<VALUE Lang="th">Update Completed!.</VALUE>
+<VALUE Lang="th">Click ok to confirm.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_PAGE_RP_ERROR">
+<VALUE Lang="th">unable to use blank or ASCII code</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="GTCVT_PAGE_CP_ERROR">
+<VALUE Lang="th">unable to use blank or ASCII code</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUP_PAGE_CP_ERROR">
+<VALUE Lang="th">unable to use blank or ASCII code</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPASS_PAGE_CP_ERROR">
+<VALUE Lang="th">unable to use blank or ASCII code</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPIN_PAGE_CP_ERROR">
+<VALUE Lang="th">unable to use blank or ASCII code</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEEMAIL_PAGE_CP_ERROR">
+<VALUE Lang="th">unable to use blank or ASCII code</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPSTAGE_1">
+<VALUE Lang="th">System error caused update fail</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPSTAGE_2">
+<VALUE Lang="th">Sorry, update failed.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPSTAGE_3">
+<VALUE Lang="th">Prompting to Login Page.</VALUE>
+<VALUE Lang="th">Click ok to confirm.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPSTAGE_4">
+<VALUE Lang="th"> Password / Pincode is Invalid please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPSTAGE_5">
+<VALUE Lang="th">Email is Invalid! please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPSTAGE_6">
+<VALUE Lang="th">Captcha is Invalid!</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPSTAGE_7">
+<VALUE Lang="th">Update on progress.</VALUE>
+<VALUE Lang="th">Please wait...</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CESTAGE_1">
+<VALUE Lang="th">System error caused update fail</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CESTAGE_2">
+<VALUE Lang="th">Sorry, update failed.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CESTAGE_3">
+<VALUE Lang="th">Prompting to Login Page.</VALUE>
+<VALUE Lang="th">Click ok to confirm.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CESTAGE_4">
+<VALUE Lang="th"> Password / Pincode is Invalid please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CESTAGE_5">
+<VALUE Lang="th">Email is Invalid! please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CESTAGE_6">
+<VALUE Lang="th">Captcha is Invalid!</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CESTAGE_7">
+<VALUE Lang="th">Update on progress.</VALUE>
+<VALUE Lang="th">Please wait...</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPINSTAGE_1">
+<VALUE Lang="th">System error caused update fail</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPINSTAGE_2">
+<VALUE Lang="th">Sorry, update failed.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPINSTAGE_3">
+<VALUE Lang="th">Prompting to Login Page.</VALUE>
+<VALUE Lang="th">Click ok to confirm.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPINSTAGE_4">
+<VALUE Lang="th"> Password / Pincode is Invalid please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPINSTAGE_5">
+<VALUE Lang="th">Email is Invalid! please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPINSTAGE_6">
+<VALUE Lang="th">Captcha is Invalid!</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPINSTAGE_7">
+<VALUE Lang="th">Update on progress.</VALUE>
+<VALUE Lang="th">Please wait...</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUPSTAGE_1">
+<VALUE Lang="th">System error caused update fail</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUPSTAGE_2">
+<VALUE Lang="th">Sorry, update failed.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUPSTAGE_3">
+<VALUE Lang="th">Prompting to Login Page.</VALUE>
+<VALUE Lang="th">Click ok to confirm.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUPSTAGE_4">
+<VALUE Lang="th"> Password / Pincode is Invalid please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUPSTAGE_5">
+<VALUE Lang="th">Email is Invalid! please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUPSTAGE_6">
+<VALUE Lang="th">Captcha is Invalid!</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUPSTAGE_7">
+<VALUE Lang="th">Update on progress.</VALUE>
+<VALUE Lang="th">Please wait...</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="GTCVTSTAGE_6">
+<VALUE Lang="th">Captcha is Invalid!</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="GTCVTSTAGE_7">
+<VALUE Lang="th">Update on progress.</VALUE>
+<VALUE Lang="th">Please wait...</VALUE>
+</SENTENSE>
+  <WORD Ver="1" Id="EM_REGISTER_FB_SUB">
+    <VALUE Lang="th" Index="0">Registration Success! You can now Login!</VALUE>
+    <VALUE Lang="th" Index="1">Registration Failed</VALUE>
+    <VALUE Lang="th" Index="2">UserName Exist!</VALUE>
+  </WORD>
+  <SENTENSE Ver="1" Id="REGISTERSTAGE_5">
+    <VALUE Lang="th">Please Check Input! must not include blanks or symbols.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTERSTAGE_4">
+    <VALUE Lang="th">Please Check Input! must not include blanks or symbols.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTERSTAGE_6">
+    <VALUE Lang="th">Registration is processing.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTER_PAGE_RP_EMPTY">
+    <VALUE Lang="th">Please type captcha!.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTER_PAGE_RP_ERROR">
+    <VALUE Lang="th">Captcha not match or Invalid Input.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTER_PAGE_PW2_ERROR">
+    <VALUE Lang="th">Please Check Input! PinCode must not include blanks or symbols.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTER_PAGE_PW_ERROR">
+    <VALUE Lang="th">Please Check Input! Password must not include blanks or symbols.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTER_PAGE_ID_ERROR">
+    <VALUE Lang="th">Please Check Input! UserID must not include blanks or symbols.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTER_PAGE_EMAIL_ERROR">
+    <VALUE Lang="th">Please Check Input! Email must not include blanks or any other symbols!.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTERSTAGE_8">
+    <VALUE Lang="th">Network connection lost.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_1">
+    <VALUE Lang="th">Network connection lost.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_10">
+    <VALUE Lang="th">User account(ID) already in use!</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTER_PAGE_RAND_NUMBER">
+    <VALUE Lang="th">%1%th Security code.</VALUE>
+  </SENTENSE>
+  
+  <!-- END NEW ADDED BY SENCORE -->
+  <SENTENSE Ver="1" Id="CHAR_DEL_CLUB_FAILED">
+    <VALUE Lang="id">Silahkan hapus club terlebih dahulu.</VALUE>
+    <VALUE Lang="cn">角色删除失败！</VALUE>
+    <VALUE Lang="cn">请先解散公会后，重新再试。</VALUE>
+    <VALUE Lang="th">Failed to delete the character.</VALUE>
+    <VALUE Lang="th">Please disband the club first and then try again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHAR_DEL_FAILED">
+    <VALUE Lang="id">Penghapusan karakter telah gagal.</VALUE>
+    <VALUE Lang="cn">密码错误，角色删除失败！</VALUE>
+    <VALUE Lang="th">Failed to delete the character.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHAR_DEL_SUCCEED">
+    <VALUE Lang="id">Penghapusan karakter telah selesai.</VALUE>
+    <VALUE Lang="cn">角色删除成功！</VALUE>
+    <VALUE Lang="th">Character had been successfully deleted.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHAR_DELETE_ON">
+    <VALUE Lang="id">Karakter sedang dihapus.</VALUE>
+    <VALUE Lang="cn">角色删除中……</VALUE>
+    <VALUE Lang="th">Deleting Character...</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTER_BADNAME">
+    <VALUE Lang="id">Nama karakter tidak valid.</VALUE>
+    <VALUE Lang="cn">角色名称内有不适当的文字！</VALUE>
+    <VALUE Lang="th">Character name was mixed with inappropriate word.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTER_COUNTY_CLUB_INFO">
+    <VALUE Lang="cn">目前公会：%1%(%2%)</VALUE>
+    <VALUE Lang="th">Current Club: %1%(%2%).</VALUE>
+    <VALUE Lang="id">Current Club: %1%(%2%).</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTER_COUNTY_NO_CLUB_INFO">
+    <VALUE Lang="cn">目前公会名称：无</VALUE>
+    <VALUE Lang="th">Current Club: No Club.</VALUE>
+    <VALUE Lang="id">Club saat ini : Tidak ada.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTER_NOT_ENOUGH_CHARREMAIN">
+    <VALUE Lang="id">Kartu karakter tidak cukup.</VALUE>
+    <VALUE Lang="cn">『角色卡』不足！</VALUE>
+    <VALUE Lang="th">Lack of character card.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTER_THIS_SERVER_SLOT_FULL">
+    <VALUE Lang="id">Di server ini tidak bisa membuat karakter baru lagi.</VALUE>
+    <VALUE Lang="cn">该伺服器无法再创新角色！</VALUE>
+    <VALUE Lang="th">Server is unable to create a new character.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_10">
+    <VALUE Lang="id">Silahkan coba lagi.</VALUE>
+    <VALUE Lang="cn">该角色为连线状态！</VALUE>
+    <VALUE Lang="cn">请重新再连结。</VALUE>
+    <VALUE Lang="th">Character is online in game now.</VALUE>
+    <VALUE Lang="th">Please try to login again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_11">
+    <VALUE Lang="id">Silahkan mencoba kembali</VALUE>
+    <VALUE Lang="cn">伺服连线失败！</VALUE>
+    <VALUE Lang="cn">请重新再连结。</VALUE>
+    <VALUE Lang="th">Failed to connect to server.</VALUE>
+    <VALUE Lang="th">Please try to login again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_12">
+    <VALUE Lang="id">Koneksi telah gagal.</VALUE>
+    <VALUE Lang="cn">因为PK指数过低，您不允许进入此分流。</VALUE>
+    <VALUE Lang="th">You are not allowed to enter this channel due to low PK tendency.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_13">
+    <VALUE Lang="cn">确定要回到角色选单吗？</VALUE>
+    <VALUE Lang="th">Move to character main page?</VALUE>
+    <VALUE Lang="id">Mau kembali ke halaman utama?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_14">
+    <VALUE Lang="cn">上一次连线的角色资料储存中。请稍后再尝试连线。</VALUE>
+    <VALUE Lang="th">We are currently saving the character data. Please try again later.</VALUE>
+    <VALUE Lang="id">Kami sedang menyimpan data karakter. Harap dicoba sebentar lagi.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_15">
+    <VALUE Lang="cn">请稍后再尝试</VALUE>
+    <VALUE Lang="th">Please try again after a while</VALUE>
+    <VALUE Lang="id">Harap dicoba sebentar lagi</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_16">
+    <VALUE Lang="cn">请输入安全密码</VALUE>
+    <VALUE Lang="th">Insert the Security Code</VALUE>
+    <VALUE Lang="id">Masukkan Security Code</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_17">
+    <VALUE Lang="cn">安全密码认证失败</VALUE>
+    <VALUE Lang="th">Security Code Verifying Failed</VALUE>
+    <VALUE Lang="id">Security Code Verifying Gagal</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_18">
+    <VALUE Lang="cn">安全密码错误，5分钟后请再尝试。</VALUE>
+    <VALUE Lang="th">Security Code is Wrong, Cannot Login for 5 minutes</VALUE>
+    <VALUE Lang="id">Security Code Salah, Tidak dapat Login selam 5 menit</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_19">
+    <VALUE Lang="cn">安全密码认证成功</VALUE>
+    <VALUE Lang="th">Security Code Verifying Success</VALUE>
+    <VALUE Lang="id">Verify Security Code Berhasil</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_2">
+    <VALUE Lang="id">Koneksi server terputus.</VALUE>
+    <VALUE Lang="cn">网路无法连线。</VALUE>
+    <VALUE Lang="th">Lost network connection.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_20">
+    <VALUE Lang="cn">二次密码设定</VALUE>
+    <VALUE Lang="th">Set 2nd Password</VALUE>
+    <VALUE Lang="id">2nd Password Set</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_3">
+    <VALUE Lang="id">Mau keluar dari game?</VALUE>
+    <VALUE Lang="cn">您要结束游戏？</VALUE>
+    <VALUE Lang="th">Do you want to quit the game?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_4">
+    <VALUE Lang="id">Mau membuat karakter baru?</VALUE>
+    <VALUE Lang="cn">您要新建角色吗？</VALUE>
+    <VALUE Lang="th">Do you want to create a new character?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_6">
+    <VALUE Lang="id">Kembali ke menu pemilihan server?</VALUE>
+    <VALUE Lang="cn">您要移动到伺服器选单吗？</VALUE>
+    <VALUE Lang="th">Move to server selection menu?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_8">
+    <VALUE Lang="id">Silahkan pilih karakter.</VALUE>
+    <VALUE Lang="cn">请选择角色。</VALUE>
+    <VALUE Lang="th">Please select a character.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_9">
+    <VALUE Lang="id">Penghapusan karakter telah gagal.</VALUE>
+    <VALUE Lang="cn">角色删除失败！</VALUE>
+    <VALUE Lang="th">Failed to delete the character.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_CAUTION_DELETE">
+    <VALUE Lang="id">Silahkan masukkan Password kedua jika ingin menghapus karakter "%1%".</VALUE>
+    <VALUE Lang="cn">若要删除 "%1%" 角色，请输入第二阶段密码。</VALUE>
+    <VALUE Lang="th">Please input your second password if you wish to delete the "%1%" character.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_CAUTION_DELETE_DAUM">
+    <VALUE Lang="id">Yakin ingin menghapus?</VALUE>
+    <VALUE Lang="cn">您确定要删除吗？</VALUE>
+    <VALUE Lang="th">Do you want to delete this character?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_DAUM_GAME_JOIN_FAIL">
+    <VALUE Lang="id">Pengambilan informasi karakter telah gagal.</VALUE>
+    <VALUE Lang="cn">角色资料读取失败！</VALUE>
+    <VALUE Lang="th">Failed to retrieve the character data.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_ERROR_2ND_PWD">
+    <VALUE Lang="cn">请重新察看二次密码输入规则.</VALUE>
+    <VALUE Lang="th">Please refer to the 2nd Password's rules.</VALUE>
+    <VALUE Lang="id">Silahkan simak kembali aturan Password ke 2.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_ERROR_LEN_2ND_PWD">
+    <VALUE Lang="cn">二次密码是四个数字的组合.</VALUE>
+    <VALUE Lang="th">Please input a combination of 4 numbers for the 2nd Password.</VALUE>
+    <VALUE Lang="id">Silahkan masukkan kombinasi 4 angka untuk Password ke 2.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_ERROR_SAME_2ND_PWD">
+    <VALUE Lang="cn">不能连续使用同一个数字作为二次密码.</VALUE>
+    <VALUE Lang="th">Continuous combination of the same number is not allowed.</VALUE>
+    <VALUE Lang="id">Kombinasi angka yang sama secara berurutan tidak diperbolehkan.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_GAME_JOIN">
+    <VALUE Lang="id">Processing of data.</VALUE>
+    <VALUE Lang="cn">正在读取角色资料…</VALUE>
+    <VALUE Lang="th">Loading character information..</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_MISMATCH_2ND_PWD">
+    <VALUE Lang="cn">二次密码输入错误.</VALUE>
+    <VALUE Lang="th">The new 2nd Password that you entered doesn't match.</VALUE>
+    <VALUE Lang="id">Password ke 2 baru yang baru saja anda masukkan tidak cocok.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_NOT_SELECTED">
+    <VALUE Lang="id">Pilih karakter yang akan dihapus.</VALUE>
+    <VALUE Lang="cn">请选择所要删除的角色。</VALUE>
+    <VALUE Lang="th">Select the character that you want to delete.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHARACTERSTAGE_UNKNOWN_ERROR_2ND_PWD">
+    <VALUE Lang="cn">二次密码输入错误.</VALUE>
+    <VALUE Lang="th">Unknown 2nd Password error.</VALUE>
+    <VALUE Lang="id">Error Password ke 2 yang tidak diketahui.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHINA_GAIN_1HOUR">
+    <VALUE Lang="cn">游戏进行了一个小时</VALUE>
+    <VALUE Lang="id">1 jam telah berlalu.</VALUE>
+    <VALUE Lang="th">1 hour has passed.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHINA_LOGIN_GAINTIME_ERROR">
+    <VALUE Lang="cn">下线时间累积超过5小时以上，才能正常再次登入游戏。</VALUE>
+    <VALUE Lang="id">Anda dapat Sign in kembali setelah offline selama 5 jam atau lebih.</VALUE>
+    <VALUE Lang="th">You will be able to re-login after your offline time has reaches more than 5 hours.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CHINA_OUTER_UP_TITLE">
+    <VALUE Lang="cn">健康游戏忠告：</VALUE>
+    <VALUE Lang="cn">1. 抵制不良游戏，拒绝盗版游戏。</VALUE>
+    <VALUE Lang="cn">2. 注意自我保护，谨防受骗上当。</VALUE>
+    <VALUE Lang="cn">3. 适度游戏益脑，沉迷游戏伤身。</VALUE>
+    <VALUE Lang="cn">4. 合理安排时间，享受健康生活。</VALUE>
+    <VALUE Lang="id">Himbauan untuk Bermain Game yang sehat</VALUE>
+    <VALUE Lang="id">1. Bukan Game Bajakan.</VALUE>
+    <VALUE Lang="id">2. Hati - hati terhadap penipuan.</VALUE>
+    <VALUE Lang="id">3. Jangan terlalu terlena di dalam Game.</VALUE>
+    <VALUE Lang="id">4. Atur waktu untuk bermain Game.</VALUE>
+    <VALUE Lang="th">Healthy Game's advice</VALUE>
+    <VALUE Lang="th">1. Reject for Pirate games.</VALUE>
+    <VALUE Lang="th">2. To careful to avoid scamming.</VALUE>
+    <VALUE Lang="th">3. Avoid obsessed with the game.</VALUE>
+    <VALUE Lang="th">4. Arrange time to enjoy a healthy life.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CREATE_CHARACTER_NAME_ERROR">
+    <VALUE Lang="id">User ID tidak boleh menggunakan spasi atau aksara khusus.</VALUE>
+    <VALUE Lang="cn">ID不能包含特殊符号或空格。</VALUE>
+    <VALUE Lang="th">ID cannot include any special characters or blank spaces.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CREATE_CHARACTER_NAME_ERROR_KOREA">
+    <VALUE Lang="cn">角色名称需由字母和数字组合而成</VALUE>
+    <VALUE Lang="cn">(不能输入特殊字元)</VALUE>
+    <VALUE Lang="th">Character's name must be only a combination of alphabet characters and numbers.</VALUE>
+    <VALUE Lang="th">(cannot include any special characters).</VALUE>
+    <VALUE Lang="id">Nama karakter harus terdiri dari kombinasi alphabet dan angka. Tidak dapat diisi dengan special karakter.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CREATE_CHARACTER_NAME_ERROR_WB">
+    <VALUE Lang="cn">角色名称需由英文和数字组成</VALUE>
+    <VALUE Lang="th">Character's name must be only a combination of alphabet characters and numbers.</VALUE>
+    <VALUE Lang="id">Nama karakter harus kombinasi dari alphanumeric saja.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CREATESTAGE_1">
+    <VALUE Lang="id">Coba sekali lagi?</VALUE>
+    <VALUE Lang="cn">网路无法连线。</VALUE>
+    <VALUE Lang="th">Network connection timed out.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CREATESTAGE_10">
+    <VALUE Lang="id">Nama karakter terdapat aksara Vietnam yang belum tersedia.</VALUE>
+    <VALUE Lang="cn">角色名称内含错误的越南文字</VALUE>
+    <VALUE Lang="th">Character name includes unsupported Vietnamese word.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CREATESTAGE_11">
+    <VALUE Lang="cn">GM帐号不能生成游戏角色.</VALUE>
+    <VALUE Lang="th">Cannot create additional character in GM account.</VALUE>
+    <VALUE Lang="id">Tidak dapat membuat character tambahan di account GM.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CREATESTAGE_2">
+    <VALUE Lang="id">Masukkan nama karakter.</VALUE>
+    <VALUE Lang="cn">请输入角色名称。</VALUE>
+    <VALUE Lang="th">Input the character's name.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CREATESTAGE_3">
+    <VALUE Lang="id">Ingin keluar dari game?</VALUE>
+    <VALUE Lang="cn">您要结束游戏吗？</VALUE>
+    <VALUE Lang="th">Do you want to quit the game?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CREATESTAGE_4">
+    <VALUE Lang="id">Pembuatan karakter telah selesai.</VALUE>
+    <VALUE Lang="cn">角色创建成功！</VALUE>
+    <VALUE Lang="th">Character successfully created.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CREATESTAGE_5">
+    <VALUE Lang="id">Nama ini telah digunakan.</VALUE>
+    <VALUE Lang="cn">该名称已有其他角色使用。</VALUE>
+    <VALUE Lang="th">A character with that name has already exist.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CREATESTAGE_6">
+    <VALUE Lang="id">Melampaui jumlah karakter yang diperbolehkan.</VALUE>
+    <VALUE Lang="cn">已超过可创建的角色上限。</VALUE>
+    <VALUE Lang="th">Exceeded the maximum allowed number of characters.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CREATESTAGE_7">
+    <VALUE Lang="id">Pembuatan karakter gagal.</VALUE>
+    <VALUE Lang="cn">创新角色失败！</VALUE>
+    <VALUE Lang="th">Failed to create a new character!</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CREATESTAGE_8">
+    <VALUE Lang="id">Nama karakter tidak boleh menggunakan aksara khusus atau spasi.</VALUE>
+    <VALUE Lang="cn">角色不能包含特殊符号或空格。</VALUE>
+    <VALUE Lang="th">Character name cannot include any special characters or blank spaces.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CREATESTAGE_9">
+    <VALUE Lang="cn">角色名含有不正确的文字！</VALUE>
+    <VALUE Lang="id">Nama karakter terdapat aksara Thai yang belum tersedia.</VALUE>
+    <VALUE Lang="th">Character name includes unsupported Thai characters.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="DAUM_LOGIN_WAIT">
+    <VALUE Lang="id">Silahkan tunggu.</VALUE>
+    <VALUE Lang="cn">伺服器连线中…</VALUE>
+    <VALUE Lang="cn">请稍候！</VALUE>
+    <VALUE Lang="th">Connecting to server.</VALUE>
+    <VALUE Lang="th">Please wait..</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="DAUM_LOGIN_WAIT_SERVERFULL">
+    <VALUE Lang="id">Tidak ada jawaban dari server.</VALUE>
+    <VALUE Lang="id">Mau coba sekali lagi?</VALUE>
+    <VALUE Lang="cn">伺服器没有回应！</VALUE>
+    <VALUE Lang="cn">您要重新连线吗？</VALUE>
+    <VALUE Lang="th">No response from server.</VALUE>
+    <VALUE Lang="th">Do you wish to reconnect?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EM_LOGIN_FB_KOR_SHUTDOWN">
+    <VALUE Lang="cn">Skip</VALUE>
+    <VALUE Lang="th">Skip</VALUE>
+    <VALUE Lang="id">Skip</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EM_LOGIN_FB_SUB_BETAKEY">
+    <VALUE Lang="cn">您必须先取得您的Beta测试激活资格。</VALUE>
+    <VALUE Lang="th">You have to redeem your beta key first.</VALUE>
+    <VALUE Lang="id">Tidak bisa disambungkan karena autentikasi beta key telah gagal.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EM_LOGIN_FB_SUB_IMPOSSIBLEIP">
+    <VALUE Lang="cn">您的IP已被封锁</VALUE>
+    <VALUE Lang="th">Your IP is currently blocked.</VALUE>
+    <VALUE Lang="id">IP ini telah diblok.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EM_LOGIN_FB_SUB_UUIDGET_FAIL">
+    <VALUE Lang="cn">因为登入失败，无法读取UUID。</VALUE>
+    <VALUE Lang="id">Sign in telah gagal, tidak bisa load UUID.</VALUE>
+    <VALUE Lang="th">Failed to log in, cannot load UUID.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ITEM_INFO_SET_PREVIEW_TOOLTIP">
+    <VALUE Lang="cn">Skip</VALUE>
+    <VALUE Lang="th">Skip</VALUE>
+    <VALUE Lang="id">Skip</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGIN_ALREADYOFFLINE">
+    <VALUE Lang="id">Silahkan coba lagi.</VALUE>
+    <VALUE Lang="cn">因线路不稳导致登入失败。</VALUE>
+    <VALUE Lang="th">Failed to login due to unstable network connection.</VALUE>
+    <VALUE Lang="th">Please try again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGIN_FAILED">
+    <VALUE Lang="id">Login gagal.</VALUE>
+    <VALUE Lang="cn">登入失败！</VALUE>
+    <VALUE Lang="th">Login failed.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGIN_FAILED_INVALID_VER">
+    <VALUE Lang="id">File dengan versi baru sudah tersedia.</VALUE>
+    <VALUE Lang="id">Mohon diupdate / instal ulang terlebih dahulu.</VALUE>
+    <VALUE Lang="cn">用户端有最新版本！</VALUE>
+    <VALUE Lang="cn">请先结束游戏程式，更新为最新版本后，</VALUE>
+    <VALUE Lang="cn">再开始进行游戏。</VALUE>
+    <VALUE Lang="th">A new version of client is available.</VALUE>
+    <VALUE Lang="th">You have to exit the game before you can update it to the latest version.</VALUE>
+    <VALUE Lang="th">Please restart the client.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGIN_FAILED_VER_FILE">
+    <VALUE Lang="id">Ada file yang hilang.</VALUE>
+    <VALUE Lang="id">Mohon diinstal ulang sekali lagi.</VALUE>
+    <VALUE Lang="cn">Client客户端程式受损！</VALUE>
+    <VALUE Lang="cn">请将程式移除，重新安装后，再开始进行游戏。</VALUE>
+    <VALUE Lang="th">Client file has corrupted.</VALUE>
+    <VALUE Lang="th">Please try to reinstall again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGIN_PAGE_ID_ERROR">
+    <VALUE Lang="id">ID tidak boleh menggunakan spasi atau aksara khusus.</VALUE>
+    <VALUE Lang="cn">帐号不能使用特殊符号或空格。</VALUE>
+    <VALUE Lang="th">ID cannot use  special characters or blank spaces.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGIN_PAGE_PW_ERROR">
+    <VALUE Lang="id">Password tidak boleh menggunakan spasi atau aksara khusus.</VALUE>
+    <VALUE Lang="cn">密码不能使用特殊符号或空格。</VALUE>
+    <VALUE Lang="th">Password cannot use special characters or blank spaces.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGIN_PAGE_RAND_NUMBER">
+    <VALUE Lang="cn">第%1%组守护密码</VALUE>
+    <VALUE Lang="id">Sekuriti kode %1%</VALUE>
+    <VALUE Lang="th">%1%th Security code.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGIN_PAGE_RP_ERROR">
+    <VALUE Lang="cn">随机认证密码不可包含空格或者特殊字元</VALUE>
+    <VALUE Lang="id">Random password tidak boleh menggunakan spasi atau aksara khusus.</VALUE>
+    <VALUE Lang="th">Random password cannot use any special characters or blank spaces.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_1">
+    <VALUE Lang="id">Koneksi terputus.</VALUE>
+    <VALUE Lang="cn">网路无法连线。</VALUE>
+    <VALUE Lang="th">Network connection lost.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_10">
+    <VALUE Lang="id">Akun (ID) ini telah digunakan.</VALUE>
+    <VALUE Lang="cn">该帐号已是连线状态！</VALUE>
+    <VALUE Lang="th">User account(ID) already in use!</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_11">
+    <VALUE Lang="id">Username atau Password salah.</VALUE>
+    <VALUE Lang="id">Silahkan ulangi sekali lagi.</VALUE>
+    <VALUE Lang="cn">帐号或密码不符！</VALUE>
+    <VALUE Lang="cn">请重新确认。</VALUE>
+    <VALUE Lang="th">Incorrect Username or Password.</VALUE>
+    <VALUE Lang="th">Please try again!</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_12">
+    <VALUE Lang="id">IP kena BANNED.</VALUE>
+    <VALUE Lang="id">Silahkan hubungi GM.</VALUE>
+    <VALUE Lang="cn">您所使用的IP已被封锁！</VALUE>
+    <VALUE Lang="cn">请洽GM查询。</VALUE>
+    <VALUE Lang="th">IP is blocked.</VALUE>
+    <VALUE Lang="th">Please contact GM.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_13">
+    <VALUE Lang="cn">帐号有重复，请使用另一个帐号。</VALUE>
+    <VALUE Lang="id">ID kedua sudah digunakan. Silahkan gunakan ID lain.</VALUE>
+    <VALUE Lang="th">Duplicate 2nd ID, please use a different ID.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_18LESS_FAILED">
+    <VALUE Lang="id">Skip</VALUE>
+    <VALUE Lang="cn">Skip</VALUE>
+    <VALUE Lang="th">Skip</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_18LESS_TIME_FAILED">
+    <VALUE Lang="id">Skip</VALUE>
+    <VALUE Lang="cn">Skip</VALUE>
+    <VALUE Lang="th">Skip</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_18MORE_FAILED">
+    <VALUE Lang="cn">总离线时间必须累计超过5个小时以上才能再次登入。</VALUE>
+    <VALUE Lang="id">Total waktu offline harus lebih dari 5 jam sebelum login</VALUE>
+    <VALUE Lang="th">Total offline time must cumulative over than 5 hours before log in again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_2">
+    <VALUE Lang="id">Pilih server.</VALUE>
+    <VALUE Lang="cn">请选择所要连线的伺服器。</VALUE>
+    <VALUE Lang="th">Select a server to connect.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_3">
+    <VALUE Lang="id">Mau keluar dari game?</VALUE>
+    <VALUE Lang="cn">您要结束游戏吗？</VALUE>
+    <VALUE Lang="th">Do you want to quit the game?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_4">
+    <VALUE Lang="id">User ID tidak boleh menggunakan aksara khusus dan spasi.</VALUE>
+    <VALUE Lang="cn">使用者帐号不能包含特殊符号或空格。</VALUE>
+    <VALUE Lang="th">User ID can not include any special characters or blank spaces.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_5">
+    <VALUE Lang="id">Masukkan ID dan Password.</VALUE>
+    <VALUE Lang="cn">请输入帐号与密码。</VALUE>
+    <VALUE Lang="th">Please enter your ID and Password.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_6">
+    <VALUE Lang="id">Mohon tunggu sebentar.</VALUE>
+    <VALUE Lang="cn">正在确认使用者资料！</VALUE>
+    <VALUE Lang="cn">请稍候…</VALUE>
+    <VALUE Lang="th">Verifying user information!</VALUE>
+    <VALUE Lang="th">Please wait.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_8">
+    <VALUE Lang="id">Login gagal karena sistem eror.</VALUE>
+    <VALUE Lang="cn">因系统错误而登入​​失败！</VALUE>
+    <VALUE Lang="th">Failed to log in due to the system error.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_9">
+    <VALUE Lang="id">Masa berlaku yang diberbolehkan telah error.</VALUE>
+    <VALUE Lang="cn">许可的使用时间错误！</VALUE>
+    <VALUE Lang="th">Permitted usage time error!</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_ADULT_FAILED">
+    <VALUE Lang="id">Proses verifikasi umur telah gagal.</VALUE>
+    <VALUE Lang="cn">成人认证失败！</VALUE>
+    <VALUE Lang="th">Age verification failed.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_BLOCK">
+    <VALUE Lang="id">Account kena BANNED.</VALUE>
+    <VALUE Lang="id">Silahkan hubungi GM.</VALUE>
+    <VALUE Lang="cn">此帐号已遭锁定，请洽官网或联系客服中心查询。</VALUE>
+    <VALUE Lang="th">Account banned.</VALUE>
+    <VALUE Lang="th">Please contact GM.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_EXPIRED_USER">
+    <VALUE Lang="id">Sesi Login Selesai. Silahkan ulangi login sekali lagi.</VALUE>
+    <VALUE Lang="cn">超过认证期间！</VALUE>
+    <VALUE Lang="cn">请按'OK'，即可终止游戏。</VALUE>
+    <VALUE Lang="cn">请于网站上重新再试。</VALUE>
+    <VALUE Lang="th">Login session has expired.</VALUE>
+    <VALUE Lang="th">Press 'OK' to end the session.</VALUE>
+    <VALUE Lang="th">Please try to  login again in the website and then run the game again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_FULL">
+    <VALUE Lang="id">Silahkan coba beberapa saat lagi.</VALUE>
+    <VALUE Lang="cn">目前伺服器中的人数已超过上限。请稍后再连线。</VALUE>
+    <VALUE Lang="th">Server is experiencing heavy traffic. Please try again later.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_INVALID_LOGIN">
+    <VALUE Lang="id">Login Tidak Valid. Silahkan ulangi login sekali lagi.</VALUE>
+    <VALUE Lang="cn">登入失败！</VALUE>
+    <VALUE Lang="cn">请按'OK‘，即可终止游戏。</VALUE>
+    <VALUE Lang="cn">请重新再试。</VALUE>
+    <VALUE Lang="th">Invalid login.</VALUE>
+    <VALUE Lang="th">Press 'OK' to end the session.</VALUE>
+    <VALUE Lang="th">Please try to  login again in the website and then run the game again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_NOGID">
+    <VALUE Lang="id">Login Tidak Valid. Silahkan ulangi login sekali lagi.</VALUE>
+    <VALUE Lang="cn">登入失败！</VALUE>
+    <VALUE Lang="cn">请按'OK‘，即可终止游戏。</VALUE>
+    <VALUE Lang="cn">请重新再试。</VALUE>
+    <VALUE Lang="th">Invalid login.</VALUE>
+    <VALUE Lang="th">Press 'OK' to end the session.</VALUE>
+    <VALUE Lang="th">Please try to  login again in the website and then run the game again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_NOUID">
+    <VALUE Lang="id">Sesi Login Selesai. Silahkan ulangi login sekali lagi.</VALUE>
+    <VALUE Lang="cn">超过认证期间！</VALUE>
+    <VALUE Lang="cn">请按'OK'，即可终止游戏。</VALUE>
+    <VALUE Lang="cn">请于网站上重新再试。</VALUE>
+    <VALUE Lang="th">Login session has expired.</VALUE>
+    <VALUE Lang="th">Press 'OK' to end the session.</VALUE>
+    <VALUE Lang="th">Please try to  login again in the website and then run the game again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_RANDOM_PASS_FAILED">
+    <VALUE Lang="cn">密码卡的密码输入错误(或未输入)</VALUE>
+    <VALUE Lang="cn">请输入正确的密码</VALUE>
+    <VALUE Lang="id">Silahkan periksa sekali lagi.</VALUE>
+    <VALUE Lang="th">Second Pasword is wrong (Or empty).</VALUE>
+    <VALUE Lang="th">Please try again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_SSN_FAILED">
+    <VALUE Lang="id">Tekan 'Konfirmasi' untuk mengakhiri.</VALUE>
+    <VALUE Lang="cn">身分证字号不符！</VALUE>
+    <VALUE Lang="cn">请按'OK'后结束。</VALUE>
+    <VALUE Lang="th">Invalid identification number.</VALUE>
+    <VALUE Lang="th">Press 'OK' to end the session.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_UNKNOWN_FAILED">
+    <VALUE Lang="id">Info lebih lanjut, silahkan gunakan 1:1 inquiry.</VALUE>
+    <VALUE Lang="cn">该帐号目前为不明状态！</VALUE>
+    <VALUE Lang="cn">请至官方网站的问题回报处，向GM洽询。</VALUE>
+    <VALUE Lang="th">Account's status is currently unknown.</VALUE>
+    <VALUE Lang="th">Please contact GM.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC0">
+    <VALUE Lang="id">Kelas Extreme merupakan kelas yang benar - benar terlatih dengan sangat keras dan dominan. Hasilnya mereka sangatlah kuat dan dominan dalam pertarungan. Mereka dapat mengkombinasikan berbagai kelas skill yang mereka inginkan. Link skill adalah yang paling</VALUE>
+    <VALUE Lang="cn">利用觉醒研习各职业技能的终极部，以强化世界为目标。可以使用各职业的防具和武器。与其他职业相比之下，拥有2种特性：敏捷+力量、力量+精神、敏捷+精神等，可以发挥更强大的力量。终极部专用武器可以使用全部类型的技能。</VALUE>
+    <VALUE Lang="th">Extreme Class is consist of well-trained and prominent students who got their strength fervently powerful while having been trained for immense abilities to control the war in order to eradicate enemies. They can combine and utilize all the classes' skills dependent on what they want to be. Link skills are one of the most enormous and dominant features of Extreme Class.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC1">
+    <VALUE Lang="id">Kelas Swordsman adalah kelas yang berlatih paling keras dari semuanya. Mereka mengfokuskan diri di bagian tenaga dan pertahanan. Kelas ini adalah kelas dengan pertahanan paling tinggi yang membuat mereka selalu dibutuhkan di semua party sebagai barisan pa</VALUE>
+    <VALUE Lang="cn">剑道部角色善长近身战，拥有相当高的体力和攻击力。使用剑或是刀来战斗。根据使用的武器，剑道部角色会有不同类型的发展，并且使用不同的技能。</VALUE>
+    <VALUE Lang="th">Swordman students endure the most rigorous training, focused to develop great precision, strength and agility. Students from this Class have been welcomed because of the highest defense and diverse skills which make them formidable opponents in PVP and PVE. They aim for swift, clean, fatal strikes in battle.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC2">
+    <VALUE Lang="id">Kelas Archer adalah kelas dengan akurasi serangan tertinggi. Mereka menggabungkan skill untuk menghindar mereka dan menyerang musuh dengan kecepatan tinggi. Teman party paling cocok di game karena serangan jarak jauhnya yang mematikan. Mereka hampir tidak</VALUE>
+    <VALUE Lang="cn">弓箭部的角色虽然体力较少，但是擅长在远距离狙击敌人。根据角色所使用的武器（长弓与短弓），而细分为不同的类型。</VALUE>
+    <VALUE Lang="th">The true mark of Archery graduates is that they never miss their targets. Their skill with the bow is matchless, and their speed is supreme. Great allies in every battle, these students are the masters of long ranged combat. They are unstoppable once they let loose their arrows. Their superior evasion skills are their greatest defense.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC3">
+    <VALUE Lang="id">Kelas Brawler diajarkan untuk mengeksploitasi kekuatan tersembunyi yang ada di dalam tubuh mereka dan memanfaatkannya sebagai senjata utama. Hanya murid dengan point tertinggi di bagian tenaga dan penempatan yang dapat lulus di kelas ini. Brawlers merupak</VALUE>
+    <VALUE Lang="cn">格斗部角色使用各类格斗技能来进行战斗。根据其成长模式，可发展成使用气功，或是以拳脚见长的武斗家。</VALUE>
+    <VALUE Lang="th">Brawler students are taught to harness the latent power stored deep within their bodies as their greatest weapon. Only students that earned high scores in the strength and coordination tests qualify for this course since Brawlers have shunned all armed conflict and choose to embrace combat in its purest, basest form instead. They study to master the art of close range combat.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC4">
+    <VALUE Lang="id">Kelas Shaman menggunakan tenaga psikokinesis. Tugas mereka adalah membantu murid lain. Mereka dapat melemahkan musuh mereka dengan POW skill. Memberi buff yang berguna dengan DEX skill. Atau mensupport dengan INT skill. Kelas ini lumayan susah karena meru</VALUE>
+    <VALUE Lang="cn">气功部是由一群使用念力的学生组成的部门。扮演着阻止其他学生不正当行为和给予实质上协助的角色。运用力量弱化敌人的能力，利用敏捷给予队员Buff效果。精神力可直接治愈、和使用Buff。队伍中扮演的角色会随着学习的技能内容而变化，角色难易度属于中等以上。</VALUE>
+    <VALUE Lang="th">Shaman Class is composed of the students with psychokinetic power. They can help other students or prevent their misbehavior. They can weaken their enemies with POW skills and cast beneficial buff to party members using DEX skills. They also utilize INT skills for direct buff and cure. The Shaman Class has an intermediate difficulty or above since their role within the party is clearly distinguished by each skill composition.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC5">
+    <VALUE Lang="cn">比起让他们锻炼身体或是灵魂觉醒，崔博士反倒是透过这群利用科学特性进行强化的学生社团、枪的物质转换机、自己的科学知识来掌控。超能部根据使用的武器和技能共细分为化学、生物、物理3种。化学系可降低对方的能力、生物系可限制对方的行动或是解除解异常状态效果、物理系则是利用召唤兽进行强大的攻击。</VALUE>
+    <VALUE Lang="th">Science club is a squad of students who protect themselves with a special chemical weapon. Science club can be further classified into Physics Club, Chemistry Club, and Biology Club based on their weapon and skill type. Chemistry club students protect themselves by hindering enemy abilities, Biology club students can block enemy movement or dispel buffs, while Physics club can attack enemies with latest physics technologies.</VALUE>
+    <VALUE Lang="id">Science club adalah sekelompok pelajar yang melindungi diri mereka dengan alat kimia khusus berbentuk senjata api yang lebih cenderung memanfaatkan ilmu pengetahuan daripada menggunakan kekuatan spiritual maupun fisik biasa. Menurut jenis senjata dan skil</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC6">
+    <VALUE Lang="cn">混战时期，当有人身陷危机时，他们总是无声无息出现后消失，脸上始终带面纱和面具。发生异变和现实世界隔绝后，开始掩饰自己的身分。因为他们特殊的行为模式如同小说电影中出现的忍者，久而久之大家开始称他们为忍者。</VALUE>
+    <VALUE Lang="th">Cold hearted secret agents who had to become the darkness in order to fulfill their duties are the masters of many weapons but they specialize in the three rare weapons. Assassin divided into 3 types including Eliminator, Infiltrator and Rogue.</VALUE>
+    <VALUE Lang="id">Agen rahasia berhati dingin yang berubah menjadi agen kegelapan karena efek jahat. Mereka dapat menggunakan berbagai senjata, namun lebih memfokuskan diri kepada Eliminator, Infiltrator dan Rogue.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC7">
+    <VALUE Lang="cn">此学部集结了把魔术应用在战斗中的学生. 使用快捷的手法，各种各样的装置和戏法等不可思议的魔法来压制敌人. 以魔术箱，鞭子，魔术棒作为武器. 武器的不同会影响到使用的魔术类型，且技能很炫丽. 且有着不错的攻击力和不低的防御力. 在PVP/PVE造成混乱. 总体的玩法不单一，而且要求中上的控制手法.</VALUE>
+    <VALUE Lang="th">Magician Class is composed of the students who have developed their exclusive strength for battles from magic skills. Sleight-of-hand moves and a range of devices, tricks show how these incredibly clever students could suppress their enemies. The main items of magicians are Cubes, Whips, and Magic Wands. Battle style goes with a weapon type and the effects of them are just sleek and classy enough.</VALUE>
+    <VALUE Lang="id">Skip</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC8">
+    <VALUE Lang="cn">Skip</VALUE>
+    <VALUE Lang="th">Skip</VALUE>
+    <VALUE Lang="id">Skip</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_ERROR">
+    <VALUE Lang="id">Silahkan pilih kelas</VALUE>
+    <VALUE Lang="cn">请选择社团</VALUE>
+    <VALUE Lang="th">Please select a Class.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_SCHOOL_DEC0">
+    <VALUE Lang="id">Lokasi : Bagian Barat</VALUE>
+    <VALUE Lang="id">Sacred Gate adalah kampus pertama yang dibangun oleh Saint Foundation. Kampus ini terletak di bagian barat dari dunia RAN. Menawarkan infrastuktur untuk para murid shaman dan bela diri.</VALUE>
+    <VALUE Lang="cn">方位:位于西方</VALUE>
+    <VALUE Lang="cn">Sacred Gate Campus是圣财团的第一所特殊教育机关。有传闻说在学院的地下室正偷偷进行各种研究异世界的实验。</VALUE>
+    <VALUE Lang="th">Location: on the West</VALUE>
+    <VALUE Lang="th">Sacred Gate Campus is the first campus built by the Saint Foundation. Boasting Eastern infrastructures and designs, this campus is dedicated to Shaman and Martial arts research.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_SCHOOL_DEC1">
+    <VALUE Lang="id">Lokasi : Bagian Utara</VALUE>
+    <VALUE Lang="id">Mystic Peak adalah kampus kedua yang dibangun oleh Saint Foundation. Kampus ini terletak di bagian utara dari dunia RAN. Menawarkan akademi untuk seni dan penelitian alam.</VALUE>
+    <VALUE Lang="cn">方位:北方</VALUE>
+    <VALUE Lang="cn">Mystic Peak是圣财团的第三个特殊教育机关。与其他两个教育机关一起在四周组成结界，学生大都来自于上流社会的家庭，因此有着高雅的气质，被公开的称为艺术专科学校。</VALUE>
+    <VALUE Lang="th">Location: on the North</VALUE>
+    <VALUE Lang="th">Mystic Peak is the second campus built by the Saint Foundation and located in the northern region of RAN world. The atmosphere reflects the academy's dedication to the Arts and Natural Science.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_SCHOOL_DEC2">
+    <VALUE Lang="id">Lokasi : Bagian Selatan</VALUE>
+    <VALUE Lang="id">Phoenix adalah kampus ketiga yang dibangun oleh Saint Foundation. Kampus ini terletak di bagian selatan dari dunia RAN. Menawarkan teknologi untuk para ahli dan ilmuan.</VALUE>
+    <VALUE Lang="cn">方位：南方</VALUE>
+    <VALUE Lang="cn">Phoenix是圣财团的第二个特殊教育机关。外表上是理工专科学校，实际上教育内容与其他学校并无不同。学校被评为三个学校当中最不受拘束管理的学校。</VALUE>
+    <VALUE Lang="th">Location: on the South</VALUE>
+    <VALUE Lang="th">Phoenix is the third campus built by the Saint Foundation. The campus is located in the southern region of RAN world. Offers the engineers and scientists advanced technology.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_SCHOOL_ERROR">
+    <VALUE Lang="id">Silahkan pilih sekolah</VALUE>
+    <VALUE Lang="cn">请选择学院.</VALUE>
+    <VALUE Lang="th">Please select a Campus.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_SEX_ERROR">
+    <VALUE Lang="id">Silahkan pilih gender</VALUE>
+    <VALUE Lang="cn">请选择角色性别.</VALUE>
+    <VALUE Lang="th">Please select a Gender.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEW_CHAR_SELECT_STYLE_ERROR">
+    <VALUE Lang="id">Silahkan pilih style rambut dan muka</VALUE>
+    <VALUE Lang="cn">请选择脸型和发型.</VALUE>
+    <VALUE Lang="th">Please select the hair style and face type.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NEWCHAR_NAME_TOO_SHORT">
+    <VALUE Lang="id">Nama karakter terlalu singkat.</VALUE>
+    <VALUE Lang="cn">角色名称太短！</VALUE>
+    <VALUE Lang="th">Character's name is too short.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NOT_SELECT_COUNTRY">
+    <VALUE Lang="cn">请选择所属国家，否则无法进入游戏。</VALUE>
+    <VALUE Lang="th">Please select your country or you will be not allowed to access the game.</VALUE>
+    <VALUE Lang="id">Silahkan pilih negaramu atau kamu tidak dapat mengakses game.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGAMEMON_ERROR_AUTH_GAMEGUARD">
+    <VALUE Lang="id">File game guard telah rusak atau hilang. Silahkan instal ulang game guard.</VALUE>
+    <VALUE Lang="cn">GameGuard档案不存在；或有损坏。请再尝试安装GameGuard 的安装档。</VALUE>
+    <VALUE Lang="th">GameGuard file does not exist or might be corrupted. Please try to install GameGuard again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGAMEMON_ERROR_CRYPTOAPI">
+    <VALUE Lang="id">File sistem window telah rusak. Silahkan instal ulang internet explorer(IE).</VALUE>
+    <VALUE Lang="cn">Window的某部份系统档案受损。请重新安装浏览器IE（ Internet Explorer）。</VALUE>
+    <VALUE Lang="th">Window system files might be corrupted. Please try to install Internet Explorer (IE) again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGAMEMON_ERROR_DEFAULT">
+    <VALUE Lang="id">Terjadi error ketika game guard sedang dijalankan. Silahkan kirim semua file *.erl yang berada di dalam folder game guard ke Game2@inca.co.kr via email.</VALUE>
+    <VALUE Lang="cn">GameGuard执行时发现错误。请将游戏资料夹里的GameGuard资料夹中的*.erl档案随电子邮件附加寄到Game2@inca.co.kr信箱。</VALUE>
+    <VALUE Lang="th">Error occurred while running the GameGuard. Please send all *.erl files in the GameGuard folder to Game2@inca.co.kr via e-mail.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGAMEMON_ERROR_EXECUTE">
+    <VALUE Lang="id">Proses menjalankan game guard telah gagal. Silahkan instal ulang file setup game guard.</VALUE>
+    <VALUE Lang="cn">GameGuard执行失败。请重新执行GameGuard安装档。</VALUE>
+    <VALUE Lang="th">Failed to run GameGuard. Please try reinstalling GameGuard setup file.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGAMEMON_ERROR_EXIST">
+    <VALUE Lang="id">Game guard sedang dijalankan. Silahkan reboot komputer kemudian ulangi dari awal.</VALUE>
+    <VALUE Lang="cn">GameGuard执行中。稍等一会或是重新启动之后再执行。</VALUE>
+    <VALUE Lang="th">GameGuard is already running. Try to run the game later or after rebooting the computer.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGAMEMON_ERROR_GAME_EXIST">
+    <VALUE Lang="id">Terjadi duplikat sesi atau game guard sedang dijalankan. Silahkan keluar dari game dan ulangi lagi.</VALUE>
+    <VALUE Lang="cn">GameGuard已在执行中。结束游戏后；或是重新电脑开机后，再重新执行GameGuard。</VALUE>
+    <VALUE Lang="th">GameGuard is already running. Try to run the game later or after reboot the computer.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGAMEMON_ERROR_ILLEGAL_PRG">
+    <VALUE Lang="id">Telah ditemukan program ilegal . Silahkan matikan program yang tidak dibutuhkan dan ulangi game dari awal.</VALUE>
+    <VALUE Lang="cn">发现非法程式。请结束不需要的程式之后重新执行。</VALUE>
+    <VALUE Lang="th">Illegal program has been detected. Close all unnecessary programs and try again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGAMEMON_ERROR_INIT">
+    <VALUE Lang="id">Error inisialisasi game guard. Reboot komputer kemudian ulangi game dari awal atau matikan program lain yang mengganggu game.</VALUE>
+    <VALUE Lang="cn">GameGuard初始化发生错误。请重新启动后再执行；或是关闭可能会有冲突的程式之后，再进行执行。</VALUE>
+    <VALUE Lang="th">GameGuard initialization error. Please reboot and try to run again or close any programs that may have conflict with GameGuard.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGAMEMON_ERROR_NPSCAN">
+    <VALUE Lang="id">Pengambilan modul scanning virus dan hacking tool telah gagal. Memori komputer tidak cukup atau terinfeksi virus.</VALUE>
+    <VALUE Lang="cn">无法加载模组检查病毒和駭客工具。可能是记忆体不足或是感染了病毒。</VALUE>
+    <VALUE Lang="th">Failed to load the modules for checking viruses and hacking tools. Might be causes of insufficient system memory or virus infection.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGAMEMON_GAMEHACK_DETECT">
+    <VALUE Lang="id">Gamehack telah ditemukan.</VALUE>
+    <VALUE Lang="cn">发现Gamehack。</VALUE>
+    <VALUE Lang="th">Gamehack detected.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGAMEMON_GAMEHACK_DOUBT">
+    <VALUE Lang="id">File game atau game guard telah rusak.</VALUE>
+    <VALUE Lang="cn">游戏或GameGuard的文件损坏。</VALUE>
+    <VALUE Lang="th">Game or GameGuard file corrupted.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGAMEMON_GAMEHACK_KILLED">
+    <VALUE Lang="id">Gamehack telah ditemukan.</VALUE>
+    <VALUE Lang="cn">发现Gamehack。</VALUE>
+    <VALUE Lang="th">Gamehack detected.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGAMEMON_INIT_ERROR">
+    <VALUE Lang="id">Error inisialisasi game guard : %1%</VALUE>
+    <VALUE Lang="cn">GameGuard初始化错误 : %1%</VALUE>
+    <VALUE Lang="th">GameGuard initialization error: %1%.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGAMEMON_SPEEDHACK">
+    <VALUE Lang="id">Speedhack telah ditemukan.</VALUE>
+    <VALUE Lang="cn">发现Speedhack。</VALUE>
+    <VALUE Lang="th">Speedhack detected.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGMUP_ERROR_ABORT">
+    <VALUE Lang="id">Update game guard telah gagal. Silahkan cek koneksi internet atau firewall setting komputer Anda.</VALUE>
+    <VALUE Lang="cn">GameGuard升级取消。如果一直无法连线，请先调整网路或个人的防火墙设定。</VALUE>
+    <VALUE Lang="th">GameGuard update has stopped. Please check your internet connection or personal firewall settings.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGMUP_ERROR_AUTH">
+    <VALUE Lang="id">Update game guard tidak sempurna. Silahkan matikan sementara program Anti-Virus kemudian ulangi lagi atau cek setting program PC manager, apabila ada.</VALUE>
+    <VALUE Lang="cn">GameGuard改版升级无法完成。请先停止执行防毒程式后，再重新执行。或是调整PC管理程式设定后，再进行执行。</VALUE>
+    <VALUE Lang="th">Failed to complete GameGuard update. Please disable any anti virus and try to update again, or check the PC management programs setting.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="NPGMUP_ERROR_CONNECT">
+    <VALUE Lang="id">Koneksi server untuk update game guard telah gagal. Silahkan coba lagi atau cek firewall setting komputer Anda.</VALUE>
+    <VALUE Lang="cn">GameGuard改版(升级)伺服连线失败。稍等之后再重新执行。如果有个人防火墙，请调整个人防火墙设定之后再尝试。</VALUE>
+    <VALUE Lang="th">Failed to connect to GameGuard update server. Please try again later or check your personal firewall settings.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="RN_MAP_WINDOW_MONSTER_EXPLAIN">
+    <VALUE Lang="cn">点选右边按键画面，将显示至下一阶段前所剩怪物数量。</VALUE>
+    <VALUE Lang="th">우측의 돋보기 버튼을 클릭하시면 다음 레벨에 도달하기까지 남은 몬스터 수를 화면에 표시할 수 있습니다.</VALUE>
+    <VALUE Lang="id">우측의 돋보기 버튼을 클릭하시면 다음 레벨에 도달하기까지 남은 몬스터 수를 화면에 표시할 수 있습니다.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="RN_MAP_WINDOW_MONSTER_NORMAL">
+    <VALUE Lang="cn">虽然不是很强，不过最好不要同时攻击超过8只怪物。</VALUE>
+    <VALUE Lang="th">Not too strong. But don't fight with more than 8 mobs.</VALUE>
+    <VALUE Lang="id">Tidak terlalu kuat. Namun jangan melakukan mobbing lebih dari 8 monster.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="RN_MAP_WINDOW_MONSTER_STRONG">
+    <VALUE Lang="cn">非常强悍，很难同时攻击2只以上的怪物。</VALUE>
+    <VALUE Lang="th">Very strong. It's difficult to kill more than 2 mobs at once.</VALUE>
+    <VALUE Lang="id">Sangat kuat. Sulit untuk melakukan mobbing.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="RN_MAP_WINDOW_MONSTER_VERY_STRONG">
+    <VALUE Lang="cn">拥有最强的攻击力可以把你一次击倒。</VALUE>
+    <VALUE Lang="th">Strong enough to kill you in one hit.</VALUE>
+    <VALUE Lang="id">Cukup kuat untuk membunuh kamu dalam satu hit.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="RN_MAP_WINDOW_MONSTER_WEAK">
+    <VALUE Lang="cn">攻击力普通。可轻而易举同时攻击8只以上。</VALUE>
+    <VALUE Lang="th">Weak. It's easy to kill more than 8 mobs at once.</VALUE>
+    <VALUE Lang="id">Lemah. Mudah untuk membunuh 8 mobs bersamaan.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SECID_LENGTH_ERROR">
+    <VALUE Lang="cn">密码至少要6个字以上14个以下.</VALUE>
+    <VALUE Lang="id">Password terdiri dari 4-16 aksara.</VALUE>
+    <VALUE Lang="th">Password must be at least 4 characters and less than 16 characters.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SECPASS_CHECKPAGE_TEXT">
+    <VALUE Lang="id">Masukkan user ID dan password ke dua untuk setting informasi.</VALUE>
+    <VALUE Lang="cn">请输入ID和2次密码。</VALUE>
+    <VALUE Lang="cn">若忘记了第二道密码，请按下修正按钮。</VALUE>
+    <VALUE Lang="th">Please input your ID and 2nd password to login in the website.</VALUE>
+    <VALUE Lang="th">There is a button to modify if you lost your 2nd password.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SECPASS_EMPTY_ERROR">
+    <VALUE Lang="id">Masukkan Password.</VALUE>
+    <VALUE Lang="cn">请输入密码</VALUE>
+    <VALUE Lang="th">Please enter your password.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SECPASS_EQUAL_ERROR">
+    <VALUE Lang="cn">帐号和密码不可以相同</VALUE>
+    <VALUE Lang="id">User ID dan password tidak boleh sama.</VALUE>
+    <VALUE Lang="th">Password cannot be same with ID.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SECPASS_FIRST_NUMBER">
+    <VALUE Lang="cn">帐号和密码的第一个字不能使用数字</VALUE>
+    <VALUE Lang="id">User ID dan password tidak boleh diawali dengan angka.</VALUE>
+    <VALUE Lang="th">ID and password cannot begin with a number.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SECPASS_LENGTH_ERROR">
+    <VALUE Lang="id">Password terdiri dari 8-12 aksara.</VALUE>
+    <VALUE Lang="cn">密码必须是8位以上16位以下。</VALUE>
+    <VALUE Lang="th">Password must be at least 8 characters and less than 16 characters long.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SECPASS_NOTEQUAL_ERROR">
+    <VALUE Lang="id">Password yang Anda masukkan salah.</VALUE>
+    <VALUE Lang="cn">输入的密码错误</VALUE>
+    <VALUE Lang="th">Entered invalid password.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SECPASS_SETPAGE_TEXT">
+    <VALUE Lang="id">Masukkan password ke dua untuk setting informasi.</VALUE>
+    <VALUE Lang="cn">输入第2道密码以确认用户资讯。对于Ran Online来说，第二道密码是非常重要的资料。</VALUE>
+    <VALUE Lang="th">Please enter the 2nd password for identification.</VALUE>
+    <VALUE Lang="th">The 2nd password is very important infrormation for Ran Online Service.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELCET_CLUB_WINDOW_TITLE">
+    <VALUE Lang="cn">选择公会</VALUE>
+    <VALUE Lang="th">Please choose your club.</VALUE>
+    <VALUE Lang="id">Pilih Club kamu</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_AREA_STATIC">
+    <VALUE Lang="cn">请选择伺服器</VALUE>
+    <VALUE Lang="id">Pilih regional Anda.</VALUE>
+    <VALUE Lang="th">Please choose your connection area.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_CLUB_NOTIFY">
+    <VALUE Lang="cn">您可在游戏内更改您的公会</VALUE>
+    <VALUE Lang="th">You can change your club in the game.</VALUE>
+    <VALUE Lang="id">Kamu dapat merubah club di dalam game.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_CLUB_WINDOW_SELECT_CLUB_INFO_0">
+    <VALUE Lang="cn">成立时间 : %1%-%2%-%3%</VALUE>
+    <VALUE Lang="th">Date: %1%-%2%-%3%.</VALUE>
+    <VALUE Lang="id">Tanggal : %1%-%2%-%3%</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_CLUB_WINDOW_SELECT_CLUB_INFO_1">
+    <VALUE Lang="cn">公会成员 : %1%</VALUE>
+    <VALUE Lang="th">Members: %1%.</VALUE>
+    <VALUE Lang="id">Anggota : %1%</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TEXT_1">
+    <VALUE Lang="cn">您尚未选择所属的国家</VALUE>
+    <VALUE Lang="th">You still not yet choose your country.</VALUE>
+    <VALUE Lang="id">Kamu belum memilih negaramu.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TEXT_2">
+    <VALUE Lang="cn">确定要开始选择国家吗?</VALUE>
+    <VALUE Lang="th">Would you like to choose your country now?</VALUE>
+    <VALUE Lang="id">Apakah kamu mau memilih negaramu sekarang?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TEXT_3">
+    <VALUE Lang="cn">已选择 [%1%]</VALUE>
+    <VALUE Lang="th">[%1%] has been chosen.</VALUE>
+    <VALUE Lang="id">[%1%] telah dipilih.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TEXT_4">
+    <VALUE Lang="cn">完成国家的选择后，将无法重新变更。</VALUE>
+    <VALUE Lang="cn">确定您已完成国家的设定吗？</VALUE>
+    <VALUE Lang="th">In any case, the selected country can not be changed.</VALUE>
+    <VALUE Lang="th">Have you finished selecting your country?</VALUE>
+    <VALUE Lang="id">Apakah kamu telah selesai?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TEXT_5">
+    <VALUE Lang="cn">尚未加入公会</VALUE>
+    <VALUE Lang="th">You haven't yet join any club.</VALUE>
+    <VALUE Lang="id">Tidak ada Club</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TEXT_6">
+    <VALUE Lang="cn">参加世界锦标赛之前需先加入公会</VALUE>
+    <VALUE Lang="th">You have to joined club first before participate in the World Battle Tournament.</VALUE>
+    <VALUE Lang="id">Kamu harus bergabung dalam Club.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TEXT_6_1">
+    <VALUE Lang="cn">可选择加入已成立之公会。</VALUE>
+    <VALUE Lang="cn">要在游戏开始前先加入公会吗？</VALUE>
+    <VALUE Lang="th">There was already an exist club that can be joined.</VALUE>
+    <VALUE Lang="th">Would you like to join the club before you start the game?</VALUE>
+    <VALUE Lang="id">Apakah kamu mau bergabung dengan club sebelum memulai permainan?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TITLE">
+    <VALUE Lang="cn">世界战</VALUE>
+    <VALUE Lang="th">World Battle</VALUE>
+    <VALUE Lang="id">World Battle</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_WINDOW_COUNTRY_CLUB_COUNT">
+    <VALUE Lang="cn">公会：%1%</VALUE>
+    <VALUE Lang="th">Club: %1%.</VALUE>
+    <VALUE Lang="id">Club:%1%</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_WINDOW_COUNTRY_DESC">
+    <VALUE Lang="cn">国家：%1%. %2%</VALUE>
+    <VALUE Lang="th">Country: %1%. %2%.</VALUE>
+    <VALUE Lang="id">Negara:%1%. %2%</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_WINDOW_COUNTRY_NOTIFY">
+    <VALUE Lang="cn">注意！国家选定后无法再变更。</VALUE>
+    <VALUE Lang="th">Attention!! The selected country can not be changed.</VALUE>
+    <VALUE Lang="id">Attention!! The selected country can not be changed.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_WINDOW_COUNTRY_TOOLTIP">
+    <VALUE Lang="cn">国家：%1% 公会: %2%</VALUE>
+    <VALUE Lang="th">Country: %1%.  Club: %2%.</VALUE>
+    <VALUE Lang="id">Negara : %1%. Club: %2%</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_WINDOW_TITLE">
+    <VALUE Lang="cn">请选择您的国家</VALUE>
+    <VALUE Lang="th">Please select your country.</VALUE>
+    <VALUE Lang="id">Pilih negaramu</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SERVER_INFO_RECV_FAILED">
+    <VALUE Lang="id">Pengambilan daftar server telah gagal.</VALUE>
+    <VALUE Lang="cn">连接伺服器选单失败.</VALUE>
+    <VALUE Lang="th">Failed to connect to the server menu.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SERVERSTAGE_1">
+    <VALUE Lang="id">Pengambilan data dari server.</VALUE>
+    <VALUE Lang="cn">正在读取伺服器资料…</VALUE>
+    <VALUE Lang="th">Retrieving data from server...</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SERVERSTAGE_2">
+    <VALUE Lang="id">Pilih server.</VALUE>
+    <VALUE Lang="cn">请选择所要连线的伺服器。</VALUE>
+    <VALUE Lang="th">Select a server to connect.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SERVERSTAGE_3">
+    <VALUE Lang="id">Mau keluar dari game?</VALUE>
+    <VALUE Lang="cn">您要结束游戏吗？</VALUE>
+    <VALUE Lang="th">Do you want to quit the game?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SERVERSTAGE_4">
+    <VALUE Lang="id">Mau keluar dari game?</VALUE>
+    <VALUE Lang="cn">网路连结失败！</VALUE>
+    <VALUE Lang="cn">您要结束游戏吗？</VALUE>
+    <VALUE Lang="cn">如果您点击取消，将会继续进行重新连线。</VALUE>
+    <VALUE Lang="th">Network connection failed!</VALUE>
+    <VALUE Lang="th">Do you want to quit game?</VALUE>
+    <VALUE Lang="th">If you click cancel, you will be reconnect.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SERVERSTAGE_5">
+    <VALUE Lang="id">Koneksi server telah gagal!</VALUE>
+    <VALUE Lang="cn">伺服器连线失败！</VALUE>
+    <VALUE Lang="th">Server connection failed.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="TOURNAMENT_SYSTEM_MESSAGE">
+    <VALUE Lang="cn">已经参加了Toumarment.</VALUE>
+    <VALUE Lang="th">Already Participated in the Tournament.</VALUE>
+    <VALUE Lang="id">Sudah Berpartisipasi di Tournament.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="WAITSERVER_DEL_CHARACTER">
+    <VALUE Lang="id">Karakter akan dihapus.</VALUE>
+    <VALUE Lang="cn">角色即将删除</VALUE>
+    <VALUE Lang="th">Character will be deleted.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="WB_CHANGE_COUNTRY_FAIL">
+    <VALUE Lang="cn">您无法更改国家为%1%</VALUE>
+    <VALUE Lang="th">You can not change your country to %1%.</VALUE>
+    <VALUE Lang="id">Kamu tidak dapat mengganti negara menjadi %1%.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="WB_CHANGE_COUNTRY_SUCCESS">
+    <VALUE Lang="cn">所属国家已修改成功，成为 %1%。</VALUE>
+    <VALUE Lang="th">You have changed your country to %1%.</VALUE>
+    <VALUE Lang="id">%1% telah dirubah menjadi negaramu.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="WB_INPUT_MAKE_CLUB_NAME">
+    <VALUE Lang="cn">输入公会名称</VALUE>
+    <VALUE Lang="th">Please enter the club's name.</VALUE>
+    <VALUE Lang="id">Masukkan nama Club.</VALUE>
+  </SENTENSE>
+  <WORD Ver="1" Id="NEW_CHAR_SELECT_CLASS_NAME">
+    <VALUE Lang="id" Index="0">Extreme Class</VALUE>
+    <VALUE Lang="cn" Index="0">终极部</VALUE>
+    <VALUE Lang="th" Index="0">Extreme</VALUE>
+    <VALUE Lang="id" Index="1">Brawler</VALUE>
+    <VALUE Lang="cn" Index="1">格斗部</VALUE>
+    <VALUE Lang="th" Index="1">Brawler</VALUE>
+    <VALUE Lang="id" Index="2">Swordsman</VALUE>
+    <VALUE Lang="cn" Index="2">剑道部</VALUE>
+    <VALUE Lang="th" Index="2">Swordsman</VALUE>
+    <VALUE Lang="id" Index="3">Archer</VALUE>
+    <VALUE Lang="cn" Index="3">弓箭部</VALUE>
+    <VALUE Lang="th" Index="3">Archer</VALUE>
+    <VALUE Lang="id" Index="4">Shaman</VALUE>
+    <VALUE Lang="cn" Index="4">气功部</VALUE>
+    <VALUE Lang="th" Index="4">Shaman</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="NEW_CHAR_SELECT_PREV_BUTTON">
+    <VALUE Lang="id" Index="0">Sebelumnya</VALUE>
+    <VALUE Lang="cn" Index="0">下一步</VALUE>
+    <VALUE Lang="th" Index="0">Previous</VALUE>
+    <VALUE Lang="id" Index="1">Selanjutnya</VALUE>
+    <VALUE Lang="cn" Index="1">下一步</VALUE>
+    <VALUE Lang="th" Index="1">Next</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="NEW_CHAR_SELECT_SCHOOL_NAME">
+    <VALUE Lang="id" Index="0">Sacred Gate School</VALUE>
+    <VALUE Lang="cn" Index="0">圣门学院</VALUE>
+    <VALUE Lang="th" Index="0">Sacred Gate</VALUE>
+    <VALUE Lang="id" Index="1">Mystic Peak School</VALUE>
+    <VALUE Lang="cn" Index="1">玄岩学院</VALUE>
+    <VALUE Lang="th" Index="1">Mystic Peak</VALUE>
+    <VALUE Lang="id" Index="2">Phoenix School</VALUE>
+    <VALUE Lang="cn" Index="2">凤凰学院</VALUE>
+    <VALUE Lang="th" Index="2">Phoenix</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="NEW_CHAR_SELECT_SEX_NAME">
+    <VALUE Lang="id" Index="0">Laki-laki</VALUE>
+    <VALUE Lang="cn" Index="0">男生</VALUE>
+    <VALUE Lang="th" Index="0">Male</VALUE>
+    <VALUE Lang="id" Index="1">Perempuan</VALUE>
+    <VALUE Lang="cn" Index="1">女生</VALUE>
+    <VALUE Lang="th" Index="1">Female</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="NEW_CHAR_SELECT_STAGE_DEC">
+    <VALUE Lang="id" Index="0">* Silahkan pilih sekolah *</VALUE>
+    <VALUE Lang="cn" Index="0">*请选择学院*</VALUE>
+    <VALUE Lang="th" Index="0">Please select a Campus.</VALUE>
+    <VALUE Lang="id" Index="1">* Silahkan pilih gender *</VALUE>
+    <VALUE Lang="cn" Index="1">*请选择性别*</VALUE>
+    <VALUE Lang="th" Index="1">Please select a Gender.</VALUE>
+    <VALUE Lang="id" Index="2">* Silahkan pilih kelas *</VALUE>
+    <VALUE Lang="cn" Index="2">*请选择社团*</VALUE>
+    <VALUE Lang="th" Index="2">Please select a Class.</VALUE>
+    <VALUE Lang="id" Index="3">* Silahkan pilih style rambut dan muka *</VALUE>
+    <VALUE Lang="cn" Index="3">*请选择发型和脸型*</VALUE>
+    <VALUE Lang="th" Index="3">Please select the hair style and face type.</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="NEW_CHAR_SELECT_STAGE_TITLE">
+    <VALUE Lang="id" Index="0">Pilih sekolah</VALUE>
+    <VALUE Lang="cn" Index="0">选择学院</VALUE>
+    <VALUE Lang="th" Index="0">Please select a Campus.</VALUE>
+    <VALUE Lang="id" Index="1">Pilih gender</VALUE>
+    <VALUE Lang="cn" Index="1">选择性别</VALUE>
+    <VALUE Lang="th" Index="1">Please select a Gender.</VALUE>
+    <VALUE Lang="id" Index="2">Pilih kelas</VALUE>
+    <VALUE Lang="cn" Index="2">选择社团</VALUE>
+    <VALUE Lang="th" Index="2">Please select a Class.</VALUE>
+    <VALUE Lang="id" Index="3">Pilih style rambut &amp; muka</VALUE>
+    <VALUE Lang="cn" Index="3">选择发型&amp;脸型</VALUE>
+    <VALUE Lang="th" Index="3">Please select the hair style and face type.</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SERVER_CHANNEL">
+    <VALUE Lang="id" Index="0">Channel</VALUE>
+    <VALUE Lang="cn" Index="0">分流</VALUE>
+    <VALUE Lang="th" Index="0">Channel</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SERVER_NAME">
+    <VALUE Lang="id" Index="0">Ran Online</VALUE>
+    <VALUE Lang="cn" Index="0">伺服</VALUE>
+    <VALUE Lang="th" Index="0">Ran Online</VALUE>
+    <VALUE Lang="id" Index="1">Ran Online</VALUE>
+    <VALUE Lang="cn" Index="1">艾比用</VALUE>
+    <VALUE Lang="th" Index="1">Saint Server</VALUE>
+    <VALUE Lang="id" Index="2">Server Requiem</VALUE>
+    <VALUE Lang="cn" Index="2">艾比用</VALUE>
+    <VALUE Lang="th" Index="2">Requiem</VALUE>
+    <VALUE Lang="id" Index="3">艾比用</VALUE>
+    <VALUE Lang="cn" Index="3">艾比用</VALUE>
+    <VALUE Lang="th" Index="3">Server 3</VALUE>
+    <VALUE Lang="id" Index="4">Server 4</VALUE>
+    <VALUE Lang="cn" Index="4">艾比用</VALUE>
+    <VALUE Lang="th" Index="4">Server 4</VALUE>
+    <VALUE Lang="id" Index="5">Server 5</VALUE>
+    <VALUE Lang="cn" Index="5">艾比用</VALUE>
+    <VALUE Lang="th" Index="5">Server 5</VALUE>
+    <VALUE Lang="id" Index="6">Server 6</VALUE>
+    <VALUE Lang="cn" Index="6">艾比用</VALUE>
+    <VALUE Lang="th" Index="6">Server 6</VALUE>
+    <VALUE Lang="id" Index="7">Server 7</VALUE>
+    <VALUE Lang="cn" Index="7">伺服 7</VALUE>
+    <VALUE Lang="th" Index="7">Server 7</VALUE>
+    <VALUE Lang="id" Index="8">Server 8</VALUE>
+    <VALUE Lang="cn" Index="8">伺服 8</VALUE>
+    <VALUE Lang="th" Index="8">Server 8</VALUE>
+    <VALUE Lang="id" Index="9">Server 9</VALUE>
+    <VALUE Lang="cn" Index="9">伺服 9</VALUE>
+    <VALUE Lang="th" Index="9">Server 9</VALUE>
+    <VALUE Lang="cn" Index="10">Skip</VALUE>
+    <VALUE Lang="th" Index="10">Skip</VALUE>
+    <VALUE Lang="id" Index="10">Skip</VALUE>
+    <VALUE Lang="cn" Index="11">Skip</VALUE>
+    <VALUE Lang="th" Index="11">Skip</VALUE>
+    <VALUE Lang="id" Index="11">Skip</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SERVER_PK">
+    <VALUE Lang="id" Index="0">[PK]</VALUE>
+    <VALUE Lang="cn" Index="0">[PK]</VALUE>
+    <VALUE Lang="th" Index="0">[PK]</VALUE>
+  </WORD>
+</TEXT>

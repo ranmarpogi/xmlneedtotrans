@@ -1,0 +1,2267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEXT>
+  <WORD Ver="1" Id="ACTIVITY_CATEGORY">
+    <VALUE Lang="th" Index="0">Reach Level</VALUE>
+    <VALUE Lang="th" Index="1">Destroy the Activity</VALUE>
+    <VALUE Lang="th" Index="2">Current Activity</VALUE>
+    <VALUE Lang="th" Index="3">Explore the Activity</VALUE>
+    <VALUE Lang="th" Index="4">Consumption Activity</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ACTIVITY_CLASS">
+    <VALUE Lang="th" Index="0">Easy Activity</VALUE>
+    <VALUE Lang="th" Index="1">Normal Activity</VALUE>
+    <VALUE Lang="th" Index="2">Advanced Activity</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ACTIVITY_MID">
+    <VALUE Lang="th" Index="0">Level Achievement</VALUE>
+    <VALUE Lang="th" Index="1">Monster Kill</VALUE>
+    <VALUE Lang="th" Index="2">Player Kill</VALUE>
+    <VALUE Lang="th" Index="3">Approached Map</VALUE>
+    <VALUE Lang="th" Index="4">TakeItem</VALUE>
+    <VALUE Lang="th" Index="5">UseItem</VALUE>
+    <VALUE Lang="th" Index="6">AchieveActivity</VALUE>
+    <VALUE Lang="th" Index="7">CompleteQuest</VALUE>
+    <VALUE Lang="th" Index="8">Activitity Point</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ACTIVITY_NOTIFY">
+    <VALUE Lang="th" Index="0">No</VALUE>
+    <VALUE Lang="th" Index="1">Around</VALUE>
+    <VALUE Lang="th" Index="2">AllServer</VALUE>
+    <VALUE Lang="th" Index="3">Club</VALUE>
+    <VALUE Lang="th" Index="4">ClubAround</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ADDON_NO">
+    <VALUE Lang="th" Index="0">0</VALUE>
+    <VALUE Lang="th" Index="1">1</VALUE>
+    <VALUE Lang="th" Index="2">2</VALUE>
+    <VALUE Lang="th" Index="3">3</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ANI_MAINTYPE">
+    <VALUE Lang="th" Index="0">Rest</VALUE>
+    <VALUE Lang="th" Index="1">Walk</VALUE>
+    <VALUE Lang="th" Index="2">Jog</VALUE>
+    <VALUE Lang="th" Index="3">Attack</VALUE>
+    <VALUE Lang="th" Index="4">Damage</VALUE>
+    <VALUE Lang="th" Index="5">Down</VALUE>
+    <VALUE Lang="th" Index="6">Produce</VALUE>
+    <VALUE Lang="th" Index="7">Dialogue</VALUE>
+    <VALUE Lang="th" Index="8">Skill</VALUE>
+    <VALUE Lang="th" Index="9">Action</VALUE>
+    <VALUE Lang="th" Index="10">Damage[MIX]</VALUE>
+    <VALUE Lang="th" Index="11">Insufficient SP</VALUE>
+    <VALUE Lang="th" Index="12">Duel Winner</VALUE>
+    <VALUE Lang="th" Index="13">Duel Looser</VALUE>
+    <VALUE Lang="th" Index="14">Special</VALUE>
+    <VALUE Lang="th" Index="15">SKILL-B</VALUE>
+    <VALUE Lang="th" Index="16">SKILL-C</VALUE>
+    <VALUE Lang="th" Index="17">SKILL-D</VALUE>
+    <VALUE Lang="th" Index="18">SKILL-E</VALUE>
+    <VALUE Lang="th" Index="19">Pickingm</VALUE>
+    <VALUE Lang="th" Index="20">BIKE_A</VALUE>
+    <VALUE Lang="th" Index="21">BIKE_B</VALUE>
+    <VALUE Lang="th" Index="22">BIKE_C</VALUE>
+    <VALUE Lang="th" Index="23">BIKE_EV1</VALUE>
+    <VALUE Lang="th" Index="24">Flight</VALUE>
+    <VALUE Lang="th" Index="25">SKILL-F</VALUE>
+    <VALUE Lang="th" Index="26">Skill-G</VALUE>
+    <VALUE Lang="th" Index="27">Skill-H</VALUE>
+    <VALUE Lang="th" Index="28">Car</VALUE>
+    <VALUE Lang="th" Index="29">Rear Car</VALUE>
+    <VALUE Lang="th" Index="30">-----TEMP-----</VALUE>
+    <VALUE Lang="th" Index="31">-----TEMP-----</VALUE>
+    <VALUE Lang="th" Index="32">-----TEMP-----</VALUE>
+    <VALUE Lang="th" Index="33">-----TEMP-----</VALUE>
+    <VALUE Lang="th" Index="34">-----TEMP-----</VALUE>
+    <VALUE Lang="th" Index="35">-----TEMP-----</VALUE>
+    <VALUE Lang="th" Index="37">--TEMP--</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ANI_SUBTYPE">
+    <VALUE Lang="th" Index="0">00 Empty-handed</VALUE>
+    <VALUE Lang="th" Index="1">01 Single-handed Sword</VALUE>
+    <VALUE Lang="th" Index="2">02 Both hands Swords</VALUE>
+    <VALUE Lang="th" Index="3">03 Double Dagger</VALUE>
+    <VALUE Lang="th" Index="4">04 Dagger</VALUE>
+    <VALUE Lang="th" Index="5">05 Spear</VALUE>
+    <VALUE Lang="th" Index="6">06 Bow</VALUE>
+    <VALUE Lang="th" Index="7">07 Throw</VALUE>
+    <VALUE Lang="th" Index="8">08 Magic</VALUE>
+    <VALUE Lang="th" Index="9">09 Both Handed Swords Formation</VALUE>
+    <VALUE Lang="th" Index="10">10 Villian</VALUE>
+    <VALUE Lang="th" Index="11">11 Single-handed knife</VALUE>
+    <VALUE Lang="th" Index="12">12 Both Handed Knife</VALUE>
+    <VALUE Lang="th" Index="13">13 Both Handed Knife Formation</VALUE>
+    <VALUE Lang="th" Index="14">14 Double Wield</VALUE>
+    <VALUE Lang="th" Index="15">15 Fist Style</VALUE>
+    <VALUE Lang="th" Index="16">16broom</VALUE>
+    <VALUE Lang="th" Index="17">17 Hover Board</VALUE>
+    <VALUE Lang="th" Index="18">SUB_18</VALUE>
+    <VALUE Lang="th" Index="19">SUB_19</VALUE>
+    <VALUE Lang="th" Index="20">SUB_20</VALUE>
+    <VALUE Lang="th" Index="21">SUB_21</VALUE>
+    <VALUE Lang="th" Index="22">SUB_22</VALUE>
+    <VALUE Lang="th" Index="23">SUB_23</VALUE>
+    <VALUE Lang="th" Index="24">SUB_24</VALUE>
+    <VALUE Lang="th" Index="25">SUB_25</VALUE>
+    <VALUE Lang="th" Index="26">SUB_26</VALUE>
+    <VALUE Lang="th" Index="27">SUB_27</VALUE>
+    <VALUE Lang="th" Index="28">SUB_28</VALUE>
+    <VALUE Lang="th" Index="29">SUB_29</VALUE>
+    <VALUE Lang="th" Index="30">SUB_30</VALUE>
+    <VALUE Lang="th" Index="31">SUB_31</VALUE>
+    <VALUE Lang="th" Index="32">SUB_32</VALUE>
+    <VALUE Lang="th" Index="33">SUB_33</VALUE>
+    <VALUE Lang="th" Index="34">SUB_34</VALUE>
+    <VALUE Lang="th" Index="35">SUB_35</VALUE>
+    <VALUE Lang="th" Index="36">SUB_36</VALUE>
+    <VALUE Lang="th" Index="37">SUB_37</VALUE>
+    <VALUE Lang="th" Index="38">SUB_38</VALUE>
+    <VALUE Lang="th" Index="39">SUB_39</VALUE>
+    <VALUE Lang="th" Index="40">SUB_40</VALUE>
+    <VALUE Lang="th" Index="41">SUB_41</VALUE>
+    <VALUE Lang="th" Index="42">SUB_42</VALUE>
+    <VALUE Lang="th" Index="43">SUB_43</VALUE>
+    <VALUE Lang="th" Index="44">SUB_44</VALUE>
+    <VALUE Lang="th" Index="45">SUB_45</VALUE>
+    <VALUE Lang="th" Index="46">SUB_46</VALUE>
+    <VALUE Lang="th" Index="47">SUB_47</VALUE>
+    <VALUE Lang="th" Index="48">SUB_48</VALUE>
+    <VALUE Lang="th" Index="49">SUB_49</VALUE>
+    <VALUE Lang="th" Index="50">SUB_50</VALUE>
+    <VALUE Lang="th" Index="51">SUB_51</VALUE>
+    <VALUE Lang="th" Index="52">SUB_52</VALUE>
+    <VALUE Lang="th" Index="53">SUB_53</VALUE>
+    <VALUE Lang="th" Index="54">SUB_54</VALUE>
+    <VALUE Lang="th" Index="55">SUB_55</VALUE>
+    <VALUE Lang="th" Index="56">SUB_56</VALUE>
+    <VALUE Lang="th" Index="57">SUB_57</VALUE>
+    <VALUE Lang="th" Index="58">SUB_58</VALUE>
+    <VALUE Lang="th" Index="59">SUB_59</VALUE>
+    <VALUE Lang="th" Index="60">SUB_60</VALUE>
+    <VALUE Lang="th" Index="61">SUB_61</VALUE>
+    <VALUE Lang="th" Index="62">SUB_62</VALUE>
+    <VALUE Lang="th" Index="63">SUB_63</VALUE>
+    <VALUE Lang="th" Index="64">SUB_64</VALUE>
+    <VALUE Lang="th" Index="65">SUB_65</VALUE>
+    <VALUE Lang="th" Index="66">SUB_66</VALUE>
+    <VALUE Lang="th" Index="67">SUB_67</VALUE>
+    <VALUE Lang="th" Index="68">SUB_68</VALUE>
+    <VALUE Lang="th" Index="69">SUB_69</VALUE>
+    <VALUE Lang="th" Index="70">SUB_70</VALUE>
+    <VALUE Lang="th" Index="71">SUB_71</VALUE>
+    <VALUE Lang="th" Index="72">SUB_72</VALUE>
+    <VALUE Lang="th" Index="73">SUB_73</VALUE>
+    <VALUE Lang="th" Index="74">SUB_74</VALUE>
+    <VALUE Lang="th" Index="75">SUB_75</VALUE>
+    <VALUE Lang="th" Index="76">SUB_76</VALUE>
+    <VALUE Lang="th" Index="77">SUB_77</VALUE>
+    <VALUE Lang="th" Index="78">SUB_78</VALUE>
+    <VALUE Lang="th" Index="79">SUB_79</VALUE>
+    <VALUE Lang="th" Index="80">SUB_80</VALUE>
+    <VALUE Lang="th" Index="81">SUB_81</VALUE>
+    <VALUE Lang="th" Index="82">SUB_82</VALUE>
+    <VALUE Lang="th" Index="83">SUB_83</VALUE>
+    <VALUE Lang="th" Index="84">SUB_84</VALUE>
+    <VALUE Lang="th" Index="85">SUB_85</VALUE>
+    <VALUE Lang="th" Index="86">SUB_86</VALUE>
+    <VALUE Lang="th" Index="87">SUB_87</VALUE>
+    <VALUE Lang="th" Index="88">SUB_88</VALUE>
+    <VALUE Lang="th" Index="89">SUB_89</VALUE>
+    <VALUE Lang="th" Index="90">SUB_90</VALUE>
+    <VALUE Lang="th" Index="91">SUB_91</VALUE>
+    <VALUE Lang="th" Index="92">SUB_92</VALUE>
+    <VALUE Lang="th" Index="93">SUB_93</VALUE>
+    <VALUE Lang="th" Index="94">SUB_94</VALUE>
+    <VALUE Lang="th" Index="95">SUB_95</VALUE>
+    <VALUE Lang="th" Index="96">SUB_96</VALUE>
+    <VALUE Lang="th" Index="97">SUB_97</VALUE>
+    <VALUE Lang="th" Index="98">SUB_98</VALUE>
+    <VALUE Lang="th" Index="99">SUB_99</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ANI_SUBTYPE_00">
+    <VALUE Lang="th" Index="0">SUB_00</VALUE>
+    <VALUE Lang="th" Index="1">SUB_01</VALUE>
+    <VALUE Lang="th" Index="2">SUB_02</VALUE>
+    <VALUE Lang="th" Index="3">SUB_03</VALUE>
+    <VALUE Lang="th" Index="4">SUB_04</VALUE>
+    <VALUE Lang="th" Index="5">SUB_05</VALUE>
+    <VALUE Lang="th" Index="6">SUB_06</VALUE>
+    <VALUE Lang="th" Index="7">SUB_07</VALUE>
+    <VALUE Lang="th" Index="8">SUB_08</VALUE>
+    <VALUE Lang="th" Index="9">SUB_09</VALUE>
+    <VALUE Lang="th" Index="10">SUB_10</VALUE>
+    <VALUE Lang="th" Index="11">SUB_11</VALUE>
+    <VALUE Lang="th" Index="12">SUB_12</VALUE>
+    <VALUE Lang="th" Index="13">SUB_13</VALUE>
+    <VALUE Lang="th" Index="14">SUB_14</VALUE>
+    <VALUE Lang="th" Index="15">SUB_15</VALUE>
+    <VALUE Lang="th" Index="16">SUB_16</VALUE>
+    <VALUE Lang="th" Index="17">SUB_17</VALUE>
+    <VALUE Lang="th" Index="18">SUB_18</VALUE>
+    <VALUE Lang="th" Index="19">SUB_19</VALUE>
+    <VALUE Lang="th" Index="20">SUB_20</VALUE>
+    <VALUE Lang="th" Index="21">SUB_21</VALUE>
+    <VALUE Lang="th" Index="22">SUB_22</VALUE>
+    <VALUE Lang="th" Index="23">SUB_23</VALUE>
+    <VALUE Lang="th" Index="24">SUB_24</VALUE>
+    <VALUE Lang="th" Index="25">SUB_25</VALUE>
+    <VALUE Lang="th" Index="26">SUB_26</VALUE>
+    <VALUE Lang="th" Index="27">SUB_27</VALUE>
+    <VALUE Lang="th" Index="28">SUB_28</VALUE>
+    <VALUE Lang="th" Index="29">SUB_29</VALUE>
+    <VALUE Lang="th" Index="30">SUB_30</VALUE>
+    <VALUE Lang="th" Index="31">SUB_31</VALUE>
+    <VALUE Lang="th" Index="32">SUB_32</VALUE>
+    <VALUE Lang="th" Index="33">SUB_33</VALUE>
+    <VALUE Lang="th" Index="34">SUB_34</VALUE>
+    <VALUE Lang="th" Index="35">SUB_35</VALUE>
+    <VALUE Lang="th" Index="36">SUB_36</VALUE>
+    <VALUE Lang="th" Index="37">SUB_37</VALUE>
+    <VALUE Lang="th" Index="38">SUB_38</VALUE>
+    <VALUE Lang="th" Index="39">SUB_39</VALUE>
+    <VALUE Lang="th" Index="40">SUB_40</VALUE>
+    <VALUE Lang="th" Index="41">SUB_41</VALUE>
+    <VALUE Lang="th" Index="42">SUB_42</VALUE>
+    <VALUE Lang="th" Index="43">SUB_43</VALUE>
+    <VALUE Lang="th" Index="44">SUB_44</VALUE>
+    <VALUE Lang="th" Index="45">SUB_45</VALUE>
+    <VALUE Lang="th" Index="46">SUB_46</VALUE>
+    <VALUE Lang="th" Index="47">SUB_47</VALUE>
+    <VALUE Lang="th" Index="48">SUB_48</VALUE>
+    <VALUE Lang="th" Index="49">SUB_49</VALUE>
+    <VALUE Lang="th" Index="50">SUB_50</VALUE>
+    <VALUE Lang="th" Index="51">SUB_51</VALUE>
+    <VALUE Lang="th" Index="52">SUB_52</VALUE>
+    <VALUE Lang="th" Index="53">SUB_53</VALUE>
+    <VALUE Lang="th" Index="54">SUB_54</VALUE>
+    <VALUE Lang="th" Index="55">SUB_55</VALUE>
+    <VALUE Lang="th" Index="56">SUB_56</VALUE>
+    <VALUE Lang="th" Index="57">SUB_57</VALUE>
+    <VALUE Lang="th" Index="58">SUB_58</VALUE>
+    <VALUE Lang="th" Index="59">SUB_59</VALUE>
+    <VALUE Lang="th" Index="60">SUB_60</VALUE>
+    <VALUE Lang="th" Index="61">SUB_61</VALUE>
+    <VALUE Lang="th" Index="62">SUB_62</VALUE>
+    <VALUE Lang="th" Index="63">SUB_63</VALUE>
+    <VALUE Lang="th" Index="64">SUB_64</VALUE>
+    <VALUE Lang="th" Index="65">SUB_65</VALUE>
+    <VALUE Lang="th" Index="66">SUB_66</VALUE>
+    <VALUE Lang="th" Index="67">SUB_67</VALUE>
+    <VALUE Lang="th" Index="68">SUB_68</VALUE>
+    <VALUE Lang="th" Index="69">SUB_69</VALUE>
+    <VALUE Lang="th" Index="70">SUB_70</VALUE>
+    <VALUE Lang="th" Index="71">SUB_71</VALUE>
+    <VALUE Lang="th" Index="72">SUB_72</VALUE>
+    <VALUE Lang="th" Index="73">SUB_73</VALUE>
+    <VALUE Lang="th" Index="74">SUB_74</VALUE>
+    <VALUE Lang="th" Index="75">SUB_75</VALUE>
+    <VALUE Lang="th" Index="76">SUB_76</VALUE>
+    <VALUE Lang="th" Index="77">SUB_77</VALUE>
+    <VALUE Lang="th" Index="78">SUB_78</VALUE>
+    <VALUE Lang="th" Index="79">SUB_79</VALUE>
+    <VALUE Lang="th" Index="80">SUB_80</VALUE>
+    <VALUE Lang="th" Index="81">SUB_81</VALUE>
+    <VALUE Lang="th" Index="82">SUB_82</VALUE>
+    <VALUE Lang="th" Index="83">SUB_83</VALUE>
+    <VALUE Lang="th" Index="84">SUB_84</VALUE>
+    <VALUE Lang="th" Index="85">SUB_85</VALUE>
+    <VALUE Lang="th" Index="86">SUB_86</VALUE>
+    <VALUE Lang="th" Index="87">SUB_87</VALUE>
+    <VALUE Lang="th" Index="88">SUB_88</VALUE>
+    <VALUE Lang="th" Index="89">SUB_89</VALUE>
+    <VALUE Lang="th" Index="90">SUB_90</VALUE>
+    <VALUE Lang="th" Index="91">SUB_91</VALUE>
+    <VALUE Lang="th" Index="92">SUB_92</VALUE>
+    <VALUE Lang="th" Index="93">SUB_93</VALUE>
+    <VALUE Lang="th" Index="94">SUB_94</VALUE>
+    <VALUE Lang="th" Index="95">SUB_95</VALUE>
+    <VALUE Lang="th" Index="96">SUB_96</VALUE>
+    <VALUE Lang="th" Index="97">SUB_97</VALUE>
+    <VALUE Lang="th" Index="98">SUB_98</VALUE>
+    <VALUE Lang="th" Index="99">SUB_99</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ANI_SUBTYPE_01">
+    <VALUE Lang="th" Index="0">Success</VALUE>
+    <VALUE Lang="th" Index="1">Failure</VALUE>
+    <VALUE Lang="th" Index="2">SUB_02</VALUE>
+    <VALUE Lang="th" Index="3">SUB_03</VALUE>
+    <VALUE Lang="th" Index="4">SUB_04</VALUE>
+    <VALUE Lang="th" Index="5">SUB_05</VALUE>
+    <VALUE Lang="th" Index="6">SUB_06</VALUE>
+    <VALUE Lang="th" Index="7">SUB_07</VALUE>
+    <VALUE Lang="th" Index="8">SUB_08</VALUE>
+    <VALUE Lang="th" Index="9">SUB_09</VALUE>
+    <VALUE Lang="th" Index="10">SUB_10</VALUE>
+    <VALUE Lang="th" Index="11">SUB_11</VALUE>
+    <VALUE Lang="th" Index="12">SUB_12</VALUE>
+    <VALUE Lang="th" Index="13">SUB_13</VALUE>
+    <VALUE Lang="th" Index="14">SUB_14</VALUE>
+    <VALUE Lang="th" Index="15">SUB_15</VALUE>
+    <VALUE Lang="th" Index="16">SUB_16</VALUE>
+    <VALUE Lang="th" Index="17">SUB_17</VALUE>
+    <VALUE Lang="th" Index="18">SUB_18</VALUE>
+    <VALUE Lang="th" Index="19">SUB_19</VALUE>
+    <VALUE Lang="th" Index="20">SUB_20</VALUE>
+    <VALUE Lang="th" Index="21">SUB_21</VALUE>
+    <VALUE Lang="th" Index="22">SUB_22</VALUE>
+    <VALUE Lang="th" Index="23">SUB_23</VALUE>
+    <VALUE Lang="th" Index="24">SUB_24</VALUE>
+    <VALUE Lang="th" Index="25">SUB_25</VALUE>
+    <VALUE Lang="th" Index="26">SUB_26</VALUE>
+    <VALUE Lang="th" Index="27">SUB_27</VALUE>
+    <VALUE Lang="th" Index="28">SUB_28</VALUE>
+    <VALUE Lang="th" Index="29">SUB_29</VALUE>
+    <VALUE Lang="th" Index="30">SUB_30</VALUE>
+    <VALUE Lang="th" Index="31">SUB_31</VALUE>
+    <VALUE Lang="th" Index="32">SUB_32</VALUE>
+    <VALUE Lang="th" Index="33">SUB_33</VALUE>
+    <VALUE Lang="th" Index="34">SUB_34</VALUE>
+    <VALUE Lang="th" Index="35">SUB_35</VALUE>
+    <VALUE Lang="th" Index="36">SUB_36</VALUE>
+    <VALUE Lang="th" Index="37">SUB_37</VALUE>
+    <VALUE Lang="th" Index="38">SUB_38</VALUE>
+    <VALUE Lang="th" Index="39">SUB_39</VALUE>
+    <VALUE Lang="th" Index="40">SUB_40</VALUE>
+    <VALUE Lang="th" Index="41">SUB_41</VALUE>
+    <VALUE Lang="th" Index="42">SUB_42</VALUE>
+    <VALUE Lang="th" Index="43">SUB_43</VALUE>
+    <VALUE Lang="th" Index="44">SUB_44</VALUE>
+    <VALUE Lang="th" Index="45">SUB_45</VALUE>
+    <VALUE Lang="th" Index="46">SUB_46</VALUE>
+    <VALUE Lang="th" Index="47">SUB_47</VALUE>
+    <VALUE Lang="th" Index="48">SUB_48</VALUE>
+    <VALUE Lang="th" Index="49">SUB_49</VALUE>
+    <VALUE Lang="th" Index="50">SUB_50</VALUE>
+    <VALUE Lang="th" Index="51">SUB_51</VALUE>
+    <VALUE Lang="th" Index="52">SUB_52</VALUE>
+    <VALUE Lang="th" Index="53">SUB_53</VALUE>
+    <VALUE Lang="th" Index="54">SUB_54</VALUE>
+    <VALUE Lang="th" Index="55">SUB_55</VALUE>
+    <VALUE Lang="th" Index="56">SUB_56</VALUE>
+    <VALUE Lang="th" Index="57">SUB_57</VALUE>
+    <VALUE Lang="th" Index="58">SUB_58</VALUE>
+    <VALUE Lang="th" Index="59">SUB_59</VALUE>
+    <VALUE Lang="th" Index="60">SUB_60</VALUE>
+    <VALUE Lang="th" Index="61">SUB_61</VALUE>
+    <VALUE Lang="th" Index="62">SUB_62</VALUE>
+    <VALUE Lang="th" Index="63">SUB_63</VALUE>
+    <VALUE Lang="th" Index="64">SUB_64</VALUE>
+    <VALUE Lang="th" Index="65">SUB_65</VALUE>
+    <VALUE Lang="th" Index="66">SUB_66</VALUE>
+    <VALUE Lang="th" Index="67">SUB_67</VALUE>
+    <VALUE Lang="th" Index="68">SUB_68</VALUE>
+    <VALUE Lang="th" Index="69">SUB_69</VALUE>
+    <VALUE Lang="th" Index="70">SUB_70</VALUE>
+    <VALUE Lang="th" Index="71">SUB_71</VALUE>
+    <VALUE Lang="th" Index="72">SUB_72</VALUE>
+    <VALUE Lang="th" Index="73">SUB_73</VALUE>
+    <VALUE Lang="th" Index="74">SUB_74</VALUE>
+    <VALUE Lang="th" Index="75">SUB_75</VALUE>
+    <VALUE Lang="th" Index="76">SUB_76</VALUE>
+    <VALUE Lang="th" Index="77">SUB_77</VALUE>
+    <VALUE Lang="th" Index="78">SUB_78</VALUE>
+    <VALUE Lang="th" Index="79">SUB_79</VALUE>
+    <VALUE Lang="th" Index="80">SUB_80</VALUE>
+    <VALUE Lang="th" Index="81">SUB_81</VALUE>
+    <VALUE Lang="th" Index="82">SUB_82</VALUE>
+    <VALUE Lang="th" Index="83">SUB_83</VALUE>
+    <VALUE Lang="th" Index="84">SUB_84</VALUE>
+    <VALUE Lang="th" Index="85">SUB_85</VALUE>
+    <VALUE Lang="th" Index="86">SUB_86</VALUE>
+    <VALUE Lang="th" Index="87">SUB_87</VALUE>
+    <VALUE Lang="th" Index="88">SUB_88</VALUE>
+    <VALUE Lang="th" Index="89">SUB_89</VALUE>
+    <VALUE Lang="th" Index="90">SUB_90</VALUE>
+    <VALUE Lang="th" Index="91">SUB_91</VALUE>
+    <VALUE Lang="th" Index="92">SUB_92</VALUE>
+    <VALUE Lang="th" Index="93">SUB_93</VALUE>
+    <VALUE Lang="th" Index="94">SUB_94</VALUE>
+    <VALUE Lang="th" Index="95">SUB_95</VALUE>
+    <VALUE Lang="th" Index="96">SUB_96</VALUE>
+    <VALUE Lang="th" Index="97">SUB_97</VALUE>
+    <VALUE Lang="th" Index="98">SUB_98</VALUE>
+    <VALUE Lang="th" Index="99">SUB_99</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ANI_SUBTYPE_03">
+    <VALUE Lang="th" Index="0">DriverBoard</VALUE>
+    <VALUE Lang="th" Index="1">DriverStand</VALUE>
+    <VALUE Lang="th" Index="2">DriverWalk</VALUE>
+    <VALUE Lang="th" Index="3">DriverRun</VALUE>
+    <VALUE Lang="th" Index="4">DriverBoost</VALUE>
+    <VALUE Lang="th" Index="5">DriverDeath</VALUE>
+    <VALUE Lang="th" Index="6">PassengerBoard</VALUE>
+    <VALUE Lang="th" Index="7">PassengerStand</VALUE>
+    <VALUE Lang="th" Index="8">PassengerWalk</VALUE>
+    <VALUE Lang="th" Index="9">PassengerRun</VALUE>
+    <VALUE Lang="th" Index="10">PassengerBoost</VALUE>
+    <VALUE Lang="th" Index="11">PassengerDeath</VALUE>
+    <VALUE Lang="th" Index="12">SUB_12</VALUE>
+    <VALUE Lang="th" Index="13">SUB_13</VALUE>
+    <VALUE Lang="th" Index="14">SUB_14</VALUE>
+    <VALUE Lang="th" Index="15">SUB_15</VALUE>
+    <VALUE Lang="th" Index="16">SUB_16</VALUE>
+    <VALUE Lang="th" Index="17">SUB_17</VALUE>
+    <VALUE Lang="th" Index="18">SUB_18</VALUE>
+    <VALUE Lang="th" Index="19">SUB_19</VALUE>
+    <VALUE Lang="th" Index="20">SUB_20</VALUE>
+    <VALUE Lang="th" Index="21">SUB_21</VALUE>
+    <VALUE Lang="th" Index="22">SUB_22</VALUE>
+    <VALUE Lang="th" Index="23">SUB_23</VALUE>
+    <VALUE Lang="th" Index="24">SUB_24</VALUE>
+    <VALUE Lang="th" Index="25">SUB_25</VALUE>
+    <VALUE Lang="th" Index="26">SUB_26</VALUE>
+    <VALUE Lang="th" Index="27">SUB_27</VALUE>
+    <VALUE Lang="th" Index="28">SUB_28</VALUE>
+    <VALUE Lang="th" Index="29">SUB_29</VALUE>
+    <VALUE Lang="th" Index="30">SUB_30</VALUE>
+    <VALUE Lang="th" Index="31">SUB_31</VALUE>
+    <VALUE Lang="th" Index="32">SUB_32</VALUE>
+    <VALUE Lang="th" Index="33">SUB_33</VALUE>
+    <VALUE Lang="th" Index="34">SUB_34</VALUE>
+    <VALUE Lang="th" Index="35">SUB_35</VALUE>
+    <VALUE Lang="th" Index="36">SUB_36</VALUE>
+    <VALUE Lang="th" Index="37">SUB_37</VALUE>
+    <VALUE Lang="th" Index="38">SUB_38</VALUE>
+    <VALUE Lang="th" Index="39">SUB_39</VALUE>
+    <VALUE Lang="th" Index="40">SUB_40</VALUE>
+    <VALUE Lang="th" Index="41">SUB_41</VALUE>
+    <VALUE Lang="th" Index="42">SUB_42</VALUE>
+    <VALUE Lang="th" Index="43">SUB_43</VALUE>
+    <VALUE Lang="th" Index="44">SUB_44</VALUE>
+    <VALUE Lang="th" Index="45">SUB_45</VALUE>
+    <VALUE Lang="th" Index="46">SUB_46</VALUE>
+    <VALUE Lang="th" Index="47">SUB_47</VALUE>
+    <VALUE Lang="th" Index="48">SUB_48</VALUE>
+    <VALUE Lang="th" Index="49">SUB_49</VALUE>
+    <VALUE Lang="th" Index="50">SUB_50</VALUE>
+    <VALUE Lang="th" Index="51">SUB_51</VALUE>
+    <VALUE Lang="th" Index="52">SUB_52</VALUE>
+    <VALUE Lang="th" Index="53">SUB_53</VALUE>
+    <VALUE Lang="th" Index="54">SUB_54</VALUE>
+    <VALUE Lang="th" Index="55">SUB_55</VALUE>
+    <VALUE Lang="th" Index="56">SUB_56</VALUE>
+    <VALUE Lang="th" Index="57">SUB_57</VALUE>
+    <VALUE Lang="th" Index="58">SUB_58</VALUE>
+    <VALUE Lang="th" Index="59">SUB_59</VALUE>
+    <VALUE Lang="th" Index="60">SUB_60</VALUE>
+    <VALUE Lang="th" Index="61">SUB_61</VALUE>
+    <VALUE Lang="th" Index="62">SUB_62</VALUE>
+    <VALUE Lang="th" Index="63">SUB_63</VALUE>
+    <VALUE Lang="th" Index="64">SUB_64</VALUE>
+    <VALUE Lang="th" Index="65">SUB_65</VALUE>
+    <VALUE Lang="th" Index="66">SUB_66</VALUE>
+    <VALUE Lang="th" Index="67">SUB_67</VALUE>
+    <VALUE Lang="th" Index="68">SUB_68</VALUE>
+    <VALUE Lang="th" Index="69">SUB_69</VALUE>
+    <VALUE Lang="th" Index="70">SUB_70</VALUE>
+    <VALUE Lang="th" Index="71">SUB_71</VALUE>
+    <VALUE Lang="th" Index="72">SUB_72</VALUE>
+    <VALUE Lang="th" Index="73">SUB_73</VALUE>
+    <VALUE Lang="th" Index="74">SUB_74</VALUE>
+    <VALUE Lang="th" Index="75">SUB_75</VALUE>
+    <VALUE Lang="th" Index="76">SUB_76</VALUE>
+    <VALUE Lang="th" Index="77">SUB_77</VALUE>
+    <VALUE Lang="th" Index="78">SUB_78</VALUE>
+    <VALUE Lang="th" Index="79">SUB_79</VALUE>
+    <VALUE Lang="th" Index="80">SUB_80</VALUE>
+    <VALUE Lang="th" Index="81">SUB_81</VALUE>
+    <VALUE Lang="th" Index="82">SUB_82</VALUE>
+    <VALUE Lang="th" Index="83">SUB_83</VALUE>
+    <VALUE Lang="th" Index="84">SUB_84</VALUE>
+    <VALUE Lang="th" Index="85">SUB_85</VALUE>
+    <VALUE Lang="th" Index="86">SUB_86</VALUE>
+    <VALUE Lang="th" Index="87">SUB_87</VALUE>
+    <VALUE Lang="th" Index="88">SUB_88</VALUE>
+    <VALUE Lang="th" Index="89">SUB_89</VALUE>
+    <VALUE Lang="th" Index="90">SUB_90</VALUE>
+    <VALUE Lang="th" Index="91">SUB_91</VALUE>
+    <VALUE Lang="th" Index="92">SUB_92</VALUE>
+    <VALUE Lang="th" Index="93">SUB_93</VALUE>
+    <VALUE Lang="th" Index="94">SUB_94</VALUE>
+    <VALUE Lang="th" Index="95">SUB_95</VALUE>
+    <VALUE Lang="th" Index="96">SUB_96</VALUE>
+    <VALUE Lang="th" Index="97">SUB_97</VALUE>
+    <VALUE Lang="th" Index="98">SUB_98</VALUE>
+    <VALUE Lang="th" Index="99">SUB_99</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ANI_VEHICLE_MAINTYPE">
+    <VALUE Lang="th" Index="0">Stay</VALUE>
+    <VALUE Lang="th" Index="1">Walk</VALUE>
+    <VALUE Lang="th" Index="2">Booster On</VALUE>
+    <VALUE Lang="th" Index="3">Run</VALUE>
+    <VALUE Lang="th" Index="4">Down</VALUE>
+    <VALUE Lang="th" Index="5">Shock</VALUE>
+    <VALUE Lang="th" Index="6">Attack</VALUE>
+    <VALUE Lang="th" Index="7">Skill_A</VALUE>
+    <VALUE Lang="th" Index="8">Skill_B</VALUE>
+    <VALUE Lang="th" Index="9">Skill_C</VALUE>
+    <VALUE Lang="th" Index="10">Skill_D</VALUE>
+    <VALUE Lang="th" Index="11">Anim_001</VALUE>
+    <VALUE Lang="th" Index="12">Anim_002</VALUE>
+    <VALUE Lang="th" Index="13">Anim_003</VALUE>
+    <VALUE Lang="th" Index="14">Anim_004</VALUE>
+    <VALUE Lang="th" Index="15">Anim_005</VALUE>
+    <VALUE Lang="th" Index="16">Anim_None</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ATTACK_RGTYPE">
+    <VALUE Lang="th" Index="0">Short Distance</VALUE>
+    <VALUE Lang="th" Index="1">Long Distance</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="BIKETYPE">
+    <VALUE Lang="th" Index="0">BT-5</VALUE>
+    <VALUE Lang="th" Index="1">BT-7</VALUE>
+    <VALUE Lang="th" Index="2">BT-9</VALUE>
+    <VALUE Lang="th" Index="3">EV-1</VALUE>
+    <VALUE Lang="th" Index="4">No</VALUE>
+    <VALUE Lang="th" Index="5">No</VALUE>
+    <VALUE Lang="th" Index="6">No</VALUE>
+    <VALUE Lang="th" Index="7">No</VALUE>
+    <VALUE Lang="th" Index="8">No</VALUE>
+    <VALUE Lang="th" Index="9">No</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="BLOW">
+    <VALUE Lang="th" Index="0">Without</VALUE>
+    <VALUE Lang="th" Index="1">Paralysis</VALUE>
+    <VALUE Lang="th" Index="2">Faint</VALUE>
+    <VALUE Lang="th" Index="3">Petrochemical</VALUE>
+    <VALUE Lang="th" Index="4">Burn</VALUE>
+    <VALUE Lang="th" Index="5">Freeze</VALUE>
+    <VALUE Lang="th" Index="6">Chaos</VALUE>
+    <VALUE Lang="th" Index="7">Poison</VALUE>
+    <VALUE Lang="th" Index="8">Curse</VALUE>
+    <VALUE Lang="th" Index="9">--TEMP--</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="BLOW_VAR1">
+    <VALUE Lang="th" Index="0">No</VALUE>
+    <VALUE Lang="th" Index="1">Movement Speed Eate</VALUE>
+    <VALUE Lang="th" Index="2">No</VALUE>
+    <VALUE Lang="th" Index="3">Movement Speed Rate</VALUE>
+    <VALUE Lang="th" Index="4">No</VALUE>
+    <VALUE Lang="th" Index="5">Movement Speed Rate</VALUE>
+    <VALUE Lang="th" Index="6">No</VALUE>
+    <VALUE Lang="th" Index="7">No</VALUE>
+    <VALUE Lang="th" Index="8">No</VALUE>
+    <VALUE Lang="th" Index="9">--TEMP--</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="BLOW_VAR2">
+    <VALUE Lang="th" Index="0">No</VALUE>
+    <VALUE Lang="th" Index="1">Delay Rate</VALUE>
+    <VALUE Lang="th" Index="2">No</VALUE>
+    <VALUE Lang="th" Index="3">No</VALUE>
+    <VALUE Lang="th" Index="4">Continue Damage</VALUE>
+    <VALUE Lang="th" Index="5">Attack Add Rate</VALUE>
+    <VALUE Lang="th" Index="6">No</VALUE>
+    <VALUE Lang="th" Index="7">Continue Damage</VALUE>
+    <VALUE Lang="th" Index="8">Continue Damage</VALUE>
+    <VALUE Lang="th" Index="9">--TEMP--</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="BOARDTYPE">
+    <VALUE Lang="th" Index="0">HoverBoard</VALUE>
+    <VALUE Lang="th" Index="1">No</VALUE>
+    <VALUE Lang="th" Index="2">No</VALUE>
+    <VALUE Lang="th" Index="3">No</VALUE>
+    <VALUE Lang="th" Index="4">No</VALUE>
+    <VALUE Lang="th" Index="5">No</VALUE>
+    <VALUE Lang="th" Index="6">No</VALUE>
+    <VALUE Lang="th" Index="7">No</VALUE>
+    <VALUE Lang="th" Index="8">No</VALUE>
+    <VALUE Lang="th" Index="9">No</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="BRIGHT">
+    <VALUE Lang="th" Index="0">Good</VALUE>
+    <VALUE Lang="th" Index="1">Evil</VALUE>
+    <VALUE Lang="th" Index="2">(Neutral)</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="CARTYPE">
+    <VALUE Lang="th" Index="0">FERRARI</VALUE>
+    <VALUE Lang="th" Index="1">CAR_B</VALUE>
+    <VALUE Lang="th" Index="2">CAR_C</VALUE>
+    <VALUE Lang="th" Index="3">CAR_D</VALUE>
+    <VALUE Lang="th" Index="4">없음</VALUE>
+    <VALUE Lang="th" Index="5">없음</VALUE>
+    <VALUE Lang="th" Index="6">없음</VALUE>
+    <VALUE Lang="th" Index="7">없음</VALUE>
+    <VALUE Lang="th" Index="8">없음</VALUE>
+    <VALUE Lang="th" Index="9">없음</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="CDT_SIGN">
+    <VALUE Lang="th" Index="0">=</VALUE>
+    <VALUE Lang="th" Index="1">&lt;</VALUE>
+    <VALUE Lang="th" Index="2">&gt;</VALUE>
+    <VALUE Lang="th" Index="3">&lt;=</VALUE>
+    <VALUE Lang="th" Index="4">&gt;=</VALUE>
+    <VALUE Lang="th" Index="5">whatever</VALUE>
+    <VALUE Lang="th" Index="6">~</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="CDT_SIGN_ID">
+    <VALUE Lang="th" Index="0">EMSIGN_SAME</VALUE>
+    <VALUE Lang="th" Index="1">EMSIGN_HIGHER</VALUE>
+    <VALUE Lang="th" Index="2">EMSIGN_LOWER</VALUE>
+    <VALUE Lang="th" Index="3">EMSIGN_SAMEHIGHER</VALUE>
+    <VALUE Lang="th" Index="4">EMSIGN_SAMELOWER</VALUE>
+    <VALUE Lang="th" Index="5">EMSIGN_ALWAYS</VALUE>
+    <VALUE Lang="th" Index="6">EMSIGN_FROMTO</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="CHARCLASS">
+    <VALUE Lang="th" Index="0">Brawler(M)</VALUE>
+    <VALUE Lang="th" Index="1">Swordsman(M)</VALUE>
+    <VALUE Lang="th" Index="2">Archer(W)</VALUE>
+    <VALUE Lang="th" Index="3">Shaman(W)</VALUE>
+    <VALUE Lang="th" Index="4">Extreme(M)</VALUE>
+    <VALUE Lang="th" Index="5">Extreme(W)</VALUE>
+    <VALUE Lang="th" Index="6">Brawler(W)</VALUE>
+    <VALUE Lang="th" Index="7">Swordsman(W)</VALUE>
+    <VALUE Lang="th" Index="8">Archer(M)</VALUE>
+    <VALUE Lang="th" Index="9">Shaman(M)</VALUE>
+    <VALUE Lang="th" Index="10">Science(M)</VALUE>
+    <VALUE Lang="th" Index="11">Science(W)</VALUE>
+    <VALUE Lang="th" Index="12">Assassin(M)</VALUE>
+    <VALUE Lang="th" Index="13">Assassin(W)</VALUE>
+    <VALUE Lang="th" Index="14">Magician(M)</VALUE>
+    <VALUE Lang="th" Index="15">Magician(W)</VALUE>
+    <VALUE Lang="th" Index="16">ETC(M)</VALUE>
+    <VALUE Lang="th" Index="17">ETC(W)</VALUE>
+    <VALUE Lang="th" Index="18">Shaper(M)</VALUE>
+    <VALUE Lang="th" Index="19">Shaper(W)</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="CHARCLASSINDEX">
+    <VALUE Lang="th" Index="0">Brawler</VALUE>
+    <VALUE Lang="th" Index="1">Swordsman</VALUE>
+    <VALUE Lang="th" Index="2">Archer</VALUE>
+    <VALUE Lang="th" Index="3">Shaman</VALUE>
+    <VALUE Lang="th" Index="4">Extreme</VALUE>
+    <VALUE Lang="th" Index="5">Science</VALUE>
+    <VALUE Lang="th" Index="6">Assassin</VALUE>
+    <VALUE Lang="th" Index="7">Magician</VALUE>
+    <VALUE Lang="th" Index="8">ETC</VALUE>
+    <VALUE Lang="th" Index="9">Shaper</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="CHARCOMMENT">
+    <VALUE Lang="th" Index="0">null</VALUE>
+    <VALUE Lang="th" Index="1">null</VALUE>
+    <VALUE Lang="th" Index="2">null</VALUE>
+    <VALUE Lang="th" Index="3">null</VALUE>
+    <VALUE Lang="th" Index="4">null</VALUE>
+    <VALUE Lang="th" Index="5">null</VALUE>
+    <VALUE Lang="th" Index="6">null</VALUE>
+    <VALUE Lang="th" Index="7">null</VALUE>
+    <VALUE Lang="th" Index="8">null</VALUE>
+    <VALUE Lang="th" Index="9">null</VALUE>
+    <VALUE Lang="th" Index="10">null</VALUE>
+    <VALUE Lang="th" Index="11">null</VALUE>
+    <VALUE Lang="th" Index="12">null</VALUE>
+    <VALUE Lang="th" Index="13">null</VALUE>
+    <VALUE Lang="th" Index="14">null</VALUE>
+    <VALUE Lang="th" Index="15">null</VALUE>
+    <VALUE Lang="th" Index="16">null</VALUE>
+    <VALUE Lang="th" Index="17">null</VALUE>
+    <VALUE Lang="th" Index="18">null</VALUE>
+    <VALUE Lang="th" Index="19">null</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="COOLTYPE">
+    <VALUE Lang="th" Index="0">ItemMID/SID</VALUE>
+    <VALUE Lang="th" Index="1">ItemType</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="CROW">
+    <VALUE Lang="th" Index="0">CROW_PC</VALUE>
+    <VALUE Lang="th" Index="1">CROW_NPC</VALUE>
+    <VALUE Lang="th" Index="2">CROW_MOB</VALUE>
+    <VALUE Lang="th" Index="3">CROW_ITEM</VALUE>
+    <VALUE Lang="th" Index="4">CROW_MONEY</VALUE>
+    <VALUE Lang="th" Index="5">CROW_PET</VALUE>
+    <VALUE Lang="th" Index="6">CROW_SUMMON</VALUE>
+    <VALUE Lang="th" Index="7">CROW_MATERIAL</VALUE>
+    <VALUE Lang="th" Index="8">CROW_ZONE_NAME</VALUE>
+    <VALUE Lang="th" Index="9">CROW_GATE_NAME</VALUE>
+    <VALUE Lang="th" Index="10">-----TEMP-----</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="CROWACT_DN">
+    <VALUE Lang="th" Index="0">No Change</VALUE>
+    <VALUE Lang="th" Index="1">Finding Low HP</VALUE>
+    <VALUE Lang="th" Index="2">RunAWay</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="CROWACT_UP">
+    <VALUE Lang="th" Index="0">Standby</VALUE>
+    <VALUE Lang="th" Index="1">Attack the Closest Enemy</VALUE>
+    <VALUE Lang="th" Index="2">Attack lower LV</VALUE>
+    <VALUE Lang="th" Index="3">Attack lower HP</VALUE>
+    <VALUE Lang="th" Index="4">Attack The light Ranger</VALUE>
+    <VALUE Lang="th" Index="5">Attack the Dark Ranger</VALUE>
+    <VALUE Lang="th" Index="6">Attack Extraordinary Condition Ranger</VALUE>
+    <VALUE Lang="th" Index="7">Attack Ranger with Weapon</VALUE>
+    <VALUE Lang="th" Index="8">Attack Jogger</VALUE>
+    <VALUE Lang="th" Index="9">RunAWay</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="CROWSALE_SALETYPE">
+    <VALUE Lang="th" Index="0">ETC</VALUE>
+    <VALUE Lang="th" Index="1">Armor</VALUE>
+    <VALUE Lang="th" Index="2">Weapon</VALUE>
+    <VALUE Lang="th" Index="3">S.R.C</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ELEMENT">
+    <VALUE Lang="th" Index="0">Vital Energy</VALUE>
+    <VALUE Lang="th" Index="1">Fire</VALUE>
+    <VALUE Lang="th" Index="2">Ice</VALUE>
+    <VALUE Lang="th" Index="3">Eletrical energy</VALUE>
+    <VALUE Lang="th" Index="4">Poison</VALUE>
+    <VALUE Lang="th" Index="5">Petrified</VALUE>
+    <VALUE Lang="th" Index="6">Confusion</VALUE>
+    <VALUE Lang="th" Index="7">Fainting</VALUE>
+    <VALUE Lang="th" Index="8">Malediction</VALUE>
+    <VALUE Lang="th" Index="9">All belong to item</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="EMREACTION">
+    <VALUE Lang="th" Index="0">REACT_NULL</VALUE>
+    <VALUE Lang="th" Index="1">REACT_TRACE</VALUE>
+    <VALUE Lang="th" Index="2">REACT_MOB</VALUE>
+    <VALUE Lang="th" Index="3">REACT_NPC</VALUE>
+    <VALUE Lang="th" Index="4">REACT_P2P</VALUE>
+    <VALUE Lang="th" Index="5">REACT_PVP</VALUE>
+    <VALUE Lang="th" Index="6">REACT_ITEM</VALUE>
+    <VALUE Lang="th" Index="7">REACT_SKILL</VALUE>
+    <VALUE Lang="th" Index="8">REACT_GATHERING</VALUE>
+    <VALUE Lang="th" Index="9">REACT_TOGGLE_VEHICLE</VALUE>
+    <VALUE Lang="th" Index="10">REACT_SWAP_ARMS</VALUE>
+    <VALUE Lang="th" Index="11">REACT_SIZE</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="FONTSYS">
+    <VALUE Lang="th" Index="0">D3DFONT</VALUE>
+    <VALUE Lang="th" Index="1">D3DXFONT</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="GRINDING_LEVEL">
+    <VALUE Lang="th" Index="0">Low</VALUE>
+    <VALUE Lang="th" Index="1">High</VALUE>
+    <VALUE Lang="th" Index="2">Highest</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="GRINDING_RESIST">
+    <VALUE Lang="th" Index="0">Fire</VALUE>
+    <VALUE Lang="th" Index="1">Ice</VALUE>
+    <VALUE Lang="th" Index="2">Electric</VALUE>
+    <VALUE Lang="th" Index="3">Poison</VALUE>
+    <VALUE Lang="th" Index="4">Air</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="GRINDING_TYPE">
+    <VALUE Lang="th" Index="0">No</VALUE>
+    <VALUE Lang="th" Index="1">Attack Power</VALUE>
+    <VALUE Lang="th" Index="2">Defend Power</VALUE>
+    <VALUE Lang="th" Index="3">Resistance(Fire)</VALUE>
+    <VALUE Lang="th" Index="4">ResistanceI(Ice)</VALUE>
+    <VALUE Lang="th" Index="5">Resistance(Eletric)</VALUE>
+    <VALUE Lang="th" Index="6">Resistance(Poison)</VALUE>
+    <VALUE Lang="th" Index="7">Resistance(air)</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="IMPACT_ADDON">
+    <VALUE Lang="th" Index="0">Without</VALUE>
+    <VALUE Lang="th" Index="1">Hit Percentage Transformation Rate</VALUE>
+    <VALUE Lang="th" Index="2">Avoid Change Rate</VALUE>
+    <VALUE Lang="th" Index="3">Attack Change Amount</VALUE>
+    <VALUE Lang="th" Index="4">Defend Change Amount</VALUE>
+    <VALUE Lang="th" Index="5">HP Change Percentage</VALUE>
+    <VALUE Lang="th" Index="6">MP Change Percentage</VALUE>
+    <VALUE Lang="th" Index="7">SP Change Percentage</VALUE>
+    <VALUE Lang="th" Index="8">HP+MP+SP Change Percentage</VALUE>
+    <VALUE Lang="th" Index="9">Attack Change Percentage</VALUE>
+    <VALUE Lang="th" Index="10">Defend Change Percentage</VALUE>
+    <VALUE Lang="th" Index="11">CloseAttack Rate</VALUE>
+    <VALUE Lang="th" Index="12">Shooting Rate</VALUE>
+    <VALUE Lang="th" Index="13">Energy</VALUE>
+    <VALUE Lang="th" Index="14">HP increasing Percentage</VALUE>
+    <VALUE Lang="th" Index="15">MP Increasing Percentage</VALUE>
+    <VALUE Lang="th" Index="16">SP Increasing Percentage</VALUE>
+    <VALUE Lang="th" Index="17">Change Resistance</VALUE>
+    <VALUE Lang="th" Index="18">Change Stats</VALUE>
+    <VALUE Lang="th" Index="19">HP recovery amount +-</VALUE>
+    <VALUE Lang="th" Index="20">MP recovery amount +-</VALUE>
+    <VALUE Lang="th" Index="21">SP recovery amount +-</VALUE>
+    <VALUE Lang="th" Index="22">CP recovery amount +-</VALUE>
+    <VALUE Lang="th" Index="23">CP Auto +-</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="IMPACT_REALM">
+    <VALUE Lang="th" Index="0">Target Self</VALUE>
+    <VALUE Lang="th" Index="1">Target Area</VALUE>
+    <VALUE Lang="th" Index="2">Continuous Area Target</VALUE>
+    <VALUE Lang="th" Index="3">Cone Target</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="IMPACT_SIDE">
+    <VALUE Lang="th" Index="0">Towards my side</VALUE>
+    <VALUE Lang="th" Index="1">Towards Enemy</VALUE>
+    <VALUE Lang="th" Index="2">Towards Everyone</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="IMPACT_TAR">
+    <VALUE Lang="th" Index="0">Self</VALUE>
+    <VALUE Lang="th" Index="1">Target</VALUE>
+    <VALUE Lang="th" Index="2">From Self until the Target</VALUE>
+    <VALUE Lang="th" Index="3">Specified location</VALUE>
+    <VALUE Lang="th" Index="4">Specified</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ITEM_QUE_TYPE">
+    <VALUE Lang="th" Index="0">None</VALUE>
+    <VALUE Lang="th" Index="1">Speed Up</VALUE>
+    <VALUE Lang="th" Index="2">Crazy</VALUE>
+    <VALUE Lang="th" Index="3">Attack Up</VALUE>
+    <VALUE Lang="th" Index="4">Exp Up</VALUE>
+    <VALUE Lang="th" Index="5">Exp Get</VALUE>
+    <VALUE Lang="th" Index="6">Lucky</VALUE>
+    <VALUE Lang="th" Index="7">Bomb!!</VALUE>
+    <VALUE Lang="th" Index="8">Summon</VALUE>
+    <VALUE Lang="th" Index="9">Speed Up Max</VALUE>
+    <VALUE Lang="th" Index="10">Madness</VALUE>
+    <VALUE Lang="th" Index="11">Attack Up Max</VALUE>
+    <VALUE Lang="th" Index="12">Heal</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ITEM_QUE_VAR1">
+    <VALUE Lang="th" Index="0">None</VALUE>
+    <VALUE Lang="th" Index="1">Speed Movement</VALUE>
+    <VALUE Lang="th" Index="2">Speed Movement</VALUE>
+    <VALUE Lang="th" Index="3">Damage</VALUE>
+    <VALUE Lang="th" Index="4">Experience</VALUE>
+    <VALUE Lang="th" Index="5">No</VALUE>
+    <VALUE Lang="th" Index="6">Occurred Rate</VALUE>
+    <VALUE Lang="th" Index="7">Damage</VALUE>
+    <VALUE Lang="th" Index="8">MID</VALUE>
+    <VALUE Lang="th" Index="9">Speed Movement</VALUE>
+    <VALUE Lang="th" Index="10">Speed Movement</VALUE>
+    <VALUE Lang="th" Index="11">Damage</VALUE>
+    <VALUE Lang="th" Index="12">hp</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ITEM_QUE_VAR2">
+    <VALUE Lang="th" Index="0">No</VALUE>
+    <VALUE Lang="th" Index="1">No</VALUE>
+    <VALUE Lang="th" Index="2">Attack Speed</VALUE>
+    <VALUE Lang="th" Index="3">No</VALUE>
+    <VALUE Lang="th" Index="4">No</VALUE>
+    <VALUE Lang="th" Index="5">No</VALUE>
+    <VALUE Lang="th" Index="6">No</VALUE>
+    <VALUE Lang="th" Index="7">No</VALUE>
+    <VALUE Lang="th" Index="8">SID</VALUE>
+    <VALUE Lang="th" Index="9">No</VALUE>
+    <VALUE Lang="th" Index="10">Attack Speed</VALUE>
+    <VALUE Lang="th" Index="11">No</VALUE>
+    <VALUE Lang="th" Index="12">No</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ITEM_RANDOM_OPT">
+    <VALUE Lang="th" Index="0">None</VALUE>
+    <VALUE Lang="th" Index="1">Attack(%)</VALUE>
+    <VALUE Lang="th" Index="2">Defense(%)</VALUE>
+    <VALUE Lang="th" Index="3">Accuracy(%)</VALUE>
+    <VALUE Lang="th" Index="4">Avoid Rate(%)</VALUE>
+    <VALUE Lang="th" Index="5">HP Increase Amount</VALUE>
+    <VALUE Lang="th" Index="6">MP Increase Amount</VALUE>
+    <VALUE Lang="th" Index="7">SP Increase Amount</VALUE>
+    <VALUE Lang="th" Index="8">HP Recovery Rate(%)</VALUE>
+    <VALUE Lang="th" Index="9">MP Recovery Rate(%)</VALUE>
+    <VALUE Lang="th" Index="10">SP Recovery Rate(%)</VALUE>
+    <VALUE Lang="th" Index="11">HP+MP+SP Recovery Rate(%)</VALUE>
+    <VALUE Lang="th" Index="12">Attack Grade</VALUE>
+    <VALUE Lang="th" Index="13">Defense Grade</VALUE>
+    <VALUE Lang="th" Index="14">Range</VALUE>
+    <VALUE Lang="th" Index="15">SP Consume Amount</VALUE>
+    <VALUE Lang="th" Index="16">Resistance</VALUE>
+    <VALUE Lang="th" Index="17">Movement Speed</VALUE>
+    <VALUE Lang="th" Index="18">Attack</VALUE>
+    <VALUE Lang="th" Index="19">Defense</VALUE>
+    <VALUE Lang="th" Index="20">Accuracy</VALUE>
+    <VALUE Lang="th" Index="21">Avoid Rate</VALUE>
+    <VALUE Lang="th" Index="22">Power</VALUE>
+    <VALUE Lang="th" Index="23">Vitality</VALUE>
+    <VALUE Lang="th" Index="24">Intelligence</VALUE>
+    <VALUE Lang="th" Index="25">Dexterity</VALUE>
+    <VALUE Lang="th" Index="26">Stamina</VALUE>
+    <VALUE Lang="th" Index="27">Melee</VALUE>
+    <VALUE Lang="th" Index="28">Shooting</VALUE>
+    <VALUE Lang="th" Index="29">Energy</VALUE>
+    <VALUE Lang="th" Index="30">HP Potion Recover Increase Amount</VALUE>
+    <VALUE Lang="th" Index="31">MP Potion Recover Increase Amount</VALUE>
+    <VALUE Lang="th" Index="32">SP Potion Recover Increase Amount</VALUE>
+    <VALUE Lang="th" Index="33">Acquire CP for Killing</VALUE>
+    <VALUE Lang="th" Index="34">No. 1 skill duration time</VALUE>
+    <VALUE Lang="th" Index="35">No. 2 skill duration time</VALUE>
+    <VALUE Lang="th" Index="36">No. 3 skill duration time</VALUE>
+    <VALUE Lang="th" Index="37">No. 4 skill duration time</VALUE>
+    <VALUE Lang="th" Index="38">No. 5 skill duration time</VALUE>
+    <VALUE Lang="th" Index="39">No. 6 skill duration time</VALUE>
+    <VALUE Lang="th" Index="40">No. 7 skill duration time</VALUE>
+    <VALUE Lang="th" Index="41">No. 8 skill duration time</VALUE>
+    <VALUE Lang="th" Index="42">No. 9 skill duration time</VALUE>
+    <VALUE Lang="th" Index="43">No. 10 skill duration time</VALUE>
+    <VALUE Lang="th" Index="44">No. 11 skill duration time</VALUE>
+    <VALUE Lang="th" Index="45">No. 12 skill duration time</VALUE>
+    <VALUE Lang="th" Index="46">No. 13 skill duration time</VALUE>
+    <VALUE Lang="th" Index="47">No. 14 skill duration time</VALUE>
+    <VALUE Lang="th" Index="48">No. 15 skill duration time</VALUE>
+    <VALUE Lang="th" Index="49">No. 16 skill duration time</VALUE>
+    <VALUE Lang="th" Index="50">No. 17 skill duration time</VALUE>
+    <VALUE Lang="th" Index="51">No. 18 skill duration time</VALUE>
+    <VALUE Lang="th" Index="52">No. 19 skill duration time</VALUE>
+    <VALUE Lang="th" Index="53">No. 20 skill duration time</VALUE>
+    <VALUE Lang="th" Index="54">No. 21 skill duration time</VALUE>
+    <VALUE Lang="th" Index="55">No. 22 skill duration time</VALUE>
+    <VALUE Lang="th" Index="56">No. 23 skill duration time</VALUE>
+    <VALUE Lang="th" Index="57">No. 24 skill duration time</VALUE>
+    <VALUE Lang="th" Index="58">No. 25 skill duration time</VALUE>
+    <VALUE Lang="th" Index="59">No. 1 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="60">No. 2 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="61">No. 3 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="62">No. 4 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="63">No. 5 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="64">No. 6 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="65">No. 7 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="66">No. 8 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="67">No. 9 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="68">No. 10 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="69">No. 11 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="70">No. 12 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="71">No. 13 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="72">No. 14 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="73">No. 15 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="74">No. 16 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="75">No. 17 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="76">No. 18 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="77">No. 19 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="78">No. 20 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="79">No. 21 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="80">No. 22 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="81">No. 23 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="82">No. 24 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="83">No. 25 skill damage increase rate</VALUE>
+    <VALUE Lang="th" Index="84">No. 1 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="85">No. 2 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="86">No. 3 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="87">No. 4 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="88">No. 5 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="89">No. 6 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="90">No. 7 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="91">No. 8 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="92">No. 9 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="93">No. 10 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="94">No. 11 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="95">No. 12 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="96">No. 13 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="97">No. 14 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="98">No. 15 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="99">No. 16 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="100">No. 17 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="101">No. 18 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="102">No. 19 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="103">No. 20 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="104">No. 21 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="105">No. 22 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="106">No. 23 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="107">No. 24 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="108">No. 25 skill delay reduction</VALUE>
+    <VALUE Lang="th" Index="109">Critical damage</VALUE>
+    <VALUE Lang="th" Index="110">Strike hit damage</VALUE>
+    <VALUE Lang="th" Index="111">Item equip level reduction</VALUE>
+    <VALUE Lang="th" Index="112">HP recovery rate when killing</VALUE>
+    <VALUE Lang="th" Index="113">MP recovery rate when killing</VALUE>
+    <VALUE Lang="th" Index="114">SP recovery rate when killing</VALUE>
+    <VALUE Lang="th" Index="115">HP+MP+SP recovery rate when killing</VALUE>
+    <VALUE Lang="th" Index="116">Attack increase in proportion to the total MP</VALUE>
+    <VALUE Lang="th" Index="117">Stamina increase in proportion to the total SP</VALUE>
+    <VALUE Lang="th" Index="118">Melee increase in proportion to the total Accuracy</VALUE>
+    <VALUE Lang="th" Index="119">Shooting increase in proportion to the total Accuracy</VALUE>
+    <VALUE Lang="th" Index="120">Energy increase in proportion to the total Accuracy</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ITEMADDON">
+    <VALUE Lang="th" Index="0">None</VALUE>
+    <VALUE Lang="th" Index="1">Hit Rate</VALUE>
+    <VALUE Lang="th" Index="2">Avoid Rate</VALUE>
+    <VALUE Lang="th" Index="3">Damage</VALUE>
+    <VALUE Lang="th" Index="4">Defence</VALUE>
+    <VALUE Lang="th" Index="5">(HP)Physical Strength</VALUE>
+    <VALUE Lang="th" Index="6">(MP)Magic Power</VALUE>
+    <VALUE Lang="th" Index="7">(SP)Durability</VALUE>
+    <VALUE Lang="th" Index="8">STATS Power</VALUE>
+    <VALUE Lang="th" Index="9">STATS Strength</VALUE>
+    <VALUE Lang="th" Index="10">STATS Spirit</VALUE>
+    <VALUE Lang="th" Index="11">STAT Agility(Dex)</VALUE>
+    <VALUE Lang="th" Index="12">STAT Intelligence</VALUE>
+    <VALUE Lang="th" Index="13">STAT Endurance(SP)</VALUE>
+    <VALUE Lang="th" Index="14">Melee Attack Value</VALUE>
+    <VALUE Lang="th" Index="15">Shoot Attack Value</VALUE>
+    <VALUE Lang="th" Index="16">Spirit Attack Value</VALUE>
+    <VALUE Lang="th" Index="17">None</VALUE>
+    <VALUE Lang="th" Index="18">HP increase</VALUE>
+    <VALUE Lang="th" Index="19">MP increase</VALUE>
+    <VALUE Lang="th" Index="20">SP increase</VALUE>
+    <VALUE Lang="th" Index="21">HP+MP+SP increase</VALUE>
+    <VALUE Lang="th" Index="22">Movement speed increase</VALUE>
+    <VALUE Lang="th" Index="23">Attack speed increase</VALUE>
+    <VALUE Lang="th" Index="24">Critical chance</VALUE>
+    <VALUE Lang="th" Index="25">Strike hit chance</VALUE>
+    <VALUE Lang="th" Index="26">None</VALUE>
+    <VALUE Lang="th" Index="27">HP increase</VALUE>
+    <VALUE Lang="th" Index="28">MP increase</VALUE>
+    <VALUE Lang="th" Index="29">SP increase</VALUE>
+    <VALUE Lang="th" Index="30">HP+MP+SP increase</VALUE>
+    <VALUE Lang="th" Index="31">Movement speed increase</VALUE>
+    <VALUE Lang="th" Index="32">Attack speed increase</VALUE>
+    <VALUE Lang="th" Index="33">Critical chance</VALUE>
+    <VALUE Lang="th" Index="34">None</VALUE>
+    <VALUE Lang="th" Index="35">Boss mob damage reduction</VALUE>
+    <VALUE Lang="th" Index="36">Boss mob fixed damage</VALUE>
+    <VALUE Lang="th" Index="37">Normal mob critical ability during emergency</VALUE>
+    <VALUE Lang="th" Index="38">Boss mob critical ability during emergency</VALUE>
+    <VALUE Lang="th" Index="39">Self damage reduction during emergency</VALUE>
+    <VALUE Lang="th" Index="40">Additional EXP from killing normal mob</VALUE>
+    <VALUE Lang="th" Index="41">Game money drop rate from killing mob</VALUE>
+    <VALUE Lang="th" Index="42">Character physical melee damage reduction</VALUE>
+    <VALUE Lang="th" Index="43">Character physical shooting damage reduction</VALUE>
+    <VALUE Lang="th" Index="44">Character magic effect damage reduction</VALUE>
+    <VALUE Lang="th" Index="45">HP increase during solo play</VALUE>
+    <VALUE Lang="th" Index="46">HP increase during party play</VALUE>
+    <VALUE Lang="th" Index="47">Attack speed increase during solo play</VALUE>
+    <VALUE Lang="th" Index="48">Attack speed increase during party play</VALUE>
+    <VALUE Lang="th" Index="49">Random</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ITEMATTACK">
+    <VALUE Lang="th" Index="0">Don't Install</VALUE>
+    <VALUE Lang="th" Index="1">Sword</VALUE>
+    <VALUE Lang="th" Index="2">Blade</VALUE>
+    <VALUE Lang="th" Index="3">Dagger</VALUE>
+    <VALUE Lang="th" Index="4">Spear</VALUE>
+    <VALUE Lang="th" Index="5">Club</VALUE>
+    <VALUE Lang="th" Index="6">Fist</VALUE>
+    <VALUE Lang="th" Index="7">Bow</VALUE>
+    <VALUE Lang="th" Index="8">Throw</VALUE>
+    <VALUE Lang="th" Index="9">Gun</VALUE>
+    <VALUE Lang="th" Index="10">Rail Gun</VALUE>
+    <VALUE Lang="th" Index="11">Portal Gun</VALUE>
+    <VALUE Lang="th" Index="12">scythe</VALUE>
+    <VALUE Lang="th" Index="13">Dual Spear</VALUE>
+    <VALUE Lang="th" Index="14">Shuriken</VALUE>
+    <VALUE Lang="th" Index="15">extreme Fist</VALUE>
+    <VALUE Lang="th" Index="16">Wand</VALUE>
+    <VALUE Lang="th" Index="17">Cube</VALUE>
+    <VALUE Lang="th" Index="18">Rope</VALUE>
+    <VALUE Lang="th" Index="19">Shield</VALUE>
+    <VALUE Lang="th" Index="20">Hammer</VALUE>
+    <VALUE Lang="th" Index="21">Umbrella</VALUE>
+    <VALUE Lang="th" Index="22">POW weapon</VALUE>
+    <VALUE Lang="th" Index="23">DEX weapon</VALUE>
+    <VALUE Lang="th" Index="24">INT weapon</VALUE>
+    <VALUE Lang="th" Index="25">Type not checked</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ITEMDRUG">
+    <VALUE Lang="th" Index="0">NONE</VALUE>
+    <VALUE Lang="th" Index="1">HP Recovery</VALUE>
+    <VALUE Lang="th" Index="2">MP Recovery</VALUE>
+    <VALUE Lang="th" Index="3">SP Recovery</VALUE>
+    <VALUE Lang="th" Index="4">HP+MP ReCovery</VALUE>
+    <VALUE Lang="th" Index="5">HP+SP Recovery</VALUE>
+    <VALUE Lang="th" Index="6">HP+MP+SP Recovery</VALUE>
+    <VALUE Lang="th" Index="7">Extraodinary Treatment</VALUE>
+    <VALUE Lang="th" Index="8">Back to School</VALUE>
+    <VALUE Lang="th" Index="9">Back to Starting Point</VALUE>
+    <VALUE Lang="th" Index="10">Back to Before</VALUE>
+    <VALUE Lang="th" Index="11">Revive function</VALUE>
+    <VALUE Lang="th" Index="12">HP Recovery+Extraodinary Treatment</VALUE>
+    <VALUE Lang="th" Index="13">HP+MP+SP Recovery+Extraodinary Treatment</VALUE>
+    <VALUE Lang="th" Index="14">Move to Specific Location</VALUE>
+    <VALUE Lang="th" Index="15">Get Combat Point</VALUE>
+    <VALUE Lang="th" Index="16">Stage Pass</VALUE>
+    <VALUE Lang="th" Index="17">Instant Dungeon Reload Card</VALUE>
+    <VALUE Lang="th" Index="18">Attribute Recovery</VALUE>
+    <VALUE Lang="th" Index="19">Costume Blessed Paper</VALUE>
+    <VALUE Lang="th" Index="20">Debuff Effect</VALUE>
+    <VALUE Lang="th" Index="21">Terminate Paper</VALUE>
+    <VALUE Lang="th" Index="22">EXP Compressor(10 billion)</VALUE>
+    <VALUE Lang="th" Index="23">EXP Compressor(100 billion)</VALUE>
+    <VALUE Lang="th" Index="24">EXP Capsule(10 billion)</VALUE>
+    <VALUE Lang="th" Index="25">EXP Capsule(100 billion)</VALUE>
+    <VALUE Lang="th" Index="26">Temporary Enhancer</VALUE>
+    <VALUE Lang="th" Index="27">Macro Duration Recharger</VALUE>
+    <VALUE Lang="th" Index="28">Duration Extension</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ITEMDRUG_VAR">
+    <VALUE Lang="th" Index="0">Volume</VALUE>
+    <VALUE Lang="th" Index="1">Volume</VALUE>
+    <VALUE Lang="th" Index="2">Volume</VALUE>
+    <VALUE Lang="th" Index="3">Volume</VALUE>
+    <VALUE Lang="th" Index="4">Volume</VALUE>
+    <VALUE Lang="th" Index="5">Volume</VALUE>
+    <VALUE Lang="th" Index="6">Volume</VALUE>
+    <VALUE Lang="th" Index="7">Volume</VALUE>
+    <VALUE Lang="th" Index="8">Volume</VALUE>
+    <VALUE Lang="th" Index="9">Volume</VALUE>
+    <VALUE Lang="th" Index="10">Volume</VALUE>
+    <VALUE Lang="th" Index="11">Volume</VALUE>
+    <VALUE Lang="th" Index="12">Volume</VALUE>
+    <VALUE Lang="th" Index="13">Volume</VALUE>
+    <VALUE Lang="th" Index="14">Volume</VALUE>
+    <VALUE Lang="th" Index="15">Volume</VALUE>
+    <VALUE Lang="th" Index="16">Stage</VALUE>
+    <VALUE Lang="th" Index="17">Level</VALUE>
+    <VALUE Lang="th" Index="18">Volume</VALUE>
+    <VALUE Lang="th" Index="19">Grade</VALUE>
+    <VALUE Lang="th" Index="20">Volume</VALUE>
+    <VALUE Lang="th" Index="21">Volume</VALUE>
+    <VALUE Lang="th" Index="22">magnification(%)</VALUE>
+    <VALUE Lang="th" Index="23">magnification(%)</VALUE>
+    <VALUE Lang="th" Index="24">magnification(%)</VALUE>
+    <VALUE Lang="th" Index="25">magnification(%)</VALUE>
+    <VALUE Lang="th" Index="26">degree</VALUE>
+    <VALUE Lang="th" Index="27">capacity</VALUE>
+    <VALUE Lang="th" Index="28">capacity</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ITEMLEVEL">
+    <VALUE Lang="th" Index="0">Normal - White</VALUE>
+    <VALUE Lang="th" Index="1">High Class - Blue</VALUE>
+    <VALUE Lang="th" Index="2">Rare - Yellow</VALUE>
+    <VALUE Lang="th" Index="3">Heroic - Pink</VALUE>
+    <VALUE Lang="th" Index="4">Ancient - Orange</VALUE>
+    <VALUE Lang="th" Index="5">Legendary - Dark Red</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ITEMSUIT">
+    <VALUE Lang="th" Index="0">Hats</VALUE>
+    <VALUE Lang="th" Index="1">Top</VALUE>
+    <VALUE Lang="th" Index="2">Pants</VALUE>
+    <VALUE Lang="th" Index="3">Glove</VALUE>
+    <VALUE Lang="th" Index="4">Shoes</VALUE>
+    <VALUE Lang="th" Index="5">Arms</VALUE>
+    <VALUE Lang="th" Index="6">Necklace</VALUE>
+    <VALUE Lang="th" Index="7">Bracelet</VALUE>
+    <VALUE Lang="th" Index="8">Ring</VALUE>
+    <VALUE Lang="th" Index="9">Pet Costume A</VALUE>
+    <VALUE Lang="th" Index="10">Pet Costume B</VALUE>
+    <VALUE Lang="th" Index="11">S.R.C</VALUE>
+    <VALUE Lang="th" Index="12">S.R.C Skin</VALUE>
+    <VALUE Lang="th" Index="13">S.R.C Parts A</VALUE>
+    <VALUE Lang="th" Index="14">S.R.C Parts B</VALUE>
+    <VALUE Lang="th" Index="15">S.R.C Parts C</VALUE>
+    <VALUE Lang="th" Index="16">S.R.C Parts D</VALUE>
+    <VALUE Lang="th" Index="17">S.R.C Parts E</VALUE>
+    <VALUE Lang="th" Index="18">S.R.C Parts F</VALUE>
+    <VALUE Lang="th" Index="19">Belt</VALUE>
+    <VALUE Lang="th" Index="20">Earring</VALUE>
+    <VALUE Lang="th" Index="21">Accessory</VALUE>
+    <VALUE Lang="th" Index="22">Ornament</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ITEMTYPE">
+    <VALUE Lang="th" Index="0">Weapon Tool</VALUE>
+    <VALUE Lang="th" Index="1">Arrow</VALUE>
+    <VALUE Lang="th" Index="2">Pharmaceutical</VALUE>
+    <VALUE Lang="th" Index="3">Skill Scroll</VALUE>
+    <VALUE Lang="th" Index="4">Revert's Book</VALUE>
+    <VALUE Lang="th" Index="5">Authentication Book</VALUE>
+    <VALUE Lang="th" Index="6">Enhancer</VALUE>
+    <VALUE Lang="th" Index="7">Magic Incantations</VALUE>
+    <VALUE Lang="th" Index="8">Bus Ticket</VALUE>
+    <VALUE Lang="th" Index="9">Oblivion Potion (Not Used)</VALUE>
+    <VALUE Lang="th" Index="10">Oblivion Potion (Not Used)</VALUE>
+    <VALUE Lang="th" Index="11">Oblivion Potion</VALUE>
+    <VALUE Lang="th" Index="12">Gift Box</VALUE>
+    <VALUE Lang="th" Index="13">Forgetful Detergent</VALUE>
+    <VALUE Lang="th" Index="14">Megaphone</VALUE>
+    <VALUE Lang="th" Index="15">Firecracker</VALUE>
+    <VALUE Lang="th" Index="16">Character Add Card</VALUE>
+    <VALUE Lang="th" Index="17">Inventory Add Card</VALUE>
+    <VALUE Lang="th" Index="18">Locker Add Card</VALUE>
+    <VALUE Lang="th" Index="19">Locker Connection Card</VALUE>
+    <VALUE Lang="th" Index="20">Premium Box</VALUE>
+    <VALUE Lang="th" Index="21">Store Permit Card</VALUE>
+    <VALUE Lang="th" Index="22">Random Box</VALUE>
+    <VALUE Lang="th" Index="23">Costume Detergent</VALUE>
+    <VALUE Lang="th" Index="24">Hair Style Card</VALUE>
+    <VALUE Lang="th" Index="25">Face Transform Card</VALUE>
+    <VALUE Lang="th" Index="26">? Item</VALUE>
+    <VALUE Lang="th" Index="27">Authentication CD</VALUE>
+    <VALUE Lang="th" Index="28">Friend Connection Card</VALUE>
+    <VALUE Lang="th" Index="29">Summon Cluber</VALUE>
+    <VALUE Lang="th" Index="30">Hair Shop Ticket</VALUE>
+    <VALUE Lang="th" Index="31">Name Change Card</VALUE>
+    <VALUE Lang="th" Index="32">Hair Style Card</VALUE>
+    <VALUE Lang="th" Index="33">East Shopping Region</VALUE>
+    <VALUE Lang="th" Index="34">Resurrection Rosary</VALUE>
+    <VALUE Lang="th" Index="35">Pet Card</VALUE>
+    <VALUE Lang="th" Index="36">Pet Food</VALUE>
+    <VALUE Lang="th" Index="37">Pet Name Change Card</VALUE>
+    <VALUE Lang="th" Index="38">Pet Color Change Card</VALUE>
+    <VALUE Lang="th" Index="39">Pet Style Change Card</VALUE>
+    <VALUE Lang="th" Index="40">Pet Skill Scroll</VALUE>
+    <VALUE Lang="th" Index="41">SMS Send</VALUE>
+    <VALUE Lang="th" Index="42">PET Resurrection Card</VALUE>
+    <VALUE Lang="th" Index="43">Safe Guard Rosary</VALUE>
+    <VALUE Lang="th" Index="44">Reform Card</VALUE>
+    <VALUE Lang="th" Index="45">S.R.C</VALUE>
+    <VALUE Lang="th" Index="46">S.R.C Fuel</VALUE>
+    <VALUE Lang="th" Index="47">Item Get Card</VALUE>
+    <VALUE Lang="th" Index="48">Exp Get Card</VALUE>
+    <VALUE Lang="th" Index="49">Sex Change Card</VALUE>
+    <VALUE Lang="th" Index="50">Garbage Card</VALUE>
+    <VALUE Lang="th" Index="51">Map Pass</VALUE>
+    <VALUE Lang="th" Index="52">PET Shape Change</VALUE>
+    <VALUE Lang="th" Index="53">Face Change Card</VALUE>
+    <VALUE Lang="th" Index="54">Taxi Card</VALUE>
+    <VALUE Lang="th" Index="55">Material Item</VALUE>
+    <VALUE Lang="th" Index="56">NPC Call card</VALUE>
+    <VALUE Lang="th" Index="57">Neutron Bullet</VALUE>
+    <VALUE Lang="th" Index="58">Lunchbox</VALUE>
+    <VALUE Lang="th" Index="59">Pet Dual Skill Card</VALUE>
+    <VALUE Lang="th" Index="60">Reinforcement Rosary</VALUE>
+    <VALUE Lang="th" Index="61">Mitigation Rosary</VALUE>
+    <VALUE Lang="th" Index="62">Bike Color Change Card</VALUE>
+    <VALUE Lang="th" Index="63">Bike Boost Card</VALUE>
+    <VALUE Lang="th" Index="64">New Oblivion Potion</VALUE>
+    <VALUE Lang="th" Index="65">Costume Color Change Card</VALUE>
+    <VALUE Lang="th" Index="66">Mailbox Card</VALUE>
+    <VALUE Lang="th" Index="67">Point Card(Refundable)</VALUE>
+    <VALUE Lang="th" Index="68">point card(No Refundable)</VALUE>
+    <VALUE Lang="th" Index="69">Item Mix Scroll</VALUE>
+    <VALUE Lang="th" Index="70">Reset Compounding</VALUE>
+    <VALUE Lang="th" Index="71">Personal Store Searching Card</VALUE>
+    <VALUE Lang="th" Index="72">Repair tools link card</VALUE>
+    <VALUE Lang="th" Index="73">Sealed Card</VALUE>
+    <VALUE Lang="th" Index="74">Stage Pass</VALUE>
+    <VALUE Lang="th" Index="75">Indun Re-entry Card</VALUE>
+    <VALUE Lang="th" Index="76">Game Card Link Card</VALUE>
+    <VALUE Lang="th" Index="77">Ran Game Money</VALUE>
+    <VALUE Lang="th" Index="78">Expansion Card</VALUE>
+    <VALUE Lang="th" Index="79">Mystery Box</VALUE>
+    <VALUE Lang="th" Index="80">Key</VALUE>
+    <VALUE Lang="th" Index="81">Wrapper</VALUE>
+    <VALUE Lang="th" Index="82">Wrapper Box</VALUE>
+    <VALUE Lang="th" Index="83">Campus Transfer Card (To SG)</VALUE>
+    <VALUE Lang="th" Index="84">Campus Transfer Card (To MP)</VALUE>
+    <VALUE Lang="th" Index="85">Campus Transfer Card (To PH)</VALUE>
+    <VALUE Lang="th" Index="86">Country Change Card</VALUE>
+    <VALUE Lang="th" Index="87">Costume Blessed Paper</VALUE>
+    <VALUE Lang="th" Index="88">Debuff Potion</VALUE>
+    <VALUE Lang="th" Index="89">Terminate Paper</VALUE>
+    <VALUE Lang="th" Index="90">EXP Card</VALUE>
+    <VALUE Lang="th" Index="91">Choice Box</VALUE>
+    <VALUE Lang="th" Index="92">EXP Compress</VALUE>
+    <VALUE Lang="th" Index="93">EXP Capsule</VALUE>
+    <VALUE Lang="th" Index="94">Duration Upgrade</VALUE>
+    <VALUE Lang="th" Index="95">Extend Duration</VALUE>
+    <VALUE Lang="th" Index="96">Skip</VALUE>
+    <VALUE Lang="th" Index="97">Skip</VALUE>
+    <VALUE Lang="th" Index="98">Shaper's Disguise Costume</VALUE>
+    <VALUE Lang="th" Index="99">Club Name Change Card</VALUE>
+    <VALUE Lang="th" Index="100">Item Skill Change Card</VALUE>
+    <VALUE Lang="th" Index="101">Item Basic Stats Change Card</VALUE>
+    <VALUE Lang="th" Index="102">Item Additional Stats Change Card</VALUE>
+    <VALUE Lang="th" Index="103">Character Slot Expansion Card</VALUE>
+	<VALUE Lang="th" Index="104">VIP Card</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ITEMVAR">
+    <VALUE Lang="th" Index="0">None</VALUE>
+    <VALUE Lang="th" Index="1">HP Increasing Percentage</VALUE>
+    <VALUE Lang="th" Index="2">MP Increasing Percentage</VALUE>
+    <VALUE Lang="th" Index="3">Sp Increasing Percentage</VALUE>
+    <VALUE Lang="th" Index="4">HP+MP+SP Increasing Percentage</VALUE>
+    <VALUE Lang="th" Index="5">Increase Speed</VALUE>
+    <VALUE Lang="th" Index="6">Increase Attacking Speed</VALUE>
+    <VALUE Lang="th" Index="7">Increase Critical Rate</VALUE>
+    <VALUE Lang="th" Index="8">High Power Appear Rate</VALUE>
+    <VALUE Lang="th" Index="9">Boss mob damage reduction</VALUE>
+    <VALUE Lang="th" Index="10">None</VALUE>
+    <VALUE Lang="th" Index="11">Normal mob critical ability during emergency</VALUE>
+    <VALUE Lang="th" Index="12">Boss mob critical ability during emergency</VALUE>
+    <VALUE Lang="th" Index="13">None</VALUE>
+    <VALUE Lang="th" Index="14">Additional EXP from killing normal mob</VALUE>
+    <VALUE Lang="th" Index="15">Game money drop rate from killing mob</VALUE>
+    <VALUE Lang="th" Index="16">Character physical melee damage reduction</VALUE>
+    <VALUE Lang="th" Index="17">Character physical shooting damage reduction</VALUE>
+    <VALUE Lang="th" Index="18">Character magic effect damage reduction</VALUE>
+    <VALUE Lang="th" Index="19">None</VALUE>
+    <VALUE Lang="th" Index="20">None</VALUE>
+    <VALUE Lang="th" Index="21">Attack speed increase during solo play</VALUE>
+    <VALUE Lang="th" Index="22">Attack speed increase during party play</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="ITEMVOL">
+    <VALUE Lang="th" Index="0">None</VALUE>
+    <VALUE Lang="th" Index="1">HP Increasing Rate</VALUE>
+    <VALUE Lang="th" Index="2">MP Increasing Rate</VALUE>
+    <VALUE Lang="th" Index="3">Sp Increasing Rate</VALUE>
+    <VALUE Lang="th" Index="4">HP+MP+SP Increasing Rate</VALUE>
+    <VALUE Lang="th" Index="5">Increase Speed</VALUE>
+    <VALUE Lang="th" Index="6">Increase Attacking Speed</VALUE>
+    <VALUE Lang="th" Index="7">Increase Critical Rate</VALUE>
+    <VALUE Lang="th" Index="8">None</VALUE>
+    <VALUE Lang="th" Index="9">None</VALUE>
+    <VALUE Lang="th" Index="10">Boss mob fixed damage</VALUE>
+    <VALUE Lang="th" Index="11">None</VALUE>
+    <VALUE Lang="th" Index="12">None</VALUE>
+    <VALUE Lang="th" Index="13">Self damage reduction during emergency</VALUE>
+    <VALUE Lang="th" Index="14">None</VALUE>
+    <VALUE Lang="th" Index="15">None</VALUE>
+    <VALUE Lang="th" Index="16">None</VALUE>
+    <VALUE Lang="th" Index="17">None</VALUE>
+    <VALUE Lang="th" Index="18">None</VALUE>
+    <VALUE Lang="th" Index="19">HP increase during solo play</VALUE>
+    <VALUE Lang="th" Index="20">HP increase during party play</VALUE>
+    <VALUE Lang="th" Index="21">None</VALUE>
+    <VALUE Lang="th" Index="22">None</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="LANDEFFECT_TYPE">
+    <VALUE Lang="th" Index="0">Attackspeed</VALUE>
+    <VALUE Lang="th" Index="1">Movespeed</VALUE>
+    <VALUE Lang="th" Index="2">HPChangerate</VALUE>
+    <VALUE Lang="th" Index="3">MPChangerate</VALUE>
+    <VALUE Lang="th" Index="4">Recoveryrate</VALUE>
+    <VALUE Lang="th" Index="5">DamageChangerate</VALUE>
+    <VALUE Lang="th" Index="6">DefenseChangerate</VALUE>
+    <VALUE Lang="th" Index="7">Resistance</VALUE>
+    <VALUE Lang="th" Index="8">CancelAllBuff</VALUE>
+    <VALUE Lang="th" Index="9">SafeZone</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="MOBACTIONS">
+    <VALUE Lang="th" Index="0">EMACTION_MOVE</VALUE>
+    <VALUE Lang="th" Index="1">EMACTION_ACTSTAY</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="MOVETYPE">
+    <VALUE Lang="th" Index="0">Ground movement</VALUE>
+    <VALUE Lang="th" Index="1">Air Moverment</VALUE>
+    <VALUE Lang="th" Index="2">Aqua movement</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="NPC_ACTIONTYPE">
+    <VALUE Lang="th" Index="0">NotSelected</VALUE>
+    <VALUE Lang="th" Index="1">Next</VALUE>
+    <VALUE Lang="th" Index="2">Function</VALUE>
+    <VALUE Lang="th" Index="3">Start Quest</VALUE>
+    <VALUE Lang="th" Index="4">Process Quest</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="NPC_BASICDESC">
+    <VALUE Lang="th" Index="0">Use Locker</VALUE>
+    <VALUE Lang="th" Index="1">Shop</VALUE>
+    <VALUE Lang="th" Index="2">Heal</VALUE>
+    <VALUE Lang="th" Index="3">Save Point</VALUE>
+    <VALUE Lang="th" Index="4">Reset Stats</VALUE>
+    <VALUE Lang="th" Index="5">Trade Item</VALUE>
+    <VALUE Lang="th" Index="6">Bus Stop</VALUE>
+    <VALUE Lang="th" Index="7">Create Club</VALUE>
+    <VALUE Lang="th" Index="8">Upgrade Club</VALUE>
+    <VALUE Lang="th" Index="9">CD Confirmation</VALUE>
+    <VALUE Lang="th" Index="10">Change Tax Rate</VALUE>
+    <VALUE Lang="th" Index="11">Use Club Locker</VALUE>
+    <VALUE Lang="th" Index="12">ItemRebuild</VALUE>
+    <VALUE Lang="th" Index="13">SimpleGamble</VALUE>
+    <VALUE Lang="th" Index="14">Restored EXP</VALUE>
+    <VALUE Lang="th" Index="15">RandomNPCtalk</VALUE>
+    <VALUE Lang="th" Index="16">Item Search</VALUE>
+    <VALUE Lang="th" Index="17">Attendance Function</VALUE>
+    <VALUE Lang="th" Index="18">ItemCombination</VALUE>
+    <VALUE Lang="th" Index="19">Hire Animal</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="NPC_TYPE">
+    <VALUE Lang="th" Index="0">General NPC</VALUE>
+    <VALUE Lang="th" Index="1">Mailbox</VALUE>
+    <VALUE Lang="th" Index="2">Certification machine</VALUE>
+    <VALUE Lang="th" Index="3">Gambling Game</VALUE>
+    <VALUE Lang="th" Index="4">-----TEMP-----</VALUE>
+    <VALUE Lang="th" Index="5">-----TEMP-----</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="PET_DEFINE">
+    <VALUE Lang="th" Index="0">Pet Type_Siberian Hu</VALUE>
+    <VALUE Lang="th" Index="1">Pet Type_Turtle</VALUE>
+    <VALUE Lang="th" Index="2">Pet Type_White Baby</VALUE>
+    <VALUE Lang="th" Index="3">Pet Type_Ranny Bear</VALUE>
+    <VALUE Lang="th" Index="4">Pet Type_Ranny Owl</VALUE>
+    <VALUE Lang="th" Index="5">Pet Type_Ranny Parro</VALUE>
+    <VALUE Lang="th" Index="6">Pet Type_Rani Stone</VALUE>
+    <VALUE Lang="th" Index="7">Pet Type_Wooden Doll</VALUE>
+    <VALUE Lang="th" Index="8">Pet Type_Monkey</VALUE>
+    <VALUE Lang="th" Index="9">Pet Type_Fairy</VALUE>
+    <VALUE Lang="th" Index="10">Pet Type_Fox</VALUE>
+    <VALUE Lang="th" Index="11">Pet Type_Leopard</VALUE>
+    <VALUE Lang="th" Index="12">Pet Type_Dinosaur</VALUE>
+    <VALUE Lang="th" Index="13">Pet Type_Snake</VALUE>
+    <VALUE Lang="th" Index="14">Pet Type_Phoenix</VALUE>
+    <VALUE Lang="th" Index="15">Pet Type_Fafnir</VALUE>
+    <VALUE Lang="th" Index="16">Pet Type_Jormungand</VALUE>
+    <VALUE Lang="th" Index="17">Pet Type_Sphinx</VALUE>
+    <VALUE Lang="th" Index="18">Pet Type_Behemoth</VALUE>
+    <VALUE Lang="th" Index="19">Pet Type_Gaia</VALUE>
+    <VALUE Lang="th" Index="20">Pet Type_Dragon</VALUE>
+    <VALUE Lang="th" Index="21">Pet Type_Love Choco</VALUE>
+    <VALUE Lang="th" Index="22">Pet Type_Lollipop</VALUE>
+    <VALUE Lang="th" Index="23">Pet Type_Vampire</VALUE>
+    <VALUE Lang="th" Index="24">Pet Type_Chloe</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="PET_INITFILE">
+    <VALUE Lang="th" Index="0">pet_01.charset</VALUE>
+    <VALUE Lang="th" Index="1">pet_02.charset</VALUE>
+    <VALUE Lang="th" Index="2">pet_03.charset</VALUE>
+    <VALUE Lang="th" Index="3">pet_04.charset</VALUE>
+    <VALUE Lang="th" Index="4">pet_05.charset</VALUE>
+    <VALUE Lang="th" Index="5">pet_06.charset</VALUE>
+    <VALUE Lang="th" Index="6">pet_07.charset</VALUE>
+    <VALUE Lang="th" Index="7">pet_08.charset</VALUE>
+    <VALUE Lang="th" Index="8">pet_09.charset</VALUE>
+    <VALUE Lang="th" Index="9">pet_10.charset</VALUE>
+    <VALUE Lang="th" Index="10">pet_11.charset</VALUE>
+    <VALUE Lang="th" Index="11">pet_12.charset</VALUE>
+    <VALUE Lang="th" Index="12">pet_13.charset</VALUE>
+    <VALUE Lang="th" Index="13">pet_14.charset</VALUE>
+    <VALUE Lang="th" Index="14">pet_15.charset</VALUE>
+    <VALUE Lang="th" Index="15">pet_16.charset</VALUE>
+    <VALUE Lang="th" Index="16">pet_17.charset</VALUE>
+    <VALUE Lang="th" Index="17">pet_18.charset</VALUE>
+    <VALUE Lang="th" Index="18">pet_19.charset</VALUE>
+    <VALUE Lang="th" Index="19">pet_20.charset</VALUE>
+    <VALUE Lang="th" Index="20">pet_21.charset</VALUE>
+    <VALUE Lang="th" Index="21">pet_22.charset</VALUE>
+    <VALUE Lang="th" Index="22">pet_23.charset</VALUE>
+    <VALUE Lang="th" Index="23">pet_24.charset</VALUE>
+    <VALUE Lang="th" Index="24">pet_25.charset</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="PET_STYLECARDTEXT">
+    <VALUE Lang="th" Index="0">PETSTYLECARD_NAME_A</VALUE>
+    <VALUE Lang="th" Index="1">PETSTYLECARD_NAME_B</VALUE>
+    <VALUE Lang="th" Index="2">PETSTYLECARD_NAME_C</VALUE>
+    <VALUE Lang="th" Index="3">PETSTYLECARD_NAME_D</VALUE>
+    <VALUE Lang="th" Index="4">PETSTYLECARD_NAME_E</VALUE>
+    <VALUE Lang="th" Index="5">PETSTYLECARD_NAME_F</VALUE>
+    <VALUE Lang="th" Index="6">PETSTYLECARD_NAME_G</VALUE>
+    <VALUE Lang="th" Index="7">PETSTYLECARD_NAME_H</VALUE>
+    <VALUE Lang="th" Index="8">PETSTYLECARD_NAME_I</VALUE>
+    <VALUE Lang="th" Index="9">PETSTYLECARD_NAME_J</VALUE>
+    <VALUE Lang="th" Index="10">PETSTYLECARD_NAME_K</VALUE>
+    <VALUE Lang="th" Index="11">PETSTYLECARD_NAME_L</VALUE>
+    <VALUE Lang="th" Index="12">PETSTYLECARD_NAME_M</VALUE>
+    <VALUE Lang="th" Index="13">PETSTYLECARD_NAME_N</VALUE>
+    <VALUE Lang="th" Index="14">PETSTYLECARD_NAME_O</VALUE>
+    <VALUE Lang="th" Index="15">PETSTYLECARD_NAME_P</VALUE>
+    <VALUE Lang="th" Index="16">PETSTYLECARD_NAME_Q</VALUE>
+    <VALUE Lang="th" Index="17">PETSTYLECARD_NAME_R</VALUE>
+    <VALUE Lang="th" Index="18">PETSTYLECARD_NAME_S</VALUE>
+    <VALUE Lang="th" Index="19">PETSTYLECARD_NAME_T</VALUE>
+    <VALUE Lang="th" Index="20">PETSTYLECARD_NAME_U</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="PET_STYLECARDUI">
+    <VALUE Lang="th" Index="0">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="1">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="2">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="3">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="4">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="5">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="6">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="7">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="8">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="9">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="10">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="11">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="12">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="13">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="14">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="15">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="16">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="17">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="18">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="19">pet_style.dds</VALUE>
+    <VALUE Lang="th" Index="20">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="21">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="22">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="23">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="24">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="25">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="26">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="27">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="28">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="29">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="30">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="31">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="32">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="33">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="34">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="35">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="36">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="37">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="38">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="39">pet_style03.dds</VALUE>
+    <VALUE Lang="th" Index="40">pet_style03.dds</VALUE>
+    <VALUE Lang="th" Index="41">pet_style03.dds</VALUE>
+    <VALUE Lang="th" Index="42">pet_style03.dds</VALUE>
+    <VALUE Lang="th" Index="43">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="44">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="45">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="46">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="47">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="48">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="49">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="50">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="51">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="52">pet_style03.dds</VALUE>
+    <VALUE Lang="th" Index="53">pet_style03.dds</VALUE>
+    <VALUE Lang="th" Index="54">pet_style03.dds</VALUE>
+    <VALUE Lang="th" Index="55">pet_style03.dds</VALUE>
+    <VALUE Lang="th" Index="56">pet_style03.dds</VALUE>
+    <VALUE Lang="th" Index="57">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="58">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="59">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="60">pet_style02.dds</VALUE>
+    <VALUE Lang="th" Index="61">pet_style02.dds</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="PET_TYPE">
+    <VALUE Lang="th" Index="0">Pet Type_Siberian Husky</VALUE>
+    <VALUE Lang="th" Index="1">Pet Type_Turtle</VALUE>
+    <VALUE Lang="th" Index="2">Pet Type_White Baby Tiger</VALUE>
+    <VALUE Lang="th" Index="3">Pet Type_Ranny Bear</VALUE>
+    <VALUE Lang="th" Index="4">Pet Type_Ranny Owl</VALUE>
+    <VALUE Lang="th" Index="5">Pet Type_Ranny Parrot</VALUE>
+    <VALUE Lang="th" Index="6">Pet Type_Rani Stone</VALUE>
+    <VALUE Lang="th" Index="7">Pet Type_Wooden Doll</VALUE>
+    <VALUE Lang="th" Index="8">Pet Type_Monkey</VALUE>
+    <VALUE Lang="th" Index="9">Pet Type_Fairy</VALUE>
+    <VALUE Lang="th" Index="10">Pet Type_Fox</VALUE>
+    <VALUE Lang="th" Index="11">Pet Type_Leopard</VALUE>
+    <VALUE Lang="th" Index="12">Pet Type_Dinosaur</VALUE>
+    <VALUE Lang="th" Index="13">Pet Type_Snake</VALUE>
+    <VALUE Lang="th" Index="14">Pet Type_Phoenix</VALUE>
+    <VALUE Lang="th" Index="15">Pet Type_Fafnir</VALUE>
+    <VALUE Lang="th" Index="16">Pet Type_Jormungandr</VALUE>
+    <VALUE Lang="th" Index="17">Pet Type_Sphinx</VALUE>
+    <VALUE Lang="th" Index="18">Pet Type_Behemoth</VALUE>
+    <VALUE Lang="th" Index="19">Pet Type_Gaia</VALUE>
+    <VALUE Lang="th" Index="20">Pet Type_Dragon</VALUE>
+    <VALUE Lang="th" Index="21">Pet Type_Love Choco</VALUE>
+    <VALUE Lang="th" Index="22">Pet Type_Lollipop</VALUE>
+    <VALUE Lang="th" Index="23">Pet Type_Vampire</VALUE>
+    <VALUE Lang="th" Index="24">Pet Type_Chloe</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="POSTBOX_DESIGN_TYPE">
+    <VALUE Lang="th" Index="0">None</VALUE>
+    <VALUE Lang="th" Index="1">Gift Card</VALUE>
+    <VALUE Lang="th" Index="2">Club Message</VALUE>
+    <VALUE Lang="th" Index="3">Happy Birthday Card 1</VALUE>
+    <VALUE Lang="th" Index="4">Happy Birthday Card 2</VALUE>
+    <VALUE Lang="th" Index="5">Christmas Card 1</VALUE>
+    <VALUE Lang="th" Index="6">Christmas Card 2</VALUE>
+    <VALUE Lang="th" Index="7">Happy New Year Card</VALUE>
+    <VALUE Lang="th" Index="8">Character Card 1</VALUE>
+    <VALUE Lang="th" Index="9">Character Card 2</VALUE>
+    <VALUE Lang="th" Index="10">Character Card 3</VALUE>
+    <VALUE Lang="th" Index="11">Character Card 4</VALUE>
+    <VALUE Lang="th" Index="12">Character Card 5</VALUE>
+    <VALUE Lang="th" Index="13">Character Card 6</VALUE>
+    <VALUE Lang="th" Index="14">Character Card 7</VALUE>
+    <VALUE Lang="th" Index="15">Character Card 8</VALUE>
+    <VALUE Lang="th" Index="16">Character Card 9</VALUE>
+    <VALUE Lang="th" Index="17">Character Card 10</VALUE>
+    <VALUE Lang="th" Index="18">Character Card 11</VALUE>
+    <VALUE Lang="th" Index="19">Character Card 12</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="PRODUCT_TYPE_NAME">
+    <VALUE Lang="th" Index="0">Hat/Hair</VALUE>
+    <VALUE Lang="th" Index="1">Shirt/Vest</VALUE>
+    <VALUE Lang="th" Index="2">Skirt/Pants</VALUE>
+    <VALUE Lang="th" Index="3">Gloves</VALUE>
+    <VALUE Lang="th" Index="4">Shoes</VALUE>
+    <VALUE Lang="th" Index="5">Weapon</VALUE>
+    <VALUE Lang="th" Index="6">Necklace &amp; Earrings</VALUE>
+    <VALUE Lang="th" Index="7">Bracelet &amp; Belt</VALUE>
+    <VALUE Lang="th" Index="8">Ring &amp; Accessorry</VALUE>
+    <VALUE Lang="th" Index="9">ETC</VALUE>
+    <VALUE Lang="th" Index="10">Box Item</VALUE>
+    <VALUE Lang="th" Index="11">Costume</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="QUEST_AREA">
+    <VALUE Lang="th" Index="0">SG MP PH Campus</VALUE>
+    <VALUE Lang="th" Index="1">SG MP PH GateHole</VALUE>
+    <VALUE Lang="th" Index="2">Dormitory</VALUE>
+    <VALUE Lang="th" Index="3">tutorial</VALUE>
+    <VALUE Lang="th" Index="4">Root Hole</VALUE>
+    <VALUE Lang="th" Index="5">Head.B Area</VALUE>
+    <VALUE Lang="th" Index="6">PhoenixHole</VALUE>
+    <VALUE Lang="th" Index="7">PhoenixCampus</VALUE>
+    <VALUE Lang="th" Index="8">TradingHole</VALUE>
+    <VALUE Lang="th" Index="9">Trading4Passage</VALUE>
+    <VALUE Lang="th" Index="10">SacredGateHole</VALUE>
+    <VALUE Lang="th" Index="11">SG_Campus</VALUE>
+    <VALUE Lang="th" Index="12">Prison</VALUE>
+    <VALUE Lang="th" Index="13">Saint Research Complex</VALUE>
+    <VALUE Lang="th" Index="14">Complex Basement</VALUE>
+    <VALUE Lang="th" Index="15">PracticingYard</VALUE>
+    <VALUE Lang="th" Index="16">Middle Hole</VALUE>
+    <VALUE Lang="th" Index="17">WharfPassage</VALUE>
+    <VALUE Lang="th" Index="18">MarketPlace</VALUE>
+    <VALUE Lang="th" Index="19">MysticPeakHole</VALUE>
+    <VALUE Lang="th" Index="20">MP_Campus</VALUE>
+    <VALUE Lang="th" Index="21">LeonineCampus1F</VALUE>
+    <VALUE Lang="th" Index="22">LeonineCampus</VALUE>
+    <VALUE Lang="th" Index="23">Map Entry Quest</VALUE>
+    <VALUE Lang="th" Index="24">Event Quest</VALUE>
+    <VALUE Lang="th" Index="25">Regional Quest</VALUE>
+    <VALUE Lang="th" Index="26">Level Achieving Quest</VALUE>
+    <VALUE Lang="th" Index="27">Disabled Quest</VALUE>
+    <VALUE Lang="th" Index="28">Saint power plant</VALUE>
+    <VALUE Lang="th" Index="29">Lost City&amp;Chaos Island</VALUE>
+    <VALUE Lang="th" Index="30">Premium</VALUE>
+    <VALUE Lang="th" Index="31">day limited</VALUE>
+    <VALUE Lang="th" Index="32">DaeShin District</VALUE>
+    <VALUE Lang="th" Index="33">East Shopping Region</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="QUEST_PROGRESS">
+    <VALUE Lang="th" Index="0">NoEvent</VALUE>
+    <VALUE Lang="th" Index="1">CharDeath</VALUE>
+    <VALUE Lang="th" Index="2">MovetoStart</VALUE>
+    <VALUE Lang="th" Index="3">MovetoSpecifiedPlace</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="QUEST_STEP_COMMENT_TEXT">
+    <VALUE Lang="th" Index="0">Meet</VALUE>
+    <VALUE Lang="th" Index="1">Obtained</VALUE>
+    <VALUE Lang="th" Index="2">Eliminate</VALUE>
+    <VALUE Lang="th" Index="3">Must Protect</VALUE>
+    <VALUE Lang="th" Index="4">Arrived at</VALUE>
+    <VALUE Lang="th" Index="5">Defend</VALUE>
+    <VALUE Lang="th" Index="6">Must Use</VALUE>
+    <VALUE Lang="th" Index="7">Must Compound</VALUE>
+    <VALUE Lang="th" Index="8">Increase Level</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="REARCARTYPE">
+    <VALUE Lang="th" Index="0">REARCAR_A</VALUE>
+    <VALUE Lang="th" Index="1">REARCAR_B</VALUE>
+    <VALUE Lang="th" Index="2">REARCAR_C</VALUE>
+    <VALUE Lang="th" Index="3">REARCAR_D</VALUE>
+    <VALUE Lang="th" Index="4">없음</VALUE>
+    <VALUE Lang="th" Index="5">없음</VALUE>
+    <VALUE Lang="th" Index="6">없음</VALUE>
+    <VALUE Lang="th" Index="7">없음</VALUE>
+    <VALUE Lang="th" Index="8">없음</VALUE>
+    <VALUE Lang="th" Index="9">없음</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SCHOOLNAME">
+    <VALUE Lang="th" Index="0">Sacred Gate</VALUE>
+    <VALUE Lang="th" Index="1">Mystic Peak</VALUE>
+    <VALUE Lang="th" Index="2">Phoenix</VALUE>
+    <VALUE Lang="th" Index="3">--TEMP--</VALUE>
+    <VALUE Lang="th" Index="4">--TEMP--</VALUE>
+    <VALUE Lang="th" Index="5">--TEMP--</VALUE>
+    <VALUE Lang="th" Index="6">--TEMP--</VALUE>
+    <VALUE Lang="th" Index="7">--TEMP--</VALUE>
+    <VALUE Lang="th" Index="8">--TEMP--</VALUE>
+    <VALUE Lang="th" Index="9">--TEMP--</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SKILL_ACTION_TYPE">
+    <VALUE Lang="th" Index="0">Normal Type</VALUE>
+    <VALUE Lang="th" Index="1">Buff Type</VALUE>
+    <VALUE Lang="th" Index="2">Debuff Type</VALUE>
+    <VALUE Lang="th" Index="3">Limit Type</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SKILL_APPLY">
+    <VALUE Lang="th" Index="0">Melee</VALUE>
+    <VALUE Lang="th" Index="1">Missile</VALUE>
+    <VALUE Lang="th" Index="2">Magic</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SKILL_EFFECT_TYPE">
+    <VALUE Lang="th" Index="0">없음</VALUE>
+    <VALUE Lang="th" Index="1">부가효과</VALUE>
+    <VALUE Lang="th" Index="2">특수효과</VALUE>
+    <VALUE Lang="th" Index="3">특수능력</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SKILL_EFFPOS">
+    <VALUE Lang="th" Index="0">Ground position</VALUE>
+    <VALUE Lang="th" Index="1">Hit Position</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SKILL_EFFTIME">
+    <VALUE Lang="th" Index="0">Mobilizing</VALUE>
+    <VALUE Lang="th" Index="1">Hitting</VALUE>
+    <VALUE Lang="th" Index="2">at the effect ending</VALUE>
+    <VALUE Lang="th" Index="3">Goal's Installation</VALUE>
+    <VALUE Lang="th" Index="4">NULL</VALUE>
+    <VALUE Lang="th" Index="5">When Effect Activated</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SKILL_KEYWORD">
+    <VALUE Lang="th" Index="0">Can be overlapped</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SKILL_LEVEL">
+    <VALUE Lang="th" Index="0">Level 01</VALUE>
+    <VALUE Lang="th" Index="1">Level 02</VALUE>
+    <VALUE Lang="th" Index="2">Level 03</VALUE>
+    <VALUE Lang="th" Index="3">Level 04</VALUE>
+    <VALUE Lang="th" Index="4">Level 05</VALUE>
+    <VALUE Lang="th" Index="5">Level 06</VALUE>
+    <VALUE Lang="th" Index="6">Level 07</VALUE>
+    <VALUE Lang="th" Index="7">Level 08</VALUE>
+    <VALUE Lang="th" Index="8">Level 09</VALUE>
+    <VALUE Lang="th" Index="9">Level 10</VALUE>
+    <VALUE Lang="th" Index="10">Level 11</VALUE>
+    <VALUE Lang="th" Index="11">Level 12</VALUE>
+    <VALUE Lang="th" Index="12">Level 13</VALUE>
+    <VALUE Lang="th" Index="13">Level 14</VALUE>
+    <VALUE Lang="th" Index="14">Level 15</VALUE>
+    <VALUE Lang="th" Index="15">Level 16</VALUE>
+    <VALUE Lang="th" Index="16">Level 17</VALUE>
+    <VALUE Lang="th" Index="17">Level 18</VALUE>
+    <VALUE Lang="th" Index="18">Level 19</VALUE>
+    <VALUE Lang="th" Index="19">Level 20</VALUE>
+    <VALUE Lang="th" Index="20">Level 21</VALUE>
+    <VALUE Lang="th" Index="21">Level 22</VALUE>
+    <VALUE Lang="th" Index="22">Level 23</VALUE>
+    <VALUE Lang="th" Index="23">Level 24</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SKILL_LINK_APPLY_TYPE">
+    <VALUE Lang="th" Index="0">All</VALUE>
+    <VALUE Lang="th" Index="1">Self</VALUE>
+    <VALUE Lang="th" Index="2">Opponent</VALUE>
+    <VALUE Lang="th" Index="3">Mob</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SKILL_ROLE">
+    <VALUE Lang="th" Index="0">Active</VALUE>
+    <VALUE Lang="th" Index="1">Passive</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SKILL_TYPES">
+    <VALUE Lang="th" Index="0">HP Change</VALUE>
+    <VALUE Lang="th" Index="1">MP Change</VALUE>
+    <VALUE Lang="th" Index="2">SP Change</VALUE>
+    <VALUE Lang="th" Index="3">HP Change Rate</VALUE>
+    <VALUE Lang="th" Index="4">MP Change Rate</VALUE>
+    <VALUE Lang="th" Index="5">SP Change Rate</VALUE>
+    <VALUE Lang="th" Index="6">Defense Change</VALUE>
+    <VALUE Lang="th" Index="7">Detoxification</VALUE>
+    <VALUE Lang="th" Index="8">Accuraccy Change</VALUE>
+    <VALUE Lang="th" Index="9">Evasion Change</VALUE>
+    <VALUE Lang="th" Index="10">HP+MP+SP Change Rate</VALUE>
+    <VALUE Lang="th" Index="11">Attack Change Amount</VALUE>
+    <VALUE Lang="th" Index="12">Defense Change Amount</VALUE>
+    <VALUE Lang="th" Index="13">Melee</VALUE>
+    <VALUE Lang="th" Index="14">Shooting</VALUE>
+    <VALUE Lang="th" Index="15">Energy</VALUE>
+    <VALUE Lang="th" Index="16">HP Increase Rate</VALUE>
+    <VALUE Lang="th" Index="17">MP Increase Rate</VALUE>
+    <VALUE Lang="th" Index="18">SP Increase Rate</VALUE>
+    <VALUE Lang="th" Index="19">PET Collect All</VALUE>
+    <VALUE Lang="th" Index="20">PET Collect Rare</VALUE>
+    <VALUE Lang="th" Index="21">PET Collect Potion</VALUE>
+    <VALUE Lang="th" Index="22">PET Collect Gold</VALUE>
+    <VALUE Lang="th" Index="23">PET Collect Enhancer</VALUE>
+    <VALUE Lang="th" Index="24">PET HP Recovery</VALUE>
+    <VALUE Lang="th" Index="25">PET Rejuvenation</VALUE>
+    <VALUE Lang="th" Index="26">PET Attack Aid</VALUE>
+    <VALUE Lang="th" Index="27">PET Defense Aid</VALUE>
+    <VALUE Lang="th" Index="28">PET Take Potion</VALUE>
+    <VALUE Lang="th" Index="29">PET Item Protection</VALUE>
+    <VALUE Lang="th" Index="30">Resistance Change</VALUE>
+    <VALUE Lang="th" Index="31">Summon Duration Increase</VALUE>
+    <VALUE Lang="th" Index="32">Able to Hire Animals</VALUE>
+    <VALUE Lang="th" Index="33">PET Qbox</VALUE>
+    <VALUE Lang="th" Index="34">PET Feed</VALUE>
+    <VALUE Lang="th" Index="35">PET Collect Legendary</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SKILLATTACK">
+    <VALUE Lang="th" Index="0">No Wearing</VALUE>
+    <VALUE Lang="th" Index="1">Sword</VALUE>
+    <VALUE Lang="th" Index="2">Blade</VALUE>
+    <VALUE Lang="th" Index="3">Sword/Blade</VALUE>
+    <VALUE Lang="th" Index="4">Dagger</VALUE>
+    <VALUE Lang="th" Index="5">Spear</VALUE>
+    <VALUE Lang="th" Index="6">Mace</VALUE>
+    <VALUE Lang="th" Index="7">Fist</VALUE>
+    <VALUE Lang="th" Index="8">Bow</VALUE>
+    <VALUE Lang="th" Index="9">Thrown</VALUE>
+    <VALUE Lang="th" Index="10">Gun</VALUE>
+    <VALUE Lang="th" Index="11">Rail-gun</VALUE>
+    <VALUE Lang="th" Index="12">Portal-gun</VALUE>
+    <VALUE Lang="th" Index="13">Shotgun</VALUE>
+    <VALUE Lang="th" Index="14">Rail-gun/Portal-gun</VALUE>
+    <VALUE Lang="th" Index="15">scythe</VALUE>
+    <VALUE Lang="th" Index="16">Dual Spear</VALUE>
+    <VALUE Lang="th" Index="17">Shuriken</VALUE>
+    <VALUE Lang="th" Index="18">extreme Fist</VALUE>
+    <VALUE Lang="th" Index="19">Wand</VALUE>
+    <VALUE Lang="th" Index="20">Cube</VALUE>
+    <VALUE Lang="th" Index="21">Rope</VALUE>
+    <VALUE Lang="th" Index="22">Shield</VALUE>
+    <VALUE Lang="th" Index="23">Hammer</VALUE>
+    <VALUE Lang="th" Index="24">Umbrella</VALUE>
+    <VALUE Lang="th" Index="25">Type not checked</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SKILLCLASS">
+    <VALUE Lang="th" Index="0">Brawler-class1</VALUE>
+    <VALUE Lang="th" Index="1">Brawler-class2</VALUE>
+    <VALUE Lang="th" Index="2">Brawler-class3</VALUE>
+    <VALUE Lang="th" Index="3">Brawler-class4</VALUE>
+    <VALUE Lang="th" Index="4">Sword-class1</VALUE>
+    <VALUE Lang="th" Index="5">Sword-class2</VALUE>
+    <VALUE Lang="th" Index="6">Sword-class3</VALUE>
+    <VALUE Lang="th" Index="7">Sword -class4</VALUE>
+    <VALUE Lang="th" Index="8">Archery-class1</VALUE>
+    <VALUE Lang="th" Index="9">Archery-class2</VALUE>
+    <VALUE Lang="th" Index="10">Archery-class3</VALUE>
+    <VALUE Lang="th" Index="11">Archery-class4</VALUE>
+    <VALUE Lang="th" Index="12">Shaman-class1</VALUE>
+    <VALUE Lang="th" Index="13">Shaman-class2</VALUE>
+    <VALUE Lang="th" Index="14">Shaman-class3</VALUE>
+    <VALUE Lang="th" Index="15">Shaman-class4</VALUE>
+    <VALUE Lang="th" Index="16">NPC_01</VALUE>
+    <VALUE Lang="th" Index="17">NPC_02</VALUE>
+    <VALUE Lang="th" Index="18">NPC_03</VALUE>
+    <VALUE Lang="th" Index="19">NPC_04</VALUE>
+    <VALUE Lang="th" Index="20">NPC_05</VALUE>
+    <VALUE Lang="th" Index="21">NPC_06</VALUE>
+    <VALUE Lang="th" Index="22">NPC_07</VALUE>
+    <VALUE Lang="th" Index="23">NPC_08</VALUE>
+    <VALUE Lang="th" Index="24">NPC_09</VALUE>
+    <VALUE Lang="th" Index="25">NPC_10</VALUE>
+    <VALUE Lang="th" Index="26">PET</VALUE>
+    <VALUE Lang="th" Index="27">NPC_12</VALUE>
+    <VALUE Lang="th" Index="28">NPC_13</VALUE>
+    <VALUE Lang="th" Index="29">NPC_14</VALUE>
+    <VALUE Lang="th" Index="30">New-class1</VALUE>
+    <VALUE Lang="th" Index="31">New-class2</VALUE>
+    <VALUE Lang="th" Index="32">New-class3</VALUE>
+    <VALUE Lang="th" Index="33">New-class4</VALUE>
+    <VALUE Lang="th" Index="34">NPC_19</VALUE>
+    <VALUE Lang="th" Index="35">NPC_20</VALUE>
+    <VALUE Lang="th" Index="36">Science-class1</VALUE>
+    <VALUE Lang="th" Index="37">Science-class2</VALUE>
+    <VALUE Lang="th" Index="38">Science-class3</VALUE>
+    <VALUE Lang="th" Index="39">Science-class4</VALUE>
+    <VALUE Lang="th" Index="40">Food(Lunch)</VALUE>
+    <VALUE Lang="th" Index="41">Summon</VALUE>
+    <VALUE Lang="th" Index="42">Magician's Animal</VALUE>
+    <VALUE Lang="th" Index="43">Assassin-class1</VALUE>
+    <VALUE Lang="th" Index="44">Assassin-class2</VALUE>
+    <VALUE Lang="th" Index="45">Assassin-class3</VALUE>
+    <VALUE Lang="th" Index="46">Assassin-class4</VALUE>
+    <VALUE Lang="th" Index="47">ETC-class1</VALUE>
+    <VALUE Lang="th" Index="48">ETC-class2</VALUE>
+    <VALUE Lang="th" Index="49">ETC-class3</VALUE>
+    <VALUE Lang="th" Index="50">ETC-class4</VALUE>
+    <VALUE Lang="th" Index="51">CaptureTheField</VALUE>
+    <VALUE Lang="th" Index="52">Event</VALUE>
+    <VALUE Lang="th" Index="53">ETC</VALUE>
+    <VALUE Lang="th" Index="54">Test</VALUE>
+    <VALUE Lang="th" Index="55">Magician-multi</VALUE>
+    <VALUE Lang="th" Index="56">Magician-class1</VALUE>
+    <VALUE Lang="th" Index="57">Magician-class2</VALUE>
+    <VALUE Lang="th" Index="58">Magician-class3</VALUE>
+    <VALUE Lang="th" Index="59">Magician-class4</VALUE>
+    <VALUE Lang="th" Index="60">Shaper---Additional Skills</VALUE>
+    <VALUE Lang="th" Index="61">Shaper---DEX</VALUE>
+    <VALUE Lang="th" Index="62">Shaper---POW</VALUE>
+    <VALUE Lang="th" Index="63">Shaper---INT</VALUE>
+    <VALUE Lang="th" Index="64">Shaper---Basic</VALUE>
+    <VALUE Lang="th" Index="65">Shaper---Disguised DEX</VALUE>
+    <VALUE Lang="th" Index="66">Shaper---Disguised POW</VALUE>
+    <VALUE Lang="th" Index="67">Shaper---Disguised INT</VALUE>
+    <VALUE Lang="th" Index="68">Shaper---Disguised Basic</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SPEC_ADDON">
+    <VALUE Lang="th" Index="0">None</VALUE>
+    <VALUE Lang="th" Index="1">Shock</VALUE>
+    <VALUE Lang="th" Index="2">Reflex Damage</VALUE>
+    <VALUE Lang="th" Index="3">Revive</VALUE>
+    <VALUE Lang="th" Index="4">Steal Hp</VALUE>
+    <VALUE Lang="th" Index="5">Steal MP</VALUE>
+    <VALUE Lang="th" Index="6">Steal SP</VALUE>
+    <VALUE Lang="th" Index="7">Share HP</VALUE>
+    <VALUE Lang="th" Index="8">Share MP</VALUE>
+    <VALUE Lang="th" Index="9">Share SP</VALUE>
+    <VALUE Lang="th" Index="10">Prevent Abnormal Condition</VALUE>
+    <VALUE Lang="th" Index="11">Recover Abnormal Condition</VALUE>
+    <VALUE Lang="th" Index="12">Penetration</VALUE>
+    <VALUE Lang="th" Index="13">Shooting Range</VALUE>
+    <VALUE Lang="th" Index="14">Moving Speed</VALUE>
+    <VALUE Lang="th" Index="15">Dash Attack</VALUE>
+    <VALUE Lang="th" Index="16">Hiding</VALUE>
+    <VALUE Lang="th" Index="17">Detect Hiding</VALUE>
+    <VALUE Lang="th" Index="18">Attack Speed</VALUE>
+    <VALUE Lang="th" Index="19">Skill Delay</VALUE>
+    <VALUE Lang="th" Index="20">Blow Attack</VALUE>
+    <VALUE Lang="th" Index="21">Melee Damage Absorption</VALUE>
+    <VALUE Lang="th" Index="22">Magic Damage Absorption</VALUE>
+    <VALUE Lang="th" Index="23">Reflex Melee Damage</VALUE>
+    <VALUE Lang="th" Index="24">Reflex Magic Damage</VALUE>
+    <VALUE Lang="th" Index="25">Remove Skill Effect</VALUE>
+    <VALUE Lang="th" Index="26">Stun</VALUE>
+    <VALUE Lang="th" Index="27">Active Type Skill</VALUE>
+    <VALUE Lang="th" Index="28">Pull</VALUE>
+    <VALUE Lang="th" Index="29">Push</VALUE>
+    <VALUE Lang="th" Index="30">Continuous Damage</VALUE>
+    <VALUE Lang="th" Index="31">Curse</VALUE>
+    <VALUE Lang="th" Index="32">Change Attack Range</VALUE>
+    <VALUE Lang="th" Index="33">Change Coverage Area</VALUE>
+    <VALUE Lang="th" Index="34">Prohibit Using Potion</VALUE>
+    <VALUE Lang="th" Index="35">Prohibit Using Skill</VALUE>
+    <VALUE Lang="th" Index="36">Damage Absorption (ignore)</VALUE>
+    <VALUE Lang="th" Index="37">Item Drop Rate</VALUE>
+    <VALUE Lang="th" Index="38">Money Drop Rate	</VALUE>
+    <VALUE Lang="th" Index="39">Get Exp Rate</VALUE>
+    <VALUE Lang="th" Index="40">Talk to Specific NPC</VALUE>
+    <VALUE Lang="th" Index="41">Specific Item Drop</VALUE>
+    <VALUE Lang="th" Index="42">순간이동</VALUE>
+    <VALUE Lang="th" Index="43">위치교대</VALUE>
+    <VALUE Lang="th" Index="44">강화</VALUE>
+    <VALUE Lang="th" Index="45">허상</VALUE>
+    <VALUE Lang="th" Index="46">하차</VALUE>
+    <VALUE Lang="th" Index="47">지속시간증감</VALUE>
+    <VALUE Lang="th" Index="48">낙인</VALUE>
+    <VALUE Lang="th" Index="49">환독</VALUE>
+    <VALUE Lang="th" Index="50">피격시효과해제</VALUE>
+    <VALUE Lang="th" Index="51">고리</VALUE>
+    <VALUE Lang="th" Index="52">수독</VALUE>
+    <VALUE Lang="th" Index="53">면역</VALUE>
+    <VALUE Lang="th" Index="54">전투상태</VALUE>
+    <VALUE Lang="th" Index="55">전투상태해제</VALUE>
+    <VALUE Lang="th" Index="56">타겟고정</VALUE>
+    <VALUE Lang="th" Index="57">지배</VALUE>
+    <VALUE Lang="th" Index="58">랜덤 경험치 획득율</VALUE>
+    <VALUE Lang="th" Index="59">스킬 링크</VALUE>
+    <VALUE Lang="th" Index="60">공격력(정수)</VALUE>
+    <VALUE Lang="th" Index="61">공격력(비율)</VALUE>
+    <VALUE Lang="th" Index="62">방어력(정수)</VALUE>
+    <VALUE Lang="th" Index="63">방어력(비율)</VALUE>
+    <VALUE Lang="th" Index="64">명중률(정수)</VALUE>
+    <VALUE Lang="th" Index="65">명중률(비율)</VALUE>
+    <VALUE Lang="th" Index="66">회피율(정수)</VALUE>
+    <VALUE Lang="th" Index="67">회피율(비율)</VALUE>
+    <VALUE Lang="th" Index="68">hp증가</VALUE>
+    <VALUE Lang="th" Index="69">mp증가</VALUE>
+    <VALUE Lang="th" Index="70">sp증가</VALUE>
+    <VALUE Lang="th" Index="71">cp 증가</VALUE>
+    <VALUE Lang="th" Index="72">hp회복율</VALUE>
+    <VALUE Lang="th" Index="73">mp회복율</VALUE>
+    <VALUE Lang="th" Index="74">sp회복율</VALUE>
+    <VALUE Lang="th" Index="75">hp, mp, sp 회복율</VALUE>
+    <VALUE Lang="th" Index="76">공격 영역</VALUE>
+    <VALUE Lang="th" Index="77">sp 소모량</VALUE>
+    <VALUE Lang="th" Index="78">저항</VALUE>
+    <VALUE Lang="th" Index="79">힘(정수)</VALUE>
+    <VALUE Lang="th" Index="80">체력(정수)</VALUE>
+    <VALUE Lang="th" Index="81">정신(정수)</VALUE>
+    <VALUE Lang="th" Index="82">민첩(정수)</VALUE>
+    <VALUE Lang="th" Index="83">근력(정수)</VALUE>
+    <VALUE Lang="th" Index="84">격투치(정수)</VALUE>
+    <VALUE Lang="th" Index="85">사격치(정수)</VALUE>
+    <VALUE Lang="th" Index="86">마력치(정수)</VALUE>
+    <VALUE Lang="th" Index="87">포션 hp증가(정수)</VALUE>
+    <VALUE Lang="th" Index="88">포션 mp증가(정수)</VALUE>
+    <VALUE Lang="th" Index="89">포션 sp증가(정수)</VALUE>
+    <VALUE Lang="th" Index="90">cp증가(정수)</VALUE>
+    <VALUE Lang="th" Index="91">이동속도(정수)</VALUE>
+    <VALUE Lang="th" Index="92">데미지(비율)</VALUE>
+    <VALUE Lang="th" Index="93">시야제한(비율)</VALUE>
+    <VALUE Lang="th" Index="94">에어본</VALUE>
+    <VALUE Lang="th" Index="95">소환수(페이지변경)</VALUE>
+    <VALUE Lang="th" Index="96">소환수(스킬)</VALUE>
+    <VALUE Lang="th" Index="97">소환수(타겟팅)</VALUE>
+    <VALUE Lang="th" Index="98">소환수(퇴각)</VALUE>
+    <VALUE Lang="th" Index="99">지연발동</VALUE>
+    <VALUE Lang="th" Index="100">복제효과</VALUE>
+    <VALUE Lang="th" Index="101">이속제한</VALUE>
+    <VALUE Lang="th" Index="102">Counter</VALUE>
+    <VALUE Lang="th" Index="103">Screen Toss</VALUE>
+    <VALUE Lang="th" Index="104">Summon (Gate)</VALUE>
+    <VALUE Lang="th" Index="105">Play Dead</VALUE>
+    <VALUE Lang="th" Index="106">Hit the Camera</VALUE>
+    <VALUE Lang="th" Index="107">Disguise</VALUE>
+    <VALUE Lang="th" Index="108">Provoke</VALUE>
+    <VALUE Lang="th" Index="109">Special Immune Effect</VALUE>
+    <VALUE Lang="th" Index="110">Damage Activated</VALUE>
+    <VALUE Lang="th" Index="111">Remove Special Skill Effect</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SPEC_ADDON_VAR1">
+    <VALUE Lang="th" Index="0">None</VALUE>
+    <VALUE Lang="th" Index="1">Range</VALUE>
+    <VALUE Lang="th" Index="2">None</VALUE>
+    <VALUE Lang="th" Index="3">Recovery Rate</VALUE>
+    <VALUE Lang="th" Index="4">Absorb Rate</VALUE>
+    <VALUE Lang="th" Index="5">Absorb Rate</VALUE>
+    <VALUE Lang="th" Index="6">Absorb Rate</VALUE>
+    <VALUE Lang="th" Index="7">None</VALUE>
+    <VALUE Lang="th" Index="8">None</VALUE>
+    <VALUE Lang="th" Index="9">None</VALUE>
+    <VALUE Lang="th" Index="10">None</VALUE>
+    <VALUE Lang="th" Index="11">None</VALUE>
+    <VALUE Lang="th" Index="12">Increase Penetration</VALUE>
+    <VALUE Lang="th" Index="13">Attack Range</VALUE>
+    <VALUE Lang="th" Index="14">Moving Rate</VALUE>
+    <VALUE Lang="th" Index="15">Range</VALUE>
+    <VALUE Lang="th" Index="16">Hiding Lv</VALUE>
+    <VALUE Lang="th" Index="17">Detect Lv</VALUE>
+    <VALUE Lang="th" Index="18">Att-Speed Rate	</VALUE>
+    <VALUE Lang="th" Index="19">Change Rate</VALUE>
+    <VALUE Lang="th" Index="20">Range</VALUE>
+    <VALUE Lang="th" Index="21">Absorb Rate</VALUE>
+    <VALUE Lang="th" Index="22">Absorb Rate</VALUE>
+    <VALUE Lang="th" Index="23">Reflex Rate</VALUE>
+    <VALUE Lang="th" Index="24">Reflex Rate</VALUE>
+    <VALUE Lang="th" Index="25">None</VALUE>
+    <VALUE Lang="th" Index="26">None</VALUE>
+    <VALUE Lang="th" Index="27">Rate</VALUE>
+    <VALUE Lang="th" Index="28">Rate</VALUE>
+    <VALUE Lang="th" Index="29">Rate</VALUE>
+    <VALUE Lang="th" Index="30">Duration</VALUE>
+    <VALUE Lang="th" Index="31">Reflect Rate</VALUE>
+    <VALUE Lang="th" Index="32">Range</VALUE>
+    <VALUE Lang="th" Index="33">Range</VALUE>
+    <VALUE Lang="th" Index="34">None</VALUE>
+    <VALUE Lang="th" Index="35">None</VALUE>
+    <VALUE Lang="th" Index="36">횟수</VALUE>
+    <VALUE Lang="th" Index="37">Increase Rate</VALUE>
+    <VALUE Lang="th" Index="38">Increase Rate</VALUE>
+    <VALUE Lang="th" Index="39">Increase Rate</VALUE>
+    <VALUE Lang="th" Index="40">None</VALUE>
+    <VALUE Lang="th" Index="41">None</VALUE>
+    <VALUE Lang="th" Index="42">확률</VALUE>
+    <VALUE Lang="th" Index="43">확률</VALUE>
+    <VALUE Lang="th" Index="44">강타확률</VALUE>
+    <VALUE Lang="th" Index="45">거리</VALUE>
+    <VALUE Lang="th" Index="46">성공율</VALUE>
+    <VALUE Lang="th" Index="47">증감비율1</VALUE>
+    <VALUE Lang="th" Index="48">효과거리</VALUE>
+    <VALUE Lang="th" Index="49">변신ID</VALUE>
+    <VALUE Lang="th" Index="50">확률</VALUE>
+    <VALUE Lang="th" Index="51">없음</VALUE>
+    <VALUE Lang="th" Index="52">확률</VALUE>
+    <VALUE Lang="th" Index="53">적용타입</VALUE>
+    <VALUE Lang="th" Index="54">확률</VALUE>
+    <VALUE Lang="th" Index="55">없음</VALUE>
+    <VALUE Lang="th" Index="56">확률</VALUE>
+    <VALUE Lang="th" Index="57">확률</VALUE>
+    <VALUE Lang="th" Index="58">색인</VALUE>
+    <VALUE Lang="th" Index="59">확률</VALUE>
+    <VALUE Lang="th" Index="60">값</VALUE>
+    <VALUE Lang="th" Index="61">비율</VALUE>
+    <VALUE Lang="th" Index="62">값</VALUE>
+    <VALUE Lang="th" Index="63">비율</VALUE>
+    <VALUE Lang="th" Index="64">값</VALUE>
+    <VALUE Lang="th" Index="65">비율</VALUE>
+    <VALUE Lang="th" Index="66">값</VALUE>
+    <VALUE Lang="th" Index="67">비율</VALUE>
+    <VALUE Lang="th" Index="68">값</VALUE>
+    <VALUE Lang="th" Index="69">값</VALUE>
+    <VALUE Lang="th" Index="70">값</VALUE>
+    <VALUE Lang="th" Index="71">값</VALUE>
+    <VALUE Lang="th" Index="72">비율</VALUE>
+    <VALUE Lang="th" Index="73">비율</VALUE>
+    <VALUE Lang="th" Index="74">비율</VALUE>
+    <VALUE Lang="th" Index="75">비율</VALUE>
+    <VALUE Lang="th" Index="76">값</VALUE>
+    <VALUE Lang="th" Index="77">값</VALUE>
+    <VALUE Lang="th" Index="78">값</VALUE>
+    <VALUE Lang="th" Index="79">값</VALUE>
+    <VALUE Lang="th" Index="80">값</VALUE>
+    <VALUE Lang="th" Index="81">값</VALUE>
+    <VALUE Lang="th" Index="82">값</VALUE>
+    <VALUE Lang="th" Index="83">값</VALUE>
+    <VALUE Lang="th" Index="84">값</VALUE>
+    <VALUE Lang="th" Index="85">값</VALUE>
+    <VALUE Lang="th" Index="86">값</VALUE>
+    <VALUE Lang="th" Index="87">값</VALUE>
+    <VALUE Lang="th" Index="88">값</VALUE>
+    <VALUE Lang="th" Index="89">값</VALUE>
+    <VALUE Lang="th" Index="90">값</VALUE>
+    <VALUE Lang="th" Index="91">값</VALUE>
+    <VALUE Lang="th" Index="92">비율</VALUE>
+    <VALUE Lang="th" Index="93">비율</VALUE>
+    <VALUE Lang="th" Index="94">부양시간</VALUE>
+    <VALUE Lang="th" Index="95">기본슬롯</VALUE>
+    <VALUE Lang="th" Index="96">기본슬롯</VALUE>
+    <VALUE Lang="th" Index="97">없음</VALUE>
+    <VALUE Lang="th" Index="98">없음</VALUE>
+    <VALUE Lang="th" Index="99">스킬Mid</VALUE>
+    <VALUE Lang="th" Index="100">마리수</VALUE>
+    <VALUE Lang="th" Index="101">최저 이속</VALUE>
+    <VALUE Lang="th" Index="102">SkillMid</VALUE>
+    <VALUE Lang="th" Index="103">Effect</VALUE>
+    <VALUE Lang="th" Index="104">MobMID</VALUE>
+    <VALUE Lang="th" Index="105">None</VALUE>
+    <VALUE Lang="th" Index="106">Effect</VALUE>
+    <VALUE Lang="th" Index="107">ChangeSki</VALUE>
+    <VALUE Lang="th" Index="108">Effective Range</VALUE>
+    <VALUE Lang="th" Index="109">EffectID</VALUE>
+    <VALUE Lang="th" Index="110">Hit Damage</VALUE>
+    <VALUE Lang="th" Index="111">EffectID</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SPEC_ADDON_VAR2">
+    <VALUE Lang="th" Index="0">None</VALUE>
+    <VALUE Lang="th" Index="1">Chance</VALUE>
+    <VALUE Lang="th" Index="2">None</VALUE>
+    <VALUE Lang="th" Index="3">None</VALUE>
+    <VALUE Lang="th" Index="4">None</VALUE>
+    <VALUE Lang="th" Index="5">None</VALUE>
+    <VALUE Lang="th" Index="6">None</VALUE>
+    <VALUE Lang="th" Index="7">None</VALUE>
+    <VALUE Lang="th" Index="8">None</VALUE>
+    <VALUE Lang="th" Index="9">None</VALUE>
+    <VALUE Lang="th" Index="10">None</VALUE>
+    <VALUE Lang="th" Index="11">None</VALUE>
+    <VALUE Lang="th" Index="12">None</VALUE>
+    <VALUE Lang="th" Index="13">None</VALUE>
+    <VALUE Lang="th" Index="14">None</VALUE>
+    <VALUE Lang="th" Index="15">Speed</VALUE>
+    <VALUE Lang="th" Index="16">Animation</VALUE>
+    <VALUE Lang="th" Index="17">Range	</VALUE>
+    <VALUE Lang="th" Index="18">None</VALUE>
+    <VALUE Lang="th" Index="19">Rate</VALUE>
+    <VALUE Lang="th" Index="20">Chance</VALUE>
+    <VALUE Lang="th" Index="21">None</VALUE>
+    <VALUE Lang="th" Index="22">None</VALUE>
+    <VALUE Lang="th" Index="23">Chance</VALUE>
+    <VALUE Lang="th" Index="24">Chance</VALUE>
+    <VALUE Lang="th" Index="25">None</VALUE>
+    <VALUE Lang="th" Index="26">None</VALUE>
+    <VALUE Lang="th" Index="27">None</VALUE>
+    <VALUE Lang="th" Index="28">Moving Speed</VALUE>
+    <VALUE Lang="th" Index="29">Range</VALUE>
+    <VALUE Lang="th" Index="30">Damage</VALUE>
+    <VALUE Lang="th" Index="31">None</VALUE>
+    <VALUE Lang="th" Index="32">None</VALUE>
+    <VALUE Lang="th" Index="33">None</VALUE>
+    <VALUE Lang="th" Index="34">None</VALUE>
+    <VALUE Lang="th" Index="35">None</VALUE>
+    <VALUE Lang="th" Index="36">흡수량</VALUE>
+    <VALUE Lang="th" Index="37">None</VALUE>
+    <VALUE Lang="th" Index="38">None</VALUE>
+    <VALUE Lang="th" Index="39">None</VALUE>
+    <VALUE Lang="th" Index="40">None</VALUE>
+    <VALUE Lang="th" Index="41">None</VALUE>
+    <VALUE Lang="th" Index="42">없음</VALUE>
+    <VALUE Lang="th" Index="43">이동속도</VALUE>
+    <VALUE Lang="th" Index="44">데미지증감</VALUE>
+    <VALUE Lang="th" Index="45">횟수</VALUE>
+    <VALUE Lang="th" Index="46">지속</VALUE>
+    <VALUE Lang="th" Index="47">증감비율2</VALUE>
+    <VALUE Lang="th" Index="48">값비율</VALUE>
+    <VALUE Lang="th" Index="49">이모티콘ID</VALUE>
+    <VALUE Lang="th" Index="50">부가해제조건</VALUE>
+    <VALUE Lang="th" Index="51">없음</VALUE>
+    <VALUE Lang="th" Index="52">없음</VALUE>
+    <VALUE Lang="th" Index="53">행동타입</VALUE>
+    <VALUE Lang="th" Index="54">지속시간</VALUE>
+    <VALUE Lang="th" Index="55">없음</VALUE>
+    <VALUE Lang="th" Index="56">유효거리</VALUE>
+    <VALUE Lang="th" Index="57">범위</VALUE>
+    <VALUE Lang="th" Index="58">중첩횟수</VALUE>
+    <VALUE Lang="th" Index="59">없음</VALUE>
+    <VALUE Lang="th" Index="60">없음</VALUE>
+    <VALUE Lang="th" Index="61">없음</VALUE>
+    <VALUE Lang="th" Index="62">없음</VALUE>
+    <VALUE Lang="th" Index="63">없음</VALUE>
+    <VALUE Lang="th" Index="64">없음</VALUE>
+    <VALUE Lang="th" Index="65">없음</VALUE>
+    <VALUE Lang="th" Index="66">없음</VALUE>
+    <VALUE Lang="th" Index="67">범위</VALUE>
+    <VALUE Lang="th" Index="68">없음</VALUE>
+    <VALUE Lang="th" Index="69">없음</VALUE>
+    <VALUE Lang="th" Index="70">없음</VALUE>
+    <VALUE Lang="th" Index="71">없음</VALUE>
+    <VALUE Lang="th" Index="72">없음</VALUE>
+    <VALUE Lang="th" Index="73">없음</VALUE>
+    <VALUE Lang="th" Index="74">없음</VALUE>
+    <VALUE Lang="th" Index="75">없음</VALUE>
+    <VALUE Lang="th" Index="76">없음</VALUE>
+    <VALUE Lang="th" Index="77">범위</VALUE>
+    <VALUE Lang="th" Index="78">없음</VALUE>
+    <VALUE Lang="th" Index="79">없음</VALUE>
+    <VALUE Lang="th" Index="80">없음</VALUE>
+    <VALUE Lang="th" Index="81">없음</VALUE>
+    <VALUE Lang="th" Index="82">없음</VALUE>
+    <VALUE Lang="th" Index="83">없음</VALUE>
+    <VALUE Lang="th" Index="84">없음</VALUE>
+    <VALUE Lang="th" Index="85">없음</VALUE>
+    <VALUE Lang="th" Index="86">없음</VALUE>
+    <VALUE Lang="th" Index="87">범위</VALUE>
+    <VALUE Lang="th" Index="88">없음</VALUE>
+    <VALUE Lang="th" Index="89">없음</VALUE>
+    <VALUE Lang="th" Index="90">없음</VALUE>
+    <VALUE Lang="th" Index="91">없음</VALUE>
+    <VALUE Lang="th" Index="92">없음</VALUE>
+    <VALUE Lang="th" Index="93">없음</VALUE>
+    <VALUE Lang="th" Index="94">높이</VALUE>
+    <VALUE Lang="th" Index="95">없음</VALUE>
+    <VALUE Lang="th" Index="96">없음</VALUE>
+    <VALUE Lang="th" Index="97">없음</VALUE>
+    <VALUE Lang="th" Index="98">없음</VALUE>
+    <VALUE Lang="th" Index="99">스킬Sid</VALUE>
+    <VALUE Lang="th" Index="100">공격력 계승</VALUE>
+    <VALUE Lang="th" Index="101">최고 이속</VALUE>
+    <VALUE Lang="th" Index="102">SkillSid</VALUE>
+    <VALUE Lang="th" Index="103">None</VALUE>
+    <VALUE Lang="th" Index="104">MobSID</VALUE>
+    <VALUE Lang="th" Index="105">None</VALUE>
+    <VALUE Lang="th" Index="106">None</VALUE>
+    <VALUE Lang="th" Index="107">ShapeShiftID</VALUE>
+    <VALUE Lang="th" Index="108">None</VALUE>
+    <VALUE Lang="th" Index="109">None</VALUE>
+    <VALUE Lang="th" Index="110">Attack Damage</VALUE>
+    <VALUE Lang="th" Index="111">None</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SPEC_ASIGN_TYPE">
+    <VALUE Lang="th" Index="0">적용전</VALUE>
+    <VALUE Lang="th" Index="1">적용후</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SPEC_DOMINATE_TYPE">
+    <VALUE Lang="th" Index="0">자신</VALUE>
+    <VALUE Lang="th" Index="1">시전자</VALUE>
+    <VALUE Lang="th" Index="2">무작위</VALUE>
+    <VALUE Lang="th" Index="3">고정</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SPEC_HALLUCINATE_TYPE">
+    <VALUE Lang="th" Index="0">변신</VALUE>
+    <VALUE Lang="th" Index="1">강제 이모티콘</VALUE>
+    <VALUE Lang="th" Index="2">-----TEMP-----</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SPEC_INC_TYPE">
+    <VALUE Lang="th" Index="0">increase</VALUE>
+    <VALUE Lang="th" Index="1">decrease</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SPEC_INVISIBLE_ANI_TYPE">
+    <VALUE Lang="th" Index="0">없음</VALUE>
+    <VALUE Lang="th" Index="1">걷기</VALUE>
+    <VALUE Lang="th" Index="2">뛰기</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SPEC_INVISIBLE_USE_TYPE">
+    <VALUE Lang="th" Index="0">전투상태중사용</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SPEC_STIGMA_TYPE">
+    <VALUE Lang="th" Index="0">Normal Attack</VALUE>
+    <VALUE Lang="th" Index="1">Skill Attack</VALUE>
+    <VALUE Lang="th" Index="2">Buff</VALUE>
+    <VALUE Lang="th" Index="3">Debuff</VALUE>
+    <VALUE Lang="th" Index="4">Limit</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SPEC_SWAPPOS_DIR_TYPE">
+    <VALUE Lang="th" Index="0">모두</VALUE>
+    <VALUE Lang="th" Index="1">자신</VALUE>
+    <VALUE Lang="th" Index="2">타겟</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SPECIAL_SKILL_TYPE">
+    <VALUE Lang="th" Index="0">None</VALUE>
+    <VALUE Lang="th" Index="1">transformer</VALUE>
+    <VALUE Lang="th" Index="2">summons</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="STRIKE_EFF">
+    <VALUE Lang="th" Index="0">NULL</VALUE>
+    <VALUE Lang="th" Index="1">SELFBODY</VALUE>
+    <VALUE Lang="th" Index="2">TARGET</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="TRIBE">
+    <VALUE Lang="th" Index="0">Human</VALUE>
+    <VALUE Lang="th" Index="1">Monster</VALUE>
+    <VALUE Lang="th" Index="2">Angel</VALUE>
+    <VALUE Lang="th" Index="3">Devil</VALUE>
+    <VALUE Lang="th" Index="4">Fairy</VALUE>
+    <VALUE Lang="th" Index="5">Genie</VALUE>
+    <VALUE Lang="th" Index="6">Dragon</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="VEHICLE_TYPE">
+    <VALUE Lang="th" Index="0">Hover Board</VALUE>
+    <VALUE Lang="th" Index="1">BIKE</VALUE>
+    <VALUE Lang="th" Index="2">Car</VALUE>
+    <VALUE Lang="th" Index="3">Rickshaw</VALUE>
+  </WORD>
+  </WORD>
+  <WORD Ver="1" Id="CODEX_MID">
+    <VALUE Lang="th" Index="0">HP Increase</VALUE>
+    <VALUE Lang="th" Index="1">MP Increase</VALUE>
+    <VALUE Lang="th" Index="2">SP Increase</VALUE>
+    <VALUE Lang="th" Index="3">Attack</VALUE>
+    <VALUE Lang="th" Index="4">Defense</VALUE>
+    <VALUE Lang="th" Index="5">Shooting</VALUE>
+    <VALUE Lang="th" Index="6">Melee</VALUE>
+    <VALUE Lang="th" Index="7">Energy</VALUE>
+    <VALUE Lang="th" Index="8">Resistance</VALUE>
+	<VALUE Lang="th" Index="9">Hitrate</VALUE>
+	<VALUE Lang="th" Index="10">Avoidrate</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="CODEX_NOTIFY">
+    <VALUE Lang="th" Index="0">No</VALUE>
+    <VALUE Lang="th" Index="1">Around</VALUE>
+    <VALUE Lang="th" Index="2">AllServer</VALUE>
+    <VALUE Lang="th" Index="3">Club</VALUE>
+    <VALUE Lang="th" Index="4">ClubAround</VALUE>
+  </WORD>
+</TEXT>
