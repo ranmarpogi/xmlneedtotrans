@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEXT>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_BEGIN">
+    <VALUE Lang="cn">%s' 同盟和'%s' 同盟'的同盟?'要?始了 </VALUE>
+    <VALUE Lang="id">Pertarungan aliansi '%1%' dan '%2%' telah dimulai.</VALUE>
+    <VALUE Lang="th">'%s' alliance and '%s' alliance began 'Alliance Battle'. </VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_BEGIN_REFUSE">
+    <VALUE Lang="cn">%s' 同盟拒?了'%s' 同盟申?的'同盟?'</VALUE>
+    <VALUE Lang="id">Aliansi '%1%' telah menolak permintaan pertarungan dari aliansi '%2%'.</VALUE>
+    <VALUE Lang="th">'%s' alliance rejected 'Alliance Battle' request from  '%s' alliance.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_ARMISTICE">
+    <VALUE Lang="cn">%s' 同盟和'%s' 同盟'?行休?</VALUE>
+    <VALUE Lang="id">Pertarungan aliansi '%1%' dan '%2%' telah dihentikan.</VALUE>
+    <VALUE Lang="th">'%s' alliance  and '%s' alliance made treaty of truce.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_ARMISTICE_RESULT">
+    <VALUE Lang="cn">休??果分?%d : %d</VALUE>
+    <VALUE Lang="id">Skor setelah pertarungan aliansi dihentikan %1% : %2%</VALUE>
+    <VALUE Lang="th">Alliance Battle Truce Result %d : %d</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_DRAW">
+    <VALUE Lang="cn">%s' 同盟和'%s' 同盟?行'同盟?斗?果, 互?平手.</VALUE>
+    <VALUE Lang="id">Pertarungan aliansi '%1%' dan '%2%' telah berakhir seri.</VALUE>
+    <VALUE Lang="th">'%s' alliance and '%s' alliance's 'Alliance Battle' ended in draw.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_SUBMISSION">
+    <VALUE Lang="cn">%s' 同盟向'%s' 同盟投降了</VALUE>
+    <VALUE Lang="id">Aliansi '%1%' telah menyerah kepada aliansi '%2%'.</VALUE>
+    <VALUE Lang="th">'%s' alliance surrendered to '%s' alliance.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_WIN">
+    <VALUE Lang="cn">%s' 同盟在和'%s' 同盟?行'同盟?斗'中??.</VALUE>
+    <VALUE Lang="id">Aliansi '%1%' telah memenangkan pertarungan melawan aliansi '%2%'.</VALUE>
+    <VALUE Lang="th">'%s' alliance has won the `Alliance Battle` over '%s' alliance.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_RESULT">
+    <VALUE Lang="cn">同盟?斗??：%s %d?、%d?、%d和</VALUE>
+    <VALUE Lang="id">Skor pertarungan aliansi : %1% %2% menang %3% kalah %4% seri</VALUE>
+    <VALUE Lang="th">Alliance Battle Record:%s %dWin %dLose %dDraw</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="APPLY_GUID_MAP_EFFECT">
+    <VALUE Lang="cn">?????得了 %1% %2$2.2f%% 效果</VALUE>
+    <VALUE Lang="th">The authenticated club has obtained %1% %2$2.2f%% effect.</VALUE>
+    <VALUE Lang="id">Club telah mendapatkan efek meningkatkan pertahanan %1% %2$2.2f%%.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ATTENDANCE_REWARD_POST_CONTENT">
+    <VALUE Lang="cn">此信件?出席簿?程的??品</VALUE>
+    <VALUE Lang="th">This mail is the prize of attendance system.</VALUE>
+    <VALUE Lang="id">Ini adalah surat yang berisi hadiah kehadiran.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ATTENDANCE_REWARD_POST_SENDERNAME">
+    <VALUE Lang="cn">RAN Online</VALUE>
+    <VALUE Lang="th">RAN Online</VALUE>
+    <VALUE Lang="id">RAN Online</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ATTENDANCE_REWARD_POST_TITLE">
+    <VALUE Lang="cn">出席簿?程的??品</VALUE>
+    <VALUE Lang="th">Attendance system's prize</VALUE>
+    <VALUE Lang="id">Hadiah kehadiran</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BANISHMENT_POST_CONTENT">
+    <VALUE Lang="id">Kamu dikeluarkan dari club. Tidak dapat bergabung ke dalam club lain 1 hari sejak dikeluarkan, Namun dapat membuat club baru.</VALUE>
+    <VALUE Lang="cn">已成功退出公?。</VALUE>
+    <VALUE Lang="cn">退出后，1天?无法再加入其他公?。但可自?公?。</VALUE>
+    <VALUE Lang="th">Expelled from Club.</VALUE>
+    <VALUE Lang="th">Cannot join another Club for 1 day. However, you can extablish it.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BANISHMENT_POST_SENDER_NAME">
+    <VALUE Lang="cn">RAN World</VALUE>
+    <VALUE Lang="th">RAN World</VALUE>
+    <VALUE Lang="id">RAN World</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BANISHMENT_POST_TITLE">
+    <VALUE Lang="cn">退出公??息</VALUE>
+    <VALUE Lang="th">Expelled Message</VALUE>
+    <VALUE Lang="id">Alasan dikeluarkan</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_BEGIN">
+    <VALUE Lang="cn">%s'??和'%s'???始?行?耀???斗 </VALUE>
+    <VALUE Lang="id">Pertarungan club '%1%' dan '%2%' telah dimulai.</VALUE>
+    <VALUE Lang="th">'%s' club and '%s' club began Club Battle.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_BEGIN_REFUSE">
+    <VALUE Lang="cn">%s' ??拒?了'%s' ??所提出的?耀???斗申?.</VALUE>
+    <VALUE Lang="id">Club '%1%' telah menolak permintaan pertarungan club '%2%'.</VALUE>
+    <VALUE Lang="th">'%s' club rejected 'Club Battle' request from ''%s' club.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_ARMISTICE">
+    <VALUE Lang="cn">%s'??和'%s'??在?耀???中?示休?的??</VALUE>
+    <VALUE Lang="id">Pertarungan club '%1%' dan '%2%' telah dihentikan.</VALUE>
+    <VALUE Lang="th">'%s' club and '%s' club made treaty of truce.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_ARMISTICE_RESULT">
+    <VALUE Lang="cn">休??果比分 %d：%d</VALUE>
+    <VALUE Lang="id">Skor setelah pertarungan dihentikan %1% : %2%</VALUE>
+    <VALUE Lang="th">Club Battle Truce Result %d : %d</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_DRAW">
+    <VALUE Lang="cn">在?耀???中,'%s' ??和'%s' ??打成平手。</VALUE>
+    <VALUE Lang="id">Pertarungan club '%1%' dan '%2%' telah mendapatkan hasil seri.</VALUE>
+    <VALUE Lang="th">Club Battle between '%s' club and '%s' club ended in draw.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_SUBMISSION">
+    <VALUE Lang="cn">%s'??向'%s'??投降了 </VALUE>
+    <VALUE Lang="id">Club '%1%' telah menyerah melawan club '%2%'.</VALUE>
+    <VALUE Lang="th">'%s' club has surrendered to '%s' club.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_WIN">
+    <VALUE Lang="cn">%s' ??打?'%s' ??，?得?耀???斗的?利。</VALUE>
+    <VALUE Lang="id">Club '%1%' telah menang bertarung melawan club '%2%'.</VALUE>
+    <VALUE Lang="th">'%s' club defeated '%s' club in the Club Battle.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_RESULT">
+    <VALUE Lang="id">Skor pertarungan club : %1% %2% menang %3% kalah %4% seri</VALUE>
+    <VALUE Lang="cn">?耀?????：%s %d?、%d?、%d平</VALUE>
+    <VALUE Lang="th">Club Battle Record: %s %dWin %dLose %dDraw</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_DEATHMATCH_END_RANKING">
+    <VALUE Lang="cn">%d名 : '%s' ( %d / %d )</VALUE>
+    <VALUE Lang="th">%d No : '%s' ( %d / %d )</VALUE>
+    <VALUE Lang="id">No. %1% : '%2%' ( %3% / %4% )</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMCONFRONT_END_CDRAWN">
+    <VALUE Lang="id">Pertarungan club '%2%' dan '%3%' telah selesai dengan hasil seri di '%1%'.</VALUE>
+    <VALUE Lang="cn">在'%1%'?行的 '%2%' ?'%3%'之????已??束。???果?方未分出??！</VALUE>
+    <VALUE Lang="th">Club War between '%2%' and '%3%' has ended in draw at '%1%'.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMCONFRONT_END_CWIN">
+    <VALUE Lang="id">Pertarungan club '%2%' dan '%3%' telah selesai di '%1%. '%4%' telah menang.</VALUE>
+    <VALUE Lang="cn">在'%1%'?行的'%2%'?'%3%' 之????已?束。???果：'%4%'????！</VALUE>
+    <VALUE Lang="th">Club War between '%2%' and '%3%' has ended at '%1%'. '%4%' is the winner club!</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMCONFRONT_END_PDRAWN">
+    <VALUE Lang="id">Pertarungan party '%2%' dan '%3%' telah selesai dengan hasil seri di '%1%'.</VALUE>
+    <VALUE Lang="cn">在'%1%'?行的'%2%?'%3%'之?伍??已??束。???果?方未分出??！</VALUE>
+    <VALUE Lang="th">Party Battle between '%2%' and '%3%' has ended in draw at '%1%'!</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMCONFRONT_END_PWIN">
+    <VALUE Lang="id">Pertarungan party '%2%' dan '%3%' telah selesai di '%1%'. '%4%' telah menang.</VALUE>
+    <VALUE Lang="cn">在'%1%'?行的'%2%'?'%3%'之?伍??已??束。???果由 '%4%' ?伍??！</VALUE>
+    <VALUE Lang="th">Party Battle between '%2%' and '%3%' has ended at '%1%'. '%4%' party has won the battle!</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMCONFRONT_START_PARTY">
+    <VALUE Lang="id">Pertarungan party '%2%' dan '%3%' telah dimulai di '%1%'.</VALUE>
+    <VALUE Lang="cn">%2%'?'%3%'之?伍??已?在'%1%'展?了。</VALUE>
+    <VALUE Lang="th">'%2%' and '%3%' has started Party Battle at '%1%'.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMCROWACT_KNOCK">
+    <VALUE Lang="id">Bos monster '%1%' telah muncul di %2%.</VALUE>
+    <VALUE Lang="cn">%1%'魔王?怪物出?在%2%。</VALUE>
+    <VALUE Lang="th">'%1%', the boss monster has appeared at %2%.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMCROWACT_REPULSE">
+    <VALUE Lang="id">Bos monster '%1%' telah mati di %2%.</VALUE>
+    <VALUE Lang="cn">%1%'魔王?怪物已?被%2%所??。</VALUE>
+    <VALUE Lang="th">'%1%', the boss monster has been killed by %2%.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMGUIDCLUB_CERTIFIED">
+    <VALUE Lang="id">Club '%1%' telah terpilih sebagai lead club di area '%2%'.</VALUE>
+    <VALUE Lang="cn">%1%' ??已?得 '%2%'地?????的??.</VALUE>
+    <VALUE Lang="th">The '%1%' Club has been certified as the lead Club of the '%2%' area.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOTTOSYSTEM_GIVE_MONEY_POST_CONTENT">
+    <VALUE Lang="cn">恭喜?透#%1% 期%2%? 中?。 (%2%??金%3%已?送。???背包金?)</VALUE>
+    <VALUE Lang="th">Congratulations to become the Lotto#%1% %2%Position Winner. (%2%Position Winner Prize %3% has been inserted. Please try to check it in your inventory).</VALUE>
+    <VALUE Lang="id">Selamat menjadi pemenang posisi %2% dari Lotto#%1%. (Pemenang Posisi %2%, hadiah %3% sudah dimasukkan. Silahkan memeriksa inventori).</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOTTOSYSTEM_GIVE_MONEY_POST_SENDERNAME">
+    <VALUE Lang="cn">RAN Online</VALUE>
+    <VALUE Lang="th">RAN Online</VALUE>
+    <VALUE Lang="id">RAN Online</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOTTOSYSTEM_GIVE_MONEY_POST_TITLE">
+    <VALUE Lang="cn">?透第%1%期 %2%? 中?通知</VALUE>
+    <VALUE Lang="th">Announcement for Lotto#%1% %2%Position Winner</VALUE>
+    <VALUE Lang="id">Pengumuman untuk pemenang posisi %2% Lotto#%1%.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PARTY_TENDER_POST_CONTENT">
+    <VALUE Lang="cn">投?物品</VALUE>
+    <VALUE Lang="th">Bid Item</VALUE>
+    <VALUE Lang="id">Item yang ditawarkan</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PARTY_TENDER_POST_SENDER_NAME">
+    <VALUE Lang="cn">Ran World</VALUE>
+    <VALUE Lang="th">Ran World</VALUE>
+    <VALUE Lang="id">Ran World</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PARTY_TENDER_POST_TITLE">
+    <VALUE Lang="cn">押注?得物品</VALUE>
+    <VALUE Lang="th">Winning Item on Bid.</VALUE>
+    <VALUE Lang="id">Item yang dimenangkan setelah menawar</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="POSTBOX_CHARGE_CONTENT">
+    <VALUE Lang="id">Uang yang didapatkan dari pembeli. Klik tombol 'Accept' untuk menerima.</VALUE>
+    <VALUE Lang="cn">?方已同意支付物品??金?，?收到的支付金?如下</VALUE>
+    <VALUE Lang="cn">?按下‘Accept’按???取金?。</VALUE>
+    <VALUE Lang="th">Earned below gold for billed item from the buyer.</VALUE>
+    <VALUE Lang="th">Click 'Accept' button to collect the gold.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="POSTBOX_CHARGE_TITLE">
+    <VALUE Lang="cn">道具?送的支付金?</VALUE>
+    <VALUE Lang="th">Gold Paid for Item Sent</VALUE>
+    <VALUE Lang="id">Gold Paid for Item Sent</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PRIVATEMARKET_BUY_POST_CONTENT">
+    <VALUE Lang="cn">??人商店??的物品</VALUE>
+    <VALUE Lang="th">Item purchased from Personal Store.</VALUE>
+    <VALUE Lang="id">Item yang dibeli dari Personal Store.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PRIVATEMARKET_BUY_POST_SENDERNAME">
+    <VALUE Lang="cn">RAN World</VALUE>
+    <VALUE Lang="th">RAN World</VALUE>
+    <VALUE Lang="id">RAN World</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PRIVATEMARKET_BUY_POST_TITLE">
+    <VALUE Lang="cn">??人商店??的物品</VALUE>
+    <VALUE Lang="th">Item purchased from Personal Store</VALUE>
+    <VALUE Lang="id">Item yang dibeli dari Personal Store.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PRIVATEMARKET_ROLLBACK_POST_CONTENT">
+    <VALUE Lang="cn">?人商店?支付的道具?用</VALUE>
+    <VALUE Lang="th">Payment for Fault Personal Store Item.</VALUE>
+    <VALUE Lang="id">Payment for Fault Personal Store Item.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PRIVATEMARKET_ROLLBACK_POST_SENDERNAME">
+    <VALUE Lang="cn">RAN World</VALUE>
+    <VALUE Lang="th">RAN World</VALUE>
+    <VALUE Lang="id">RAN World</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PRIVATEMARKET_ROLLBACK_POST_TITLE">
+    <VALUE Lang="cn">?人商店?支付的道具?用</VALUE>
+    <VALUE Lang="th">Payment for Fault Personal Store Item</VALUE>
+    <VALUE Lang="id">Payment for Fault Personal Store Item</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SYSTEM_POST_SENDER_NAME">
+    <VALUE Lang="cn">RAN World</VALUE>
+    <VALUE Lang="th">RAN World</VALUE>
+    <VALUE Lang="id">RAN World</VALUE>
+  </SENTENSE>
+  <WORD Ver="1" Id="BRIGHT_EVENT_MSG">
+    <VALUE Lang="cn" Index="0">‘生活点?活?’ ?行中</VALUE>
+    <VALUE Lang="id" Index="0">Event life poin sedang berlangsung.</VALUE>
+    <VALUE Lang="th" Index="0">Life Point event is now in progress.</VALUE>
+    <VALUE Lang="cn" Index="1">在活?中?行PK?，不??角色的?性点?。</VALUE>
+    <VALUE Lang="id" Index="1">Selama event masih berlangsung, life poin karakter tidak akan berkurang.</VALUE>
+    <VALUE Lang="th" Index="1">Character's Life Points won't be lost for killing other player characters during the event.</VALUE>
+    <VALUE Lang="cn" Index="2">死亡?，???不??失、??的道具不?掉落</VALUE>
+    <VALUE Lang="id" Index="2">Apabila karakter mati, item yang telah digunakan tidak akan hilang.</VALUE>
+    <VALUE Lang="th" Index="2">No EXP lose for losing conscious during this event.</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="MAP_EFFECT">
+    <VALUE Lang="cn" Index="0">提高攻?速度</VALUE>
+    <VALUE Lang="th" Index="0">Increase attack speed</VALUE>
+    <VALUE Lang="id" Index="0">Meningkatkan kecepatan serangan</VALUE>
+    <VALUE Lang="cn" Index="1">提高移?速度</VALUE>
+    <VALUE Lang="th" Index="1">Increase moving speed</VALUE>
+    <VALUE Lang="id" Index="1">Meningkatkan kecepatan gerak</VALUE>
+    <VALUE Lang="cn" Index="2">HP最大?提升率</VALUE>
+    <VALUE Lang="th" Index="2">Increase maximum HP rate</VALUE>
+    <VALUE Lang="id" Index="2">Meningkatkan Maksimum HP</VALUE>
+    <VALUE Lang="cn" Index="3">MP最大?提升率</VALUE>
+    <VALUE Lang="th" Index="3">Increase maximum MP rate</VALUE>
+    <VALUE Lang="id" Index="3">Meningkatkan Maksimum MP</VALUE>
+    <VALUE Lang="cn" Index="4">所有恢?率</VALUE>
+    <VALUE Lang="th" Index="4">All recovery rate</VALUE>
+    <VALUE Lang="id" Index="4">Meningkatkan tingkat Recovery</VALUE>
+    <VALUE Lang="cn" Index="5">提升攻?率</VALUE>
+    <VALUE Lang="th" Index="5">Increase the attack</VALUE>
+    <VALUE Lang="id" Index="5">Meningkatkan serangan</VALUE>
+    <VALUE Lang="cn" Index="6">提高防御力</VALUE>
+    <VALUE Lang="th" Index="6">Increase the defense</VALUE>
+    <VALUE Lang="id" Index="6">Meningkatkan pertahanan</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="PRIVATE_MARKET_POINTSHOP_TRADE">
+    <VALUE Lang="cn" Index="0">Ran Point交易系?</VALUE>
+    <VALUE Lang="th" Index="0">Ran Point Trade System</VALUE>
+    <VALUE Lang="id" Index="0">RAN Point Trade System</VALUE>
+    <VALUE Lang="cn" Index="1">Point(原本)</VALUE>
+    <VALUE Lang="th" Index="1">Previous Ran Point</VALUE>
+    <VALUE Lang="id" Index="1">Previous Ran Point</VALUE>
+    <VALUE Lang="cn" Index="2">Point(最新)</VALUE>
+    <VALUE Lang="th" Index="2">Current Ran Point</VALUE>
+    <VALUE Lang="id" Index="2">Current Ran Point</VALUE>
+    <VALUE Lang="cn" Index="3">??价格</VALUE>
+    <VALUE Lang="th" Index="3">Sale Price</VALUE>
+    <VALUE Lang="id" Index="3">Sale Price</VALUE>
+    <VALUE Lang="cn" Index="4">手??/?金</VALUE>
+    <VALUE Lang="th" Index="4">Tax</VALUE>
+    <VALUE Lang="id" Index="4">Tax</VALUE>
+    <VALUE Lang="cn" Index="5">%1%?的物品</VALUE>
+    <VALUE Lang="th" Index="5">Item from %1%</VALUE>
+    <VALUE Lang="id" Index="5">Item dari %1%</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="PVP_CTFLAG_UI_TEXT">
+    <VALUE Lang="cn" Index="0">Skip</VALUE>
+    <VALUE Lang="th" Index="0">Skip</VALUE>
+    <VALUE Lang="id" Index="0">Skip</VALUE>
+    <VALUE Lang="cn" Index="1">Skip</VALUE>
+    <VALUE Lang="th" Index="1">Skip</VALUE>
+    <VALUE Lang="id" Index="1">Skip</VALUE>
+    <VALUE Lang="cn" Index="2">Skip</VALUE>
+    <VALUE Lang="th" Index="2">Skip</VALUE>
+    <VALUE Lang="id" Index="2">Skip</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="RN_COMPETITION_RESULT_TAB">
+    <VALUE Lang="cn" Index="0">?斗?果</VALUE>
+    <VALUE Lang="th" Index="0">Battle Result</VALUE>
+    <VALUE Lang="id" Index="0">Hasil Battle</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="RN_COMPETITION_RESULT_TITLE">
+    <VALUE Lang="cn" Index="0">名次</VALUE>
+    <VALUE Lang="th" Index="0">Rank</VALUE>
+    <VALUE Lang="id" Index="0">Rangking</VALUE>
+    <VALUE Lang="cn" Index="1">?院</VALUE>
+    <VALUE Lang="th" Index="1">Campus</VALUE>
+    <VALUE Lang="id" Index="1">Kampus</VALUE>
+    <VALUE Lang="cn" Index="2">??</VALUE>
+    <VALUE Lang="th" Index="2">Class</VALUE>
+    <VALUE Lang="id" Index="2">Kelas</VALUE>
+    <VALUE Lang="cn" Index="3">角色名?</VALUE>
+    <VALUE Lang="th" Index="3">Character Name</VALUE>
+    <VALUE Lang="id" Index="3">Nama Karakter</VALUE>
+    <VALUE Lang="cn" Index="4">公?名?</VALUE>
+    <VALUE Lang="th" Index="4">Club Name</VALUE>
+    <VALUE Lang="id" Index="4">Nama Club</VALUE>
+    <VALUE Lang="cn" Index="5">?得Pt</VALUE>
+    <VALUE Lang="th" Index="5">Obtain pt</VALUE>
+    <VALUE Lang="id" Index="5">pt yang didapat</VALUE>
+    <VALUE Lang="cn" Index="6">防御量</VALUE>
+    <VALUE Lang="th" Index="6">Avoid Amount</VALUE>
+    <VALUE Lang="id" Index="6">Jumlah Menghindar</VALUE>
+    <VALUE Lang="cn" Index="7">治愈量</VALUE>
+    <VALUE Lang="th" Index="7">Heal Amount</VALUE>
+    <VALUE Lang="id" Index="7">Jumlah Heal</VALUE>
+    <VALUE Lang="cn" Index="8">?死</VALUE>
+    <VALUE Lang="th" Index="8">Kill</VALUE>
+    <VALUE Lang="id" Index="8">Bunuh</VALUE>
+    <VALUE Lang="cn" Index="9">死亡</VALUE>
+    <VALUE Lang="th" Index="9">Death</VALUE>
+    <VALUE Lang="id" Index="9">Mati</VALUE>
+    <VALUE Lang="cn" Index="10">?活</VALUE>
+    <VALUE Lang="th" Index="10">Revive</VALUE>
+    <VALUE Lang="id" Index="10">Hidup Kembali</VALUE>
+    <VALUE Lang="cn" Index="11">??</VALUE>
+    <VALUE Lang="th" Index="11">Reward</VALUE>
+    <VALUE Lang="id" Index="11">Hadiah</VALUE>
+    <VALUE Lang="cn" Index="12">No.</VALUE>
+    <VALUE Lang="th" Index="12">No.</VALUE>
+    <VALUE Lang="id" Index="12">Nomor</VALUE>
+    <VALUE Lang="cn" Index="13">?取次?</VALUE>
+    <VALUE Lang="th" Index="13">Captured Number</VALUE>
+    <VALUE Lang="id" Index="13">Total Merebut</VALUE>
+    <VALUE Lang="cn" Index="14">公?首?名</VALUE>
+    <VALUE Lang="th" Index="14">Club Master Name</VALUE>
+    <VALUE Lang="id" Index="14">Nama Club Master</VALUE>
+    <VALUE Lang="cn" Index="15">公?</VALUE>
+    <VALUE Lang="th" Index="15">Club</VALUE>
+    <VALUE Lang="id" Index="15">Club</VALUE>
+    <VALUE Lang="cn" Index="16">Skip</VALUE>
+    <VALUE Lang="th" Index="16">Skip</VALUE>
+    <VALUE Lang="id" Index="16">Skip</VALUE>
+    <VALUE Lang="cn" Index="17">Skip</VALUE>
+    <VALUE Lang="th" Index="17">Skip</VALUE>
+    <VALUE Lang="id" Index="17">Skip</VALUE>
+    <VALUE Lang="cn" Index="18">Skip</VALUE>
+    <VALUE Lang="th" Index="18">Skip</VALUE>
+    <VALUE Lang="id" Index="18">Skip</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="RN_COMPETITION_RESULT_TITLE_TOUR">
+    <VALUE Lang="cn" Index="0">名次</VALUE>
+    <VALUE Lang="th" Index="0">Ranking</VALUE>
+    <VALUE Lang="id" Index="0">Rangking</VALUE>
+    <VALUE Lang="cn" Index="1">?院</VALUE>
+    <VALUE Lang="th" Index="1">Campus</VALUE>
+    <VALUE Lang="id" Index="1">Kampus</VALUE>
+    <VALUE Lang="cn" Index="2">??</VALUE>
+    <VALUE Lang="th" Index="2">Class</VALUE>
+    <VALUE Lang="id" Index="2">Kelas</VALUE>
+    <VALUE Lang="cn" Index="3">等?</VALUE>
+    <VALUE Lang="th" Index="3">Level</VALUE>
+    <VALUE Lang="id" Index="3">Level</VALUE>
+    <VALUE Lang="cn" Index="4">角色名?</VALUE>
+    <VALUE Lang="th" Index="4">Character Name</VALUE>
+    <VALUE Lang="id" Index="4">Nama Karakter</VALUE>
+    <VALUE Lang="cn" Index="5">?利次?</VALUE>
+    <VALUE Lang="th" Index="5">No. of Victory</VALUE>
+    <VALUE Lang="id" Index="5">Jumlah Menang</VALUE>
+    <VALUE Lang="cn" Index="6">?害量</VALUE>
+    <VALUE Lang="th" Index="6">Damage Dealt</VALUE>
+    <VALUE Lang="id" Index="6">Jumlah Damage</VALUE>
+    <VALUE Lang="cn" Index="7">治愈量</VALUE>
+    <VALUE Lang="th" Index="7">Heal Amount</VALUE>
+    <VALUE Lang="id" Index="7">Jumlah Heal</VALUE>
+    <VALUE Lang="cn" Index="8">??</VALUE>
+    <VALUE Lang="th" Index="8">Reward</VALUE>
+    <VALUE Lang="id" Index="8">Hadiah</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="RNCDM_REJOIN_TEXT">
+    <VALUE Lang="cn" Index="0">要接受??生死斗的邀???</VALUE>
+    <VALUE Lang="th" Index="0">Do you want to allow the entry request for CDM?</VALUE>
+    <VALUE Lang="id" Index="0">Apakah kamu ingin mendaftar untuk masuk ke CDM?</VALUE>
+    <VALUE Lang="cn" Index="1">??</VALUE>
+    <VALUE Lang="th" Index="1">OK</VALUE>
+    <VALUE Lang="id" Index="1">OK</VALUE>
+    <VALUE Lang="cn" Index="2">取消</VALUE>
+    <VALUE Lang="th" Index="2">Cancel</VALUE>
+    <VALUE Lang="id" Index="2">Batal</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SYSTEM_POST_SENDER_CONTENTS">
+    <VALUE Lang="cn" Index="0">??生死斗第%1%名的??</VALUE>
+    <VALUE Lang="th" Index="0">CDM Reward for the ranked at %1%</VALUE>
+    <VALUE Lang="id" Index="0">Hadiah CDM untuk Rangking %1%</VALUE>
+    <VALUE Lang="cn" Index="1">Skip</VALUE>
+    <VALUE Lang="th" Index="1">Skip</VALUE>
+    <VALUE Lang="id" Index="1">Skip</VALUE>
+    <VALUE Lang="cn" Index="2">Skip</VALUE>
+    <VALUE Lang="th" Index="2">Skip</VALUE>
+    <VALUE Lang="id" Index="2">Skip</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="TOURNAMENT_BETTING_WINNER">
+    <VALUE Lang="cn" Index="0">Skip</VALUE>
+    <VALUE Lang="th" Index="0">Skip</VALUE>
+    <VALUE Lang="id" Index="0">Skip</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="TOURNAMENT_PVP_SENDER">
+    <VALUE Lang="cn" Index="0">Skip</VALUE>
+    <VALUE Lang="th" Index="0">Skip</VALUE>
+    <VALUE Lang="id" Index="0">Skip</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="TOURNAMENT_WIN_MAIL_MESSAGE">
+    <VALUE Lang="cn" Index="0">Skip</VALUE>
+    <VALUE Lang="th" Index="0">Skip</VALUE>
+    <VALUE Lang="id" Index="0">Skip</VALUE>
+    <VALUE Lang="cn" Index="1">Skip</VALUE>
+    <VALUE Lang="th" Index="1">Skip</VALUE>
+    <VALUE Lang="id" Index="1">Skip</VALUE>
+    <VALUE Lang="cn" Index="2">Skip</VALUE>
+    <VALUE Lang="th" Index="2">Skip</VALUE>
+    <VALUE Lang="id" Index="2">Skip</VALUE>
+  </WORD>
+</TEXT>

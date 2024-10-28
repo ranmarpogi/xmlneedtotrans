@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEXT>
+  <SENTENSE Ver="1" Id="ABOUT_BOX_ID_OK">
+    <VALUE Lang="cn">OK</VALUE>
+    <VALUE Lang="id">Konfirmasi</VALUE>
+    <VALUE Lang="GS">OK</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="DISCOURAGES">
+    <VALUE Lang="cn">不建议</VALUE>
+    <VALUE Lang="GS">Not Recommended</VALUE>
+    <VALUE Lang="id">Tidak direkomendasikan</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="DISCOURAGES_MESSAGE">
+    <VALUE Lang="cn">本游戏最佳解析度为1024 X 768，您选择的非理想型显示模式并不是我们所建议的。</VALUE>
+    <VALUE Lang="GS">The best resolution for this game is 1024 X 768, but the display mode that your choose is non-recommended.</VALUE>
+    <VALUE Lang="id">Displai game yang direkomendasikan adalah 1024 X 768, displai yang telah dipilih tidak direkomendasikan!</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="DOWNAREA_ID_OK">
+    <VALUE Lang="cn">OK</VALUE>
+    <VALUE Lang="id">Konfirmasi</VALUE>
+    <VALUE Lang="GS">OK</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="GAME_PATCH_WARNING_MSG">
+    <VALUE Lang="cn">游戏正在进行中，无法更新游戏. 您确定要结束游戏，开始进行更新吗？</VALUE>
+    <VALUE Lang="GS">Unable to update while game is running. Please close game launcher and update. Proceed?</VALUE>
+    <VALUE Lang="id">Tidak dapat update saat game berjalan. Harap tutup game launcher dan update. Lanjutkan?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="GAMESET_ID_CANCEL">
+    <VALUE Lang="cn">取消</VALUE>
+    <VALUE Lang="id">Batal</VALUE>
+    <VALUE Lang="GS">Cancel</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="GAMESET_ID_OK">
+    <VALUE Lang="cn">储存</VALUE>
+    <VALUE Lang="id">Simpan</VALUE>
+    <VALUE Lang="GS">Save</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_AREA_STATIC">
+    <VALUE Lang="cn">请选择下载区域</VALUE>
+    <VALUE Lang="id">Pilih area download</VALUE>
+    <VALUE Lang="GS">Select Download Area</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_ATI_STATIC">
+    <VALUE Lang="cn">ATI 系列 ( Radeon )</VALUE>
+    <VALUE Lang="id">ATI (Radeon)</VALUE>
+    <VALUE Lang="GS">ATI (Radeon)</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_BUTTON_EXIT">
+    <VALUE Lang="cn">结束</VALUE>
+    <VALUE Lang="id">Keluar</VALUE>
+    <VALUE Lang="GS">Exit</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_BUTTON_OPTION">
+    <VALUE Lang="cn">选项</VALUE>
+    <VALUE Lang="id">Pengaturan</VALUE>
+    <VALUE Lang="GS">Option</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_BUTTON_PATCH">
+    <VALUE Lang="cn">功能</VALUE>
+    <VALUE Lang="id">Aksi</VALUE>
+    <VALUE Lang="GS">Action</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_BUTTON_RETRY">
+    <VALUE Lang="cn">重试</VALUE>
+    <VALUE Lang="id">Ulangi lagi</VALUE>
+    <VALUE Lang="GS">Retry</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_BUTTON_START">
+    <VALUE Lang="cn">开始游戏</VALUE>
+    <VALUE Lang="id">Mulai</VALUE>
+    <VALUE Lang="GS">Start</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_CHECK_ALL_MINIMUM">
+    <VALUE Lang="cn">所有视窗最小化</VALUE>
+    <VALUE Lang="GS"> Minimize all other windows</VALUE>
+    <VALUE Lang="id">Minimize semua window</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_CHECK_NOCHECK">
+    <VALUE Lang="cn">不再出现此讯息</VALUE>
+    <VALUE Lang="id">Tidak tampilkan peringatan ini lagi!</VALUE>
+    <VALUE Lang="GS">Don't show this message again.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_CHECK_PASSIVE">
+    <VALUE Lang="cn">被动模式</VALUE>
+    <VALUE Lang="id">Mode pasif</VALUE>
+    <VALUE Lang="GS">Passive Mode</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_CHECK_USE_HTTP">
+    <VALUE Lang="cn">http</VALUE>
+    <VALUE Lang="id">http</VALUE>
+    <VALUE Lang="GS">http</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_CHECK_WINDOWMODE">
+    <VALUE Lang="cn">视窗模式</VALUE>
+    <VALUE Lang="id">Mode window</VALUE>
+    <VALUE Lang="GS">Window Mode</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_DISPLAY_STATIC">
+    <VALUE Lang="cn">显示</VALUE>
+    <VALUE Lang="id">Displai</VALUE>
+    <VALUE Lang="GS">Display</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_DOWNAREA_STATIC">
+    <VALUE Lang="cn">下载区域</VALUE>
+    <VALUE Lang="id">Area download</VALUE>
+    <VALUE Lang="GS">Download Area</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_DOWNLOAD_STATIC">
+    <VALUE Lang="cn">下载</VALUE>
+    <VALUE Lang="id">Download</VALUE>
+    <VALUE Lang="GS">Download</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_NVIDIA_STATIC">
+    <VALUE Lang="cn">nVidia 系列 ( Geforce, TNT )</VALUE>
+    <VALUE Lang="id">nVidia (Geforce, TNT)</VALUE>
+    <VALUE Lang="GS">nVidia ( Geforce, TNT )</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_READYTOSTART">
+    <VALUE Lang="cn">准备好游戏就马上开始</VALUE>
+    <VALUE Lang="id">Mulai apabila game telah siap.</VALUE>
+    <VALUE Lang="GS">Start when Ready</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_STATIC_ATI_LINK">
+    <VALUE Lang="cn">下载驱动程式</VALUE>
+    <VALUE Lang="id">Download driver</VALUE>
+    <VALUE Lang="GS">Driver Download</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_STATIC_DOWNLOAD">
+    <VALUE Lang="cn">下载</VALUE>
+    <VALUE Lang="GS">Download</VALUE>
+    <VALUE Lang="id">Download</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_STATIC_DOWNLOAD2">
+    <VALUE Lang="cn">整体进度</VALUE>
+    <VALUE Lang="GS">Total Progress</VALUE>
+    <VALUE Lang="id">Total progress</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_STATIC_HOMEPAGE">
+    <VALUE Lang="cn">官网</VALUE>
+    <VALUE Lang="GS">Homepage</VALUE>
+    <VALUE Lang="id">Lihat homepage</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_STATIC_NVIDIA_LINK">
+    <VALUE Lang="cn">下载驱动程式</VALUE>
+    <VALUE Lang="id">Download driver</VALUE>
+    <VALUE Lang="GS">Driver Download</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_TITLE_STATIC">
+    <VALUE Lang="cn">RAN online</VALUE>
+    <VALUE Lang="id">RAN-Online</VALUE>
+    <VALUE Lang="GS">RAN online</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_VER_STATIC">
+    <VALUE Lang="cn">AutoPatchMan 版本1.0</VALUE>
+    <VALUE Lang="cn">版权 (c) 2002</VALUE>
+    <VALUE Lang="id">AutoPatchMan Version 1.0</VALUE>
+    <VALUE Lang="id">Copyright (c) 2002</VALUE>
+    <VALUE Lang="GS">AutoPatchMan Version 1.0</VALUE>
+    <VALUE Lang="GS">Copyright (c) 2002</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDC_VIDEO_STATIC">
+    <VALUE Lang="cn">微软视窗硬体品质实验室 (WHQL) 没有安装认证的视频驱动程序。</VALUE>
+    <VALUE Lang="cn">WHQL 以目前的驱动程式来进行游戏，有可能会发生问题。</VALUE>
+    <VALUE Lang="id">Windows Hardware Quality Labs (WHQL) Certified Video Driver belum diinstall.</VALUE>
+    <VALUE Lang="id">Apabila WHQL driver tidak diinstall dengan benar,</VALUE>
+    <VALUE Lang="id">ketika bermain game bisa terjadi error.</VALUE>
+    <VALUE Lang="GS">Windows Hardware Quality Labs (WHQL) Certified Video Driver is not installed.</VALUE>
+    <VALUE Lang="GS">Without proper driver, errors might occur while playing the game.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDD_ABOUT_BOX">
+    <VALUE Lang="cn">AutoPatchMan 资料</VALUE>
+    <VALUE Lang="id">AutoPatchMan Info</VALUE>
+    <VALUE Lang="GS">AutoPatchMan Information</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDD_DIALOG_DOWNLOAD_AREA">
+    <VALUE Lang="cn">下载区域</VALUE>
+    <VALUE Lang="id">Area download</VALUE>
+    <VALUE Lang="GS">DOWNLOAD AREA</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDD_DIALOG_WARNING_WHQL">
+    <VALUE Lang="cn">警告</VALUE>
+    <VALUE Lang="id">Peringatan!</VALUE>
+    <VALUE Lang="GS">Caution</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="IDD_GAMESETDLG">
+    <VALUE Lang="cn">游戏设定</VALUE>
+    <VALUE Lang="id">Pengaturan game</VALUE>
+    <VALUE Lang="GS">Game Setting</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="WARNING_ID_OK">
+    <VALUE Lang="cn">OK</VALUE>
+    <VALUE Lang="id">Konfirmasi</VALUE>
+    <VALUE Lang="GS">OK</VALUE>
+  </SENTENSE>
+  <WORD Ver="1" Id="IDC_COMBO_NATION">
+    <VALUE Lang="GS" Index="0">KOREA</VALUE>
+    <VALUE Lang="id" Index="0">KOREA</VALUE>
+    <VALUE Lang="cn" Index="0">KOREA</VALUE>
+    <VALUE Lang="GS" Index="1">GS</VALUE>
+    <VALUE Lang="id" Index="1">GS</VALUE>
+    <VALUE Lang="cn" Index="1">GS</VALUE>
+    <VALUE Lang="GS" Index="2">EUROPE</VALUE>
+    <VALUE Lang="id" Index="2">EUROPE</VALUE>
+    <VALUE Lang="cn" Index="2">EUROPE</VALUE>
+    <VALUE Lang="GS" Index="3">AMERICA</VALUE>
+    <VALUE Lang="id" Index="3">AMERICA</VALUE>
+    <VALUE Lang="cn" Index="3">AMERICA</VALUE>
+    <VALUE Lang="GS" Index="4">TAIWAN</VALUE>
+    <VALUE Lang="id" Index="4">TAIWAN</VALUE>
+    <VALUE Lang="cn" Index="4">TAIWAN</VALUE>
+    <VALUE Lang="GS" Index="5">INDONESIA</VALUE>
+    <VALUE Lang="id" Index="5">INDONESIA</VALUE>
+    <VALUE Lang="cn" Index="5">INDONESIA</VALUE>
+    <VALUE Lang="GS" Index="6">TAHILAND</VALUE>
+    <VALUE Lang="id" Index="6">TAHILAND</VALUE>
+    <VALUE Lang="cn" Index="6">TAHILAND</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="IDC_GRAPHIC_OPTION">
+    <VALUE Lang="cn" Index="0">显示效果</VALUE>
+    <VALUE Lang="id" Index="0">Pengaturan grafik</VALUE>
+    <VALUE Lang="GS" Index="0">Graphics</VALUE>
+    <VALUE Lang="cn" Index="1">系统设定</VALUE>
+    <VALUE Lang="id" Index="1">Pengaturan</VALUE>
+    <VALUE Lang="GS" Index="1">Default</VALUE>
+    <VALUE Lang="cn" Index="2">视角</VALUE>
+    <VALUE Lang="id" Index="2">Jangkauan mata</VALUE>
+    <VALUE Lang="GS" Index="2">View</VALUE>
+    <VALUE Lang="cn" Index="3">角色影子</VALUE>
+    <VALUE Lang="id" Index="3">Bayangan karakter</VALUE>
+    <VALUE Lang="GS" Index="3">Character Shadow</VALUE>
+    <VALUE Lang="cn" Index="4">角色详细资讯</VALUE>
+    <VALUE Lang="id" Index="4">Detail karakter</VALUE>
+    <VALUE Lang="GS" Index="4">Character Details</VALUE>
+    <VALUE Lang="cn" Index="5">地形阴影</VALUE>
+    <VALUE Lang="id" Index="5">Bayangan tanah</VALUE>
+    <VALUE Lang="GS" Index="5">Field Shadow</VALUE>
+    <VALUE Lang="cn" Index="6">真实反射效果</VALUE>
+    <VALUE Lang="id" Index="6">Refleksi waktu sekarang</VALUE>
+    <VALUE Lang="GS" Index="6">Real-time Reflection</VALUE>
+    <VALUE Lang="cn" Index="7">画面扭曲效果</VALUE>
+    <VALUE Lang="id" Index="7">Displai user</VALUE>
+    <VALUE Lang="GS" Index="7">Scene Distortion</VALUE>
+    <VALUE Lang="cn" Index="8">发光效果</VALUE>
+    <VALUE Lang="id" Index="8">Efek glow</VALUE>
+    <VALUE Lang="GS" Index="8">Glowing Effect</VALUE>
+    <VALUE Lang="cn" Index="9">增益效果</VALUE>
+    <VALUE Lang="id" Index="9">Efek buff</VALUE>
+    <VALUE Lang="GS" Index="9">Buff Effect</VALUE>
+    <VALUE Lang="cn" Index="10">加速处理</VALUE>
+    <VALUE Lang="id" Index="10">POST PROCESSING</VALUE>
+    <VALUE Lang="GS" Index="10">Post Processing</VALUE>
+    <VALUE Lang="cn" Index="11">使用滑鼠模式</VALUE>
+    <VALUE Lang="id" Index="11">Kursor game</VALUE>
+    <VALUE Lang="GS" Index="11">Game Cursor</VALUE>
+    <VALUE Lang="cn" Index="12">使用纹理字体</VALUE>
+    <VALUE Lang="id" Index="12">Font texture</VALUE>
+    <VALUE Lang="GS" Index="12">Texture Font</VALUE>
+    <VALUE Lang="id" Index="13">Batas frame</VALUE>
+    <VALUE Lang="cn" Index="13">限制画格数</VALUE>
+    <VALUE Lang="GS" Index="13">Use Frame limit.</VALUE>
+    <VALUE Lang="cn" Index="14">选择目标的特效</VALUE>
+    <VALUE Lang="GS" Index="14">Selected Target Effect</VALUE>
+    <VALUE Lang="id" Index="14">Efek target</VALUE>
+    <VALUE Lang="cn" Index="15">可持有道具的特效</VALUE>
+    <VALUE Lang="GS" Index="15">Usable Item Effect</VALUE>
+    <VALUE Lang="id" Index="15">Efek item</VALUE>
+    <VALUE Lang="cn" Index="16">显示目的地的指标效果</VALUE>
+    <VALUE Lang="GS" Index="16">Destination Highlight Effect</VALUE>
+    <VALUE Lang="id" Index="16">Efek posisi destinasi</VALUE>
+    <VALUE Lang="cn" Index="17">使用普通模式的地图</VALUE>
+    <VALUE Lang="GS" Index="17">Use Normal Map</VALUE>
+    <VALUE Lang="id" Index="17">Normal map</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="IDC_SOUND_OPTION">
+    <VALUE Lang="cn" Index="0">音乐</VALUE>
+    <VALUE Lang="id" Index="0">Pengaturan sound</VALUE>
+    <VALUE Lang="GS" Index="0">Sound</VALUE>
+    <VALUE Lang="cn" Index="1">使用3D音效。</VALUE>
+    <VALUE Lang="id" Index="1">3D sound</VALUE>
+    <VALUE Lang="GS" Index="1">3D Sound</VALUE>
+    <VALUE Lang="cn" Index="2">搜索</VALUE>
+    <VALUE Lang="id" Index="2">Cari sound</VALUE>
+    <VALUE Lang="GS" Index="2">Find</VALUE>
+    <VALUE Lang="cn" Index="3">背景音乐</VALUE>
+    <VALUE Lang="id" Index="3">BGM</VALUE>
+    <VALUE Lang="GS" Index="3">BGM</VALUE>
+    <VALUE Lang="cn" Index="4">地图</VALUE>
+    <VALUE Lang="id" Index="4">MAP</VALUE>
+    <VALUE Lang="GS" Index="4">MAP</VALUE>
+    <VALUE Lang="cn" Index="5">SFX</VALUE>
+    <VALUE Lang="id" Index="5">SFX</VALUE>
+    <VALUE Lang="GS" Index="5">SFX</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="IDS_ABOUTBOX">
+    <VALUE Lang="cn" Index="0">AutoPatchMan资讯(&amp;A)…</VALUE>
+    <VALUE Lang="id" Index="0">AutoPatchMan info(&amp;A)...</VALUE>
+    <VALUE Lang="GS" Index="0">AutoPatchMan Info. (&amp;A)...</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="IDS_MESSAGE">
+    <VALUE Lang="cn" Index="0">RAN online</VALUE>
+    <VALUE Lang="id" Index="0">Ran Online</VALUE>
+    <VALUE Lang="GS" Index="0">RAN online</VALUE>
+    <VALUE Lang="cn" Index="1">请在web上执行</VALUE>
+    <VALUE Lang="id" Index="1">Silahkan diteruskan melalui website</VALUE>
+    <VALUE Lang="GS" Index="1">Run in Web environment.</VALUE>
+    <VALUE Lang="cn" Index="2">游戏执行档已遭损伤。请重新安装游戏资料。</VALUE>
+    <VALUE Lang="id" Index="2">File eksekusi Ran telah rusak. Silahkan install ulang Ran!</VALUE>
+    <VALUE Lang="GS" Index="2">Ran execution file is  damaged. Please reinstall Ran.</VALUE>
+    <VALUE Lang="cn" Index="3">正在结束程式，请稍后。</VALUE>
+    <VALUE Lang="id" Index="3">Masih dalam proses. Silahkan tunggu…</VALUE>
+    <VALUE Lang="GS" Index="3">Ending… Please wait</VALUE>
+    <VALUE Lang="cn" Index="4">补丁更新后重新执行游戏发生错误。</VALUE>
+    <VALUE Lang="id" Index="4">Restart telah gagal</VALUE>
+    <VALUE Lang="GS" Index="4">Failed to restart the program after patching.</VALUE>
+    <VALUE Lang="cn" Index="5">电脑目前的版本为旧版本.</VALUE>
+    <VALUE Lang="id" Index="5">Versi winsock terlalu lama</VALUE>
+    <VALUE Lang="GS" Index="5">Low Winsock version.</VALUE>
+    <VALUE Lang="cn" Index="6">目前安装的DirectX的版本为旧版本</VALUE>
+    <VALUE Lang="id" Index="6">Bukan versi DirectX baru</VALUE>
+    <VALUE Lang="GS" Index="6">Low version of DirectX</VALUE>
+    <VALUE Lang="cn" Index="7">请安装最新版本的DirectX后，再重新执行游戏。</VALUE>
+    <VALUE Lang="id" Index="7">Silahkan restart ulang setelah install directX versi terbaru selesai</VALUE>
+    <VALUE Lang="GS" Index="7">Please try again after installing the latest version of DirectX.</VALUE>
+    <VALUE Lang="cn" Index="8">伺服器进行维护中，请稍后重新连线。</VALUE>
+    <VALUE Lang="id" Index="8">Pemeriksaan server sedang berlangsung. Silahkan ulangi sesaat lagi!</VALUE>
+    <VALUE Lang="GS" Index="8">Server under maintenance. Please try again later.</VALUE>
+    <VALUE Lang="cn" Index="9">读取游戏版本失败</VALUE>
+    <VALUE Lang="id" Index="9">Proses decoding versi file patch telah gagal</VALUE>
+    <VALUE Lang="GS" Index="9">Failed to read version file.</VALUE>
+    <VALUE Lang="cn" Index="10">在下载补丁档案的时候发生错误.</VALUE>
+    <VALUE Lang="id" Index="10">Pengambilan file patch program telah gagal karena terjadi error</VALUE>
+    <VALUE Lang="GS" Index="10">An error occurred while loading program patch files.</VALUE>
+    <VALUE Lang="cn" Index="11">在安装补丁档案的时候发生错误 </VALUE>
+    <VALUE Lang="id" Index="11">Install file patch telah gagal karena terjadi error</VALUE>
+    <VALUE Lang="GS" Index="11">An error occurred while installing program patch files.</VALUE>
+    <VALUE Lang="cn" Index="12">已完成进入游戏的各种设定 </VALUE>
+    <VALUE Lang="id" Index="12">Persiapan untuk memulai game telah selesai</VALUE>
+    <VALUE Lang="GS" Index="12">Game is ready to play.</VALUE>
+    <VALUE Lang="cn" Index="13">伺服器的上限人数爆满，连线失败。</VALUE>
+    <VALUE Lang="id" Index="13">Koneksi telah gagal karena jaringan sedang sibuk</VALUE>
+    <VALUE Lang="GS" Index="13">Failed to connect to server due to heavy traffic.</VALUE>
+    <VALUE Lang="cn" Index="14">正在尝试连接中......</VALUE>
+    <VALUE Lang="id" Index="14">Sedang disambungkan…</VALUE>
+    <VALUE Lang="GS" Index="14">Trying to connect…</VALUE>
+    <VALUE Lang="cn" Index="15">超过连线时间导致与伺服器的连线失败 </VALUE>
+    <VALUE Lang="id" Index="15">Koneksi server telah gagal karena waktu telah habis</VALUE>
+    <VALUE Lang="GS" Index="15">Failed to connect to server due to connection timeout.</VALUE>
+    <VALUE Lang="cn" Index="16">已成功连线并传送游戏资料 </VALUE>
+    <VALUE Lang="id" Index="16">Koneksi server, pengiriman data telah selesai</VALUE>
+    <VALUE Lang="GS" Index="16">Connected to server, data transmission succeeded.</VALUE>
+    <VALUE Lang="cn" Index="17">正在尝试连接FTP......</VALUE>
+    <VALUE Lang="id" Index="17">Koneksi FTP sedang disambungkan…</VALUE>
+    <VALUE Lang="GS" Index="17">Trying to connect to FTP...</VALUE>
+    <VALUE Lang="cn" Index="18">超过连线时间导致FTP的连线失败 </VALUE>
+    <VALUE Lang="id" Index="18">Koneksi server FTP telah gagal karena waktu telah habis</VALUE>
+    <VALUE Lang="GS" Index="18">Failed to connect to FTP Server due to connection timeout.</VALUE>
+    <VALUE Lang="cn" Index="19">已成功的连线至FTP伺服并成功下载资料</VALUE>
+    <VALUE Lang="id" Index="19">Pengiriman data koneksi server FTP telah selesai</VALUE>
+    <VALUE Lang="GS" Index="19">Connected to FTP Server, data transmission successful.</VALUE>
+    <VALUE Lang="cn" Index="20">创建Event失败 </VALUE>
+    <VALUE Lang="id" Index="20">Pembuatan inventori telah gagal</VALUE>
+    <VALUE Lang="GS" Index="20">Failed to create event.</VALUE>
+    <VALUE Lang="cn" Index="21">选择Event失败.</VALUE>
+    <VALUE Lang="id" Index="21">Pemilihan event telah gagal</VALUE>
+    <VALUE Lang="GS" Index="21">Failed to select event.</VALUE>
+    <VALUE Lang="cn" Index="22">连线失败.</VALUE>
+    <VALUE Lang="id" Index="22">Koneksi telah gagal</VALUE>
+    <VALUE Lang="GS" Index="22">Failed to connect.</VALUE>
+    <VALUE Lang="cn" Index="23">等待伺服器的讯号失败</VALUE>
+    <VALUE Lang="id" Index="23">Penungguan event telah gagal</VALUE>
+    <VALUE Lang="GS" Index="23">Failed to wait for the event.</VALUE>
+    <VALUE Lang="cn" Index="24">接受伺服器的讯号失败</VALUE>
+    <VALUE Lang="id" Index="24">Event kontak tidak berlangsung</VALUE>
+    <VALUE Lang="GS" Index="24">Contact Event did not occurred.</VALUE>
+    <VALUE Lang="cn" Index="25">未能创建线程</VALUE>
+    <VALUE Lang="id" Index="25">Pembuatan thread telah gagal</VALUE>
+    <VALUE Lang="GS" Index="25">Failed to create thread.</VALUE>
+    <VALUE Lang="cn" Index="26">无法连线至伺服器 </VALUE>
+    <VALUE Lang="id" Index="26">Koneksi server telah gagal</VALUE>
+    <VALUE Lang="GS" Index="26">Unable to connect to the Server.</VALUE>
+    <VALUE Lang="cn" Index="27">传送版本资料发生错误.</VALUE>
+    <VALUE Lang="id" Index="27">Transmisi data versi client telah gagal</VALUE>
+    <VALUE Lang="GS" Index="27">Failed to transmit version data.</VALUE>
+    <VALUE Lang="cn" Index="28">强制终止游戏.</VALUE>
+    <VALUE Lang="id" Index="28">Telah keluar game</VALUE>
+    <VALUE Lang="GS" Index="28">Forced termination accomplished.</VALUE>
+    <VALUE Lang="cn" Index="29">找不到启动执行文件</VALUE>
+    <VALUE Lang="id" Index="29">File launcher tidak ditemukan</VALUE>
+    <VALUE Lang="GS" Index="29">Launcher execution file not found</VALUE>
+    <VALUE Lang="cn" Index="30">声效卡不存在；或无法正常发挥其机能</VALUE>
+    <VALUE Lang="id" Index="30">Sound card telah rusak atau tidak ada</VALUE>
+    <VALUE Lang="GS" Index="30">Sound card is missing or not functioning properly.</VALUE>
+    <VALUE Lang="cn" Index="31">无</VALUE>
+    <VALUE Lang="id" Index="31">Tidak ada</VALUE>
+    <VALUE Lang="GS" Index="31">None</VALUE>
+    <VALUE Lang="cn" Index="32">低等</VALUE>
+    <VALUE Lang="id" Index="32">Rendah</VALUE>
+    <VALUE Lang="GS" Index="32">Low</VALUE>
+    <VALUE Lang="cn" Index="33">正常</VALUE>
+    <VALUE Lang="id" Index="33">Sedang</VALUE>
+    <VALUE Lang="GS" Index="33">Normal</VALUE>
+    <VALUE Lang="cn" Index="34">高等</VALUE>
+    <VALUE Lang="id" Index="34">Tinggi 1</VALUE>
+    <VALUE Lang="GS" Index="34">High</VALUE>
+    <VALUE Lang="cn" Index="35">超高等</VALUE>
+    <VALUE Lang="id" Index="35">Tinggi 2</VALUE>
+    <VALUE Lang="GS" Index="35">Higher</VALUE>
+    <VALUE Lang="cn" Index="36">低等</VALUE>
+    <VALUE Lang="id" Index="36">Rendah</VALUE>
+    <VALUE Lang="GS" Index="36">Low</VALUE>
+    <VALUE Lang="cn" Index="37">中等</VALUE>
+    <VALUE Lang="id" Index="37">Sedang</VALUE>
+    <VALUE Lang="GS" Index="37">Normal</VALUE>
+    <VALUE Lang="cn" Index="38">高等</VALUE>
+    <VALUE Lang="id" Index="38">Tinggi</VALUE>
+    <VALUE Lang="GS" Index="38">High</VALUE>
+    <VALUE Lang="cn" Index="39">标准</VALUE>
+    <VALUE Lang="id" Index="39">Standard</VALUE>
+    <VALUE Lang="GS" Index="39">Standard</VALUE>
+    <VALUE Lang="cn" Index="40">硬碟加速 HALF</VALUE>
+    <VALUE Lang="id" Index="40">Akselerasi hadware HALF</VALUE>
+    <VALUE Lang="GS" Index="40">Hardware Acceleration HALF</VALUE>
+    <VALUE Lang="cn" Index="41">硬碟加转速 FULL</VALUE>
+    <VALUE Lang="id" Index="41">Akselerasi hadware FULL</VALUE>
+    <VALUE Lang="GS" Index="41">Hardware Acceleration FULL</VALUE>
+    <VALUE Lang="cn" Index="42">拉近</VALUE>
+    <VALUE Lang="id" Index="42">Dekat</VALUE>
+    <VALUE Lang="GS" Index="42">Near</VALUE>
+    <VALUE Lang="cn" Index="43">普通</VALUE>
+    <VALUE Lang="id" Index="43">Umum</VALUE>
+    <VALUE Lang="GS" Index="43">Far</VALUE>
+    <VALUE Lang="cn" Index="44">拉远</VALUE>
+    <VALUE Lang="id" Index="44">Jauh</VALUE>
+    <VALUE Lang="GS" Index="44">Further</VALUE>
+    <VALUE Lang="cn" Index="45">连接FTP伺服失败 </VALUE>
+    <VALUE Lang="id" Index="45">Koneksi FTP telah gagal</VALUE>
+    <VALUE Lang="GS" Index="45">Failed to connect to FTP server.</VALUE>
+    <VALUE Lang="cn" Index="46">下载档案的大小不正确</VALUE>
+    <VALUE Lang="id" Index="46">Ukuran file yang telah didownload tidak benar</VALUE>
+    <VALUE Lang="GS" Index="46">Downloaded file size is incorrect.</VALUE>
+    <VALUE Lang="cn" Index="47">补丁档案下载中......</VALUE>
+    <VALUE Lang="id" Index="47">Patch file sedang dikirim…</VALUE>
+    <VALUE Lang="GS" Index="47">Downloading Patch files...</VALUE>
+    <VALUE Lang="cn" Index="48">补丁更新中......</VALUE>
+    <VALUE Lang="id" Index="48">Patch masih dalam proses…</VALUE>
+    <VALUE Lang="GS" Index="48">Patching…</VALUE>
+    <VALUE Lang="cn" Index="49">补丁列表档案正传输中</VALUE>
+    <VALUE Lang="id" Index="49">Daftar file patch sedang dikirim…</VALUE>
+    <VALUE Lang="GS" Index="49">Patch list file is being transmitted…</VALUE>
+    <VALUE Lang="cn" Index="50">在传送补丁档案的过程中发生错误</VALUE>
+    <VALUE Lang="id" Index="50">Transmisi daftar file patch telah gagal karena terjadi error</VALUE>
+    <VALUE Lang="GS" Index="50">An error occurred while transmitting the patch list file.</VALUE>
+    <VALUE Lang="cn" Index="51">补丁清单档案正解压缩中</VALUE>
+    <VALUE Lang="id" Index="51">Kompresan file daftar patch sedang dibuka</VALUE>
+    <VALUE Lang="GS" Index="51">Decompressing patch list file.</VALUE>
+    <VALUE Lang="cn" Index="52">清单的解压缩失败 </VALUE>
+    <VALUE Lang="id" Index="52">Pembukaan kompresan daftar file patch telah gagal</VALUE>
+    <VALUE Lang="GS" Index="52">Failed to decompress list.</VALUE>
+    <VALUE Lang="cn" Index="53">读取补丁档案清单</VALUE>
+    <VALUE Lang="id" Index="53">Pengambilan daftar file patch…</VALUE>
+    <VALUE Lang="GS" Index="53">Loading patch file list…</VALUE>
+    <VALUE Lang="cn" Index="54">补丁列表档案读取失败</VALUE>
+    <VALUE Lang="id" Index="54">Pengambilan daftar file patch telah gagal</VALUE>
+    <VALUE Lang="GS" Index="54">Failed to load patch file list.</VALUE>
+    <VALUE Lang="cn" Index="55">在传送补丁档案的过程中发生错误 </VALUE>
+    <VALUE Lang="id" Index="55">Transmisi file patch telah gagal karena terjadi error</VALUE>
+    <VALUE Lang="GS" Index="55">An error occurred while transmitting patch files.</VALUE>
+    <VALUE Lang="cn" Index="56">请检查“选项”中“下载”项目里的“被动模式”。</VALUE>
+    <VALUE Lang="id" Index="56">Beri tanda 'V' pada menu pengaturan download</VALUE>
+    <VALUE Lang="GS" Index="56">Please check 'Passive Mode' in the Download tab of Option Menu.</VALUE>
+    <VALUE Lang="cn" Index="57">正在比对补丁档案的清单</VALUE>
+    <VALUE Lang="id" Index="57">Daftar patch file sedang dicocokkan…</VALUE>
+    <VALUE Lang="GS" Index="57">Comparing patch file list…</VALUE>
+    <VALUE Lang="cn" Index="58">对照补丁清单失败</VALUE>
+    <VALUE Lang="id" Index="58">Pencocokan daftar file patch telah gagal</VALUE>
+    <VALUE Lang="GS" Index="58">Failed to compare patch file lists.</VALUE>
+    <VALUE Lang="cn" Index="59">补丁档案中发现有部分损坏</VALUE>
+    <VALUE Lang="id" Index="59">Patch file telah rusak</VALUE>
+    <VALUE Lang="GS" Index="59">Patch files are corrupted partially.</VALUE>
+    <VALUE Lang="cn" Index="60">更新新client版本.</VALUE>
+    <VALUE Lang="id" Index="60">Memperbaharui server client</VALUE>
+    <VALUE Lang="GS" Index="60">Renewing client version…</VALUE>
+    <VALUE Lang="cn" Index="61">补丁版本更新失败</VALUE>
+    <VALUE Lang="id" Index="61">Pembaharuan versi game telah gagal</VALUE>
+    <VALUE Lang="GS" Index="61">Failed to renew client version.</VALUE>
+    <VALUE Lang="cn" Index="62">已成功完成所有补丁的更新.</VALUE>
+    <VALUE Lang="id" Index="62">Seluruh proses patch telah selesai</VALUE>
+    <VALUE Lang="GS" Index="62">Patching Successful</VALUE>
+    <VALUE Lang="cn" Index="63">请稍后再试 </VALUE>
+    <VALUE Lang="id" Index="63">Silahkan coba sekali lagi</VALUE>
+    <VALUE Lang="GS" Index="63">Please try again.</VALUE>
+    <VALUE Lang="cn" Index="64">请在选项(Option Menu)中更改下载​​伺服器后重新再试。</VALUE>
+    <VALUE Lang="id" Index="64">Silahkan ulangi lagi setelah download server diubah (pengaturan)</VALUE>
+    <VALUE Lang="GS" Index="64">Please try again after changing the downloading server (Option Menu).</VALUE>
+    <VALUE Lang="cn" Index="65">开始进行文件比对 </VALUE>
+    <VALUE Lang="id" Index="65">Mulai pencocokan file</VALUE>
+    <VALUE Lang="GS" Index="65">Initiating file comparison...</VALUE>
+    <VALUE Lang="cn" Index="66">文件比对结束！</VALUE>
+    <VALUE Lang="id" Index="66">Pencocokan file telah selesai</VALUE>
+    <VALUE Lang="GS" Index="66">File comparison completed!</VALUE>
+    <VALUE Lang="cn" Index="67">创建比对文件列表。</VALUE>
+    <VALUE Lang="id" Index="67">Pembuatan daftar pencocokan file patch</VALUE>
+    <VALUE Lang="GS" Index="67">Creating the list for file comparison.</VALUE>
+    <VALUE Lang="cn" Index="68">创建文件比对列表失败！</VALUE>
+    <VALUE Lang="id" Index="68">Pembuatan daftar pencocokan file telah gagal</VALUE>
+    <VALUE Lang="GS" Index="68">Failed to create the file comparison list! </VALUE>
+    <VALUE Lang="cn" Index="69">进行文件比对中…</VALUE>
+    <VALUE Lang="id" Index="69">File sedang dicocokkan….</VALUE>
+    <VALUE Lang="GS" Index="69">Comparing the files...</VALUE>
+    <VALUE Lang="cn" Index="70">压缩文件中</VALUE>
+    <VALUE Lang="id" Index="70">File sedang dikompres</VALUE>
+    <VALUE Lang="GS" Index="70">Compressing the file...</VALUE>
+    <VALUE Lang="cn" Index="71">压缩文件失败！</VALUE>
+    <VALUE Lang="id" Index="71">Kompres file telah gagal</VALUE>
+    <VALUE Lang="GS" Index="71">Failed to compress the file!</VALUE>
+    <VALUE Lang="cn" Index="72">最佳化执行失败！</VALUE>
+    <VALUE Lang="id" Index="72">Optimalisasi telah gagal</VALUE>
+    <VALUE Lang="GS" Index="72">Failed to execute the optimization!</VALUE>
+    <VALUE Lang="cn" Index="73">用户设定</VALUE>
+    <VALUE Lang="id" Index="73">Pengaturan user</VALUE>
+    <VALUE Lang="GS" Index="73">User Defined</VALUE>
+    <VALUE Lang="cn" Index="74">档案解压失败</VALUE>
+    <VALUE Lang="GS" Index="74">Failed to extract the files.</VALUE>
+    <VALUE Lang="id" Index="74">Pembukaan kompresan file telah gagal</VALUE>
+    <VALUE Lang="cn" Index="75">指定解压缩路径失败</VALUE>
+    <VALUE Lang="GS" Index="75">Failed to assign compressed folder.</VALUE>
+    <VALUE Lang="id" Index="75">Penyimpanan kompresan file telah gagal</VALUE>
+    <VALUE Lang="cn" Index="76">删除档案失败</VALUE>
+    <VALUE Lang="GS" Index="76">Failed to delete file.</VALUE>
+    <VALUE Lang="id" Index="76">Penghapusan file telah gagal</VALUE>
+    <VALUE Lang="cn" Index="77">进行游戏所需要的准备尚未完成！</VALUE>
+    <VALUE Lang="GS" Index="77">Not ready to play the game yet!</VALUE>
+    <VALUE Lang="id" Index="77">Game belum siap</VALUE>
+    <VALUE Lang="cn" Index="78">请使用"UPDATE START"按钮进行下载。</VALUE>
+    <VALUE Lang="GS" Index="78">Begin downloding by pressing "UPDATE START" button.</VALUE>
+    <VALUE Lang="id" Index="78">Silahkan klik tombol UPDATE START untuk mendownload</VALUE>
+    <VALUE Lang="cn" Index="79">您使用的是舊版本，請安裝最新版本。</VALUE>
+    <VALUE Lang="GS" Index="79">This version of yours is too old. Please reinstall the latest client.</VALUE>
+    <VALUE Lang="id" Index="79">Versi anda terlalu lama. Silahkan install klien terbaru.</VALUE>
+    <VALUE Lang="cn" Index="80">最高级</VALUE>
+    <VALUE Lang="GS" Index="80">Luxury</VALUE>
+    <VALUE Lang="id" Index="80">Skip</VALUE>
+    <VALUE Lang="cn" Index="81">没有（UI 除外）</VALUE>
+    <VALUE Lang="GS" Index="81">None (Except UI)</VALUE>
+    <VALUE Lang="id" Index="81">Skip</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="IDS_WHQL_CVD">
+    <VALUE Lang="cn" Index="0">WHQL认证的显示卡驱动程式</VALUE>
+    <VALUE Lang="id" Index="0">WHQL Video Driver bersertifikat</VALUE>
+    <VALUE Lang="GS" Index="0">WHQL Certified Video Driver</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="IDS_WHQL_UCVD">
+    <VALUE Lang="cn" Index="0">WHQL 认证的显示卡驱动程式</VALUE>
+    <VALUE Lang="id" Index="0">WHQL Video Driver tidak bersertifikat</VALUE>
+    <VALUE Lang="GS" Index="0">WHQL Uncertified Video Driver</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="PROVIDE_FLAG_NAME">
+    <VALUE Lang="cn" Index="0">PROVIDE_KOREA_FLAG</VALUE>
+    <VALUE Lang="id" Index="0">PROVIDE_KOREA_FLAG</VALUE>
+    <VALUE Lang="GS" Index="0">PROVIDE_KOREA_FLAG</VALUE>
+    <VALUE Lang="th" Index="0">PROVIDE_KOREA_FLAG</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="PROVIDE_TEXT_NAME">
+    <VALUE Lang="cn" Index="0">PROVIDE_KOREA_TEXT</VALUE>
+    <VALUE Lang="id" Index="0">PROVIDE_KOREA_TEXT</VALUE>
+    <VALUE Lang="GS" Index="0">PROVIDE_KOREA_TEXT</VALUE>
+    <VALUE Lang="th" Index="0">PROVIDE_KOREA_TEXT</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="PROVIDE_GS_FLAG">
+    <VALUE Lang="GS" Index="0">GS</VALUE>
+    <VALUE Lang="GS" Index="0">GS</VALUE>
+    <VALUE Lang="GS" Index="1">Indonesia</VALUE>
+    <VALUE Lang="id" Index="1">Indonesia</VALUE>
+    <VALUE Lang="GS" Index="2">Thai</VALUE>
+    <VALUE Lang="th" Index="2">Thai</VALUE>
+    <VALUE Lang="GS" Index="3">Chines</VALUE>
+    <VALUE Lang="cn" Index="3">Chines</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="PROVIDE_GS_TEXT">
+    <VALUE Lang="GS" Index="0">English</VALUE>
+    <VALUE Lang="GS" Index="0">English</VALUE>
+    <VALUE Lang="GS" Index="1">Indonesia</VALUE>
+    <VALUE Lang="id" Index="1">Indonesia</VALUE>
+    <VALUE Lang="GS" Index="2">Thai</VALUE>
+    <VALUE Lang="th" Index="2">Thai</VALUE>
+    <VALUE Lang="GS" Index="3">Chines</VALUE>
+    <VALUE Lang="cn" Index="3">Chines</VALUE>	
+  </WORD>
+  <WORD Ver="1" Id="PROVIDE_KOREA_FLAG">
+    <VALUE Lang="GS" Index="0">GS</VALUE>
+    <VALUE Lang="GS" Index="0">GS</VALUE>
+    <VALUE Lang="GS" Index="1">id</VALUE>
+    <VALUE Lang="id" Index="1">id</VALUE>
+    <VALUE Lang="GS" Index="2">th</VALUE>
+    <VALUE Lang="th" Index="2">th</VALUE>
+    <VALUE Lang="GS" Index="3">cn</VALUE>
+    <VALUE Lang="cn" Index="3">cn</VALUE>	
+  </WORD>
+  <WORD Ver="1" Id="PROVIDE_KOREA_TEXT">
+    <VALUE Lang="GS" Index="0">English</VALUE>
+    <VALUE Lang="cn" Index="0">English</VALUE>
+    <VALUE Lang="GS" Index="1">Indonesia</VALUE>
+    <VALUE Lang="id" Index="1">Indonesia</VALUE>
+    <VALUE Lang="GS" Index="2">Thai</VALUE>
+    <VALUE Lang="th" Index="2">Thai</VALUE>
+    <VALUE Lang="GS" Index="3">Chines</VALUE>
+    <VALUE Lang="cn" Index="3">Chines</VALUE>	
+  </WORD>
+</TEXT>
