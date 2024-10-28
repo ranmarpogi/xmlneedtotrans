@@ -1,0 +1,952 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEXT>
+<!-- START NEW ADDED BY SENCORE -->
+<SENTENSE Ver="1" Id="CHANGEPIN_PAGE_PW_ERROR">
+<VALUE Lang="th">กรุณาพิมพ์รหัสผ่านของคุณ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPIN_PAGE_OPW2_ERROR">
+<VALUE Lang="th">กรุณาพิมพ์รหัสผ่านของคุณ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPIN_PAGE_PW2_ERROR">
+<VALUE Lang="th">กรุณาพิมพ์ Pincode ของคุณ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPIN_PAGE_PW2_ERROR">
+<VALUE Lang="th">โปรดพิมพ์รหัส PIN ของคุณอีกครั้ง</VALUE>
+</SENTENSE>
+
+<SENTENSE Ver="1" Id="CHANGEPIN_SUCCESS">
+<VALUE Lang="th">อัพเดทเสร็จแล้ว!</VALUE>
+<VALUE Lang="th">คลิกตกลงเพื่อยืนยัน</VALUE>
+</SENTENSE>
+
+<SENTENSE Ver="1" Id="CHANGEPASS_PAGE_PW_ERROR">
+<VALUE Lang="th">กรุณาพิมพ์รหัสผ่านของคุณ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPASS_PAGE_OPW_ERROR">
+<VALUE Lang="th">กรุณาพิมพ์รหัสผ่านของคุณ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPASS_PAGE_PW2_ERROR">
+<VALUE Lang="th">กรุณาพิมพ์ Pincode ของคุณ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPASS_PAGE_RPW2_ERROR">
+<VALUE Lang="th">โปรดพิมพ์รหัส PIN ของคุณอีกครั้ง</VALUE>
+</SENTENSE>
+
+<SENTENSE Ver="1" Id="CHANGEPASS_SUCCESS">
+<VALUE Lang="th">อัพเดทเสร็จแล้ว!</VALUE>
+<VALUE Lang="th">คลิกตกลงเพื่อยืนยัน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEEMAIL_PAGE_PW_ERROR">
+<VALUE Lang="th">กรุณาพิมพ์รหัสผ่านของคุณ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEEMAIL_PAGE_PW2_ERROR">
+<VALUE Lang="th">กรุณาพิมพ์ Pincode ของคุณ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEEMAIL_PAGE_EM_ERROR">
+<VALUE Lang="th">กรุณาตรวจสอบอีเมล์ของคุณ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEEMAIL_PAGE_REM_ERROR">
+<VALUE Lang="th">กรุณาตรวจสอบอีเมลของคุณอีกครั้ง</VALUE>
+</SENTENSE>
+
+<SENTENSE Ver="1" Id="CHANGEEMAIL_SUCCESS">
+<VALUE Lang="th">อัพเดทเสร็จแล้ว!</VALUE>
+<VALUE Lang="th">คลิกตกลงเพื่อยืนยัน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_PAGE_RP_ERROR">
+<VALUE Lang="th">unable to use blank or ASCII code</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="GTCVT_PAGE_CP_ERROR">
+<VALUE Lang="th">unable to use blank or ASCII code</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUP_PAGE_CP_ERROR">
+<VALUE Lang="th">unable to use blank or ASCII code</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPASS_PAGE_CP_ERROR">
+<VALUE Lang="th">unable to use blank or ASCII code</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEPIN_PAGE_CP_ERROR">
+<VALUE Lang="th">unable to use blank or ASCII code</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHANGEEMAIL_PAGE_CP_ERROR">
+<VALUE Lang="th">unable to use blank or ASCII code</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPSTAGE_1">
+<VALUE Lang="th">System error caused update fail</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPSTAGE_2">
+<VALUE Lang="th">Sorry, update failed.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPSTAGE_3">
+<VALUE Lang="th">Prompting to Login Page.</VALUE>
+<VALUE Lang="th">Click ok to confirm.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPSTAGE_4">
+<VALUE Lang="th"> Password / Pincode is Invalid please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPSTAGE_5">
+<VALUE Lang="th">Email is Invalid! please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPSTAGE_6">
+<VALUE Lang="th">Captcha is Invalid!</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPSTAGE_7">
+<VALUE Lang="th">Update on progress.</VALUE>
+<VALUE Lang="th">Please wait...</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CESTAGE_1">
+<VALUE Lang="th">System error caused update fail</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CESTAGE_2">
+<VALUE Lang="th">Sorry, update failed.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CESTAGE_3">
+<VALUE Lang="th">Prompting to Login Page.</VALUE>
+<VALUE Lang="th">Click ok to confirm.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CESTAGE_4">
+<VALUE Lang="th"> Password / Pincode is Invalid please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CESTAGE_5">
+<VALUE Lang="th">Email is Invalid! please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CESTAGE_6">
+<VALUE Lang="th">Captcha is Invalid!</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CESTAGE_7">
+<VALUE Lang="th">Update on progress.</VALUE>
+<VALUE Lang="th">Please wait...</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPINSTAGE_1">
+<VALUE Lang="th">System error caused update fail</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPINSTAGE_2">
+<VALUE Lang="th">Sorry, update failed.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPINSTAGE_3">
+<VALUE Lang="th">Prompting to Login Page.</VALUE>
+<VALUE Lang="th">Click ok to confirm.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPINSTAGE_4">
+<VALUE Lang="th"> Password / Pincode is Invalid please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPINSTAGE_5">
+<VALUE Lang="th">Email is Invalid! please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPINSTAGE_6">
+<VALUE Lang="th">Captcha is Invalid!</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CPINSTAGE_7">
+<VALUE Lang="th">Update on progress.</VALUE>
+<VALUE Lang="th">Please wait...</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUPSTAGE_1">
+<VALUE Lang="th">System error caused update fail</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUPSTAGE_2">
+<VALUE Lang="th">Sorry, update failed.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUPSTAGE_3">
+<VALUE Lang="th">Prompting to Login Page.</VALUE>
+<VALUE Lang="th">Click ok to confirm.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUPSTAGE_4">
+<VALUE Lang="th"> Password / Pincode is Invalid please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUPSTAGE_5">
+<VALUE Lang="th">Email is Invalid! please try again</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUPSTAGE_6">
+<VALUE Lang="th">Captcha is Invalid!</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOPUPSTAGE_7">
+<VALUE Lang="th">Update on progress.</VALUE>
+<VALUE Lang="th">Please wait...</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="GTCVTSTAGE_6">
+<VALUE Lang="th">Captcha is Invalid!</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="GTCVTSTAGE_7">
+<VALUE Lang="th">Update on progress.</VALUE>
+<VALUE Lang="th">Please wait...</VALUE>
+</SENTENSE>
+  <WORD Ver="1" Id="EM_REGISTER_FB_SUB">
+    <VALUE Lang="th" Index="0">ลงทะเบียนสำเร็จ! ตอนนี้คุณสามารถเข้าสู่ระบบ!</VALUE>
+    <VALUE Lang="th" Index="1">ลงทะเบียนไม่สำเร็จ</VALUE>
+    <VALUE Lang="th" Index="2">มีชื่อผู้ใช้นี่แล้ว!</VALUE>
+  </WORD>
+  <SENTENSE Ver="1" Id="REGISTERSTAGE_1">
+    <VALUE Lang="th">Please Check Input! must not include blanks or symbols.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTERSTAGE_5">
+    <VALUE Lang="th">กรุณาตรวจสอบการป้อนข้อมูล! ต้องไม่มีช่องว่างหรือสัญลักษณ์</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTERSTAGE_4">
+    <VALUE Lang="th">กรุณาตรวจสอบการป้อนข้อมูล! ต้องไม่มีช่องว่างหรือสัญลักษณ์</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTERSTAGE_6">
+    <VALUE Lang="th">กำลังดำเนินการลงทะเบียน</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTER_PAGE_RP_EMPTY">
+    <VALUE Lang="th">กรุณาพิมพ์ captcha!</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTER_PAGE_RP_ERROR">
+    <VALUE Lang="th">Captcha ไม่ตรงกันหรือกรอกไม่ถูกต้อง</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTER_PAGE_PW2_ERROR">
+    <VALUE Lang="th">กรุณาตรวจสอบการป้อนข้อมูล! PinCode ต้องไม่มีช่องว่างหรือสัญลักษณ์</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTER_PAGE_PW_ERROR">
+    <VALUE Lang="th">กรุณาตรวจสอบการป้อนข้อมูล! รหัสผ่านต้องไม่มีช่องว่างหรือสัญลักษณ์</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTER_PAGE_ID_ERROR">
+    <VALUE Lang="th">กรุณาตรวจสอบการป้อนข้อมูล! UserID ต้องไม่มีช่องว่างหรือสัญลักษณ์</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTER_PAGE_EMAIL_ERROR">
+    <VALUE Lang="th">กรุณาตรวจสอบการป้อนข้อมูล! อีเมลต้องไม่มีช่องว่างหรือสัญลักษณ์อื่น ๆ !.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTERSTAGE_8">
+    <VALUE Lang="th">การเชื่อมต่อเครือข่ายล้มเหลว</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_1">
+    <VALUE Lang="th">การเชื่อมต่อเครือข่ายล้มเหลว</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOGINSTAGE_10">
+    <VALUE Lang="th">บัญชีผู้ใช้ (ID) ถูกใช้ไปแล้ว!</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="REGISTER_PAGE_RAND_NUMBER">
+    <VALUE Lang="th">%1%th รหัสลับ</VALUE>
+  </SENTENSE>
+  
+  <!-- END NEW ADDED BY SENCORE -->
+<SENTENSE Ver="1" Id="CHAR_DEL_CLUB_FAILED">
+<VALUE Lang="th">การลบตัวละครไม่สำเร็จ</VALUE>
+<VALUE Lang="th">กรุณายกเลิกคลับก่อน แล้วค่อยลองใหม่</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHAR_DEL_FAILED">
+<VALUE Lang="th">การลบตัวละครไม่สำเร็จ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHAR_DEL_SUCCEED">
+<VALUE Lang="th">การลบตัวละครสำเร็จแล้ว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHAR_DELETE_ON">
+<VALUE Lang="th">กำลังลบตัวละคร</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTER_BADNAME">
+<VALUE Lang="th">ชื่อตัวละครมีคำไม่เหมาะสม</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTER_COUNTY_CLUB_INFO">
+<VALUE Lang="th">คลับปัจจุบัน : %1%(%2%).</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTER_COUNTY_NO_CLUB_INFO">
+<VALUE Lang="th">คลับปัจจุบัน : ไม่มีคลับค่ะ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTER_NOT_ENOUGH_CHARREMAIN">
+<VALUE Lang="th">บัตรสร้างตัวละครไม่เพียงพอ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTER_THIS_SERVER_SLOT_FULL">
+<VALUE Lang="th">เซิร์ฟเวอร์ไม่สามารถสร้างตัวละครได้อีก</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_10">
+<VALUE Lang="th">ตัวละครกำลังอยู่ในขั้นตอนการเชื่อมต่อ</VALUE>
+<VALUE Lang="th">กรุณาลองเชื่อมต่อใหม่อีกครั้ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_11">
+<VALUE Lang="th">เซิร์ฟเวอร์ไม่สามารถสร้างตัวละครได้</VALUE>
+<VALUE Lang="th">กรุณาลองเชื่อมต่อใหม่อีกครั้ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_12">
+<VALUE Lang="th">ค่าความดีของคุณติดลบ จึงไม่สามารถเข้า Channel นี้ได้</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_13">
+<VALUE Lang="th">คุณต้องการที่จะกลับไปยังหน้าเลือกตัวละครใช่ไหม?</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_14">
+<VALUE Lang="th">ขณะนี้กำลังเซฟข้อมูลตัวละคร กรุณารอสักครู่ค่ะ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_15">
+<VALUE Lang="th">กรุณาลองใหม่อีกสักครู่ค่ะ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_16">
+<VALUE Lang="th">PinCode</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_17">
+<VALUE Lang="th">คุณกรอก PinCode ไม่ถูกต้อง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_18">
+<VALUE Lang="th">รหัสผ่านไม่ถูกต้อง กรุณารอ 5 นาทีแล้วลองอีกครั้ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_19">
+<VALUE Lang="th">ยืนยันรหัสผ่านสำเร็จ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_2">
+<VALUE Lang="th">อินเตอร์เน็ตถูกตัดการเชื่อมต่อ</VALUE>
+<VALUE Lang="th">คุณต้องการเชื่อมต่ออีกครั้งหรือไม่</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_20">
+<VALUE Lang="th">กรุณาตั้งค่า PinCode ด้วยตัวเลข 4 ตัว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_3">
+<VALUE Lang="th">คุณต้องการออกจากเกมหรือไม่</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_4">
+<VALUE Lang="th">คุณต้องการสร้างตัวละครใหม่หรือเปล่า</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_6">
+<VALUE Lang="th">ต้องการออกไปยังเมนูเลือกเซิร์ฟเวอร์หรือไม่</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_8">
+<VALUE Lang="th">กรุณาเลือกตัวละคร</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_9">
+<VALUE Lang="th">ไม่สามารถลบตัวละครได้</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_BLOCK_CLASS">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_CAUTION_DELETE">
+<VALUE Lang="th">ในกรณีที่ต้องการลบ %1%</VALUE>
+<VALUE Lang="th">กรุณาใส่รหัสผ่านขั้นที่ 2</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_CAUTION_DELETE_DAUM">
+<VALUE Lang="th">ต้องการลบแน่ใช่ไหม</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_DAUM_GAME_JOIN_FAIL">
+<VALUE Lang="th">ไม่สามารถเข้าถึงข้อมูลตัวละคร</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_ERROR_2ND_PWD">
+<VALUE Lang="th">กรุณาตรวจสอบกฏการสร้างรหัสผ่านอีกครั้ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_ERROR_LEN_2ND_PWD">
+<VALUE Lang="th">กรุณากรอกรหัสผ่านเป็นตัวเลข 4 ตัว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_ERROR_SAME_2ND_PWD">
+<VALUE Lang="th">ไม่สามารถใช้ตัวเลขเหมือนกันเรียงกันได้คะ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_GAME_JOIN">
+<VALUE Lang="th">กำลังประมวลข้อมูล</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_MISMATCH_2ND_PWD">
+<VALUE Lang="th">ยืนยัน Sub Password ไม่ถูกต้อง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_NOT_SELECTED">
+<VALUE Lang="th">กรุณาเลือกตัวละครที่ต้องการจะลบ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_RANDOMOPTION_ERROR">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHARACTERSTAGE_UNKNOWN_ERROR_2ND_PWD">
+<VALUE Lang="th">ข้อผิดพลาดของรหัสผ่าน Unknown</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHINA_GAIN_1HOUR">
+<VALUE Lang="th">Pass 1 hour</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHINA_LOGIN_GAINTIME_ERROR">
+<VALUE Lang="th">Able to Login when your offline time of Game had accrued more than 5 hours.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CHINA_OUTER_UP_TITLE">
+<VALUE Lang="th">ประกาศ  ต่อต้าน Server เถื่อน อย่าหลงกลหลงเชื่อบุคคลอื่นเพราะอาจจะถูกหลอกลวงได้ง่าย อย่าหมกมุ่นในเกมส์จนทำลายสุขภาพจะต้องรู้จักแบ่งเวลาในการเล่นเกมส์และการใช้ชีวิตประจำวันให้ได้</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CREATE_CHARACTER_NAME_ERROR">
+<VALUE Lang="th">ชื่อบัญชีไม่สามารถมี</VALUE>
+<VALUE Lang="th">ตัวอักษรพิเศษ หรือช่องว่าง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CREATE_CHARACTER_NAME_ERROR_KOREA">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CREATE_CHARACTER_NAME_ERROR_WB">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CREATESTAGE_1">
+<VALUE Lang="th">อินเตอร์เน็ตถูกตัดการเชื่อมต่อ</VALUE>
+<VALUE Lang="th">คุณต้องการเชื่อมต่ออีกครั้งหรือไม่</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CREATESTAGE_10">
+<VALUE Lang="th">Wrong vietnamese included in character's name</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CREATESTAGE_11">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CREATESTAGE_2">
+<VALUE Lang="th">กรุณาตั้งชื่อตัวละคร</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CREATESTAGE_3">
+<VALUE Lang="th">คุณต้องการออกจากเกมหรือไม่</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CREATESTAGE_4">
+<VALUE Lang="th">สร้างตัวละครสำเร็จ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CREATESTAGE_5">
+<VALUE Lang="th">ชื่อนี้ถูกใช้แล้ว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CREATESTAGE_6">
+<VALUE Lang="th">ไม่สามารถสร้างตัวละครได้</VALUE>
+<VALUE Lang="th">เนื่องจาก Slot Character ไม่พอ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CREATESTAGE_7">
+<VALUE Lang="th">การสร้างตัวละครไม่สำเร็จ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CREATESTAGE_8">
+<VALUE Lang="th">ชื่อตัวละครห้ามมีสัญลักษณ์พิเศษ หรือช่องว่าง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CREATESTAGE_9">
+<VALUE Lang="th">ผิดหลักภาษาไทย</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="DAUM_LOGIN_WAIT">
+<VALUE Lang="th">เซิร์ฟเวอร์กำลังอยู่ในระหว่างขั้นตอนการเชื่อมต่อ</VALUE>
+<VALUE Lang="th">กรุณารอสักครู่</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="DAUM_LOGIN_WAIT_SERVERFULL">
+<VALUE Lang="th">ไม่มีการตอบรับจากเซิร์ฟเวอร์</VALUE>
+<VALUE Lang="th">คุณต้องการเชื่อมต่ออีกครั้งไหม</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="DISABLED_ACCOUNT_5TIMES_FAILED_LOGIN">
+<VALUE Lang="th">Error 36 ID ถูกระงับ เนื่องจากล็อคอินผิด 5 ครั้ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EM_LOGIN_FB_KOR_SHUTDOWN">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EM_LOGIN_FB_SUB_BETAKEY">
+<VALUE Lang="th">ไม่สามารถยืนยันได้ เนื่องจากรหัสที่ใส่ไม่สามารถใช้ได้</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EM_LOGIN_FB_SUB_IMPOSSIBLEIP">
+<VALUE Lang="th">ไม่สามารถเชื่อมต่อ IP ได้</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EM_LOGIN_FB_SUB_UUIDGET_FAIL">
+<VALUE Lang="th">Can't load UUID by login failed</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="ITEM_INFO_SET_PREVIEW_TOOLTIP">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_ALREADYOFFLINE">
+<VALUE Lang="th">Login failed due to unstable line connection.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED">
+<VALUE Lang="th">ไม่สามารถล็อกอินได้</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_AKEY_AUTH_FAILED">
+<VALUE Lang="th">Error 47 การยืนยัน @Key ล้มเหลว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_AKEY_AUTH_NO_RESPONSE">
+<VALUE Lang="th">Error 46 ระบบ @Key เกิดความผิดพลาด</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_AKEY_BLOCKED_5TIMES_FAILED_OTP">
+<VALUE Lang="th">Error 48 อุปกรณ์ @Key ถูกบล็อค เนื่องจากยืนยันผิด 5 ครั้ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_AUTH_NO_RESPONSE">
+<VALUE Lang="th">Error 45 ระบบล็อคอินเกิดความผิดพลาด</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_DB_ERROR">
+<VALUE Lang="th">Error 41 เกิดข้อผิดพลาดบางประการ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_DETAIL">
+<VALUE Lang="th">ไม่สามารถล็อกอินได้  (error code %1%)</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_DUP_EMAIL">
+<VALUE Lang="th">Error 38 เกิดข้อผิดพลาดเกี่ยวกับอีเมล์</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_INVALID_ACCOUNT_FORMAT">
+<VALUE Lang="th">Error 33 ID/PW ผิด</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_INVALID_REQUEST_PARAMETERS">
+<VALUE Lang="th">Error 32 เกิดข้อผิดพลาดบางประการ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_INVALID_VER">
+<VALUE Lang="th">มี Client เวอร์ชั่นใหม่แล้ว</VALUE>
+<VALUE Lang="th">กรุณาปิดเกมก่อนที่จะอัพเดทเวอร์ชั่นใหม่</VALUE>
+<VALUE Lang="th">กรุณาเริ่มเกมใหม่อีกครั้ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_MA_MODE">
+<VALUE Lang="th">ปิดปรับปรุงระบบ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_NOT_EXIST_ACCOUNT">
+<VALUE Lang="th">Error 34 ID/PW ผิด</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_REF_DIFF">
+<VALUE Lang="th">Error 44 การล็อคอินผิดพลาด กรุณาลองอีกครั้ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_UNEXPECTED_ERROR">
+<VALUE Lang="th">Error 42 เกิดข้อผิดพลาดบางประการ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_UNKNOWN_ERROR_CODE">
+<VALUE Lang="th">Error 43 เกิดข้อผิดพลาดบางประการ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_UNVERIFIED_ACCOUNT">
+<VALUE Lang="th">Error 37 ยังไม่ได้ทำการยืนยัน ID</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_VER_FILE">
+<VALUE Lang="th">โปรแกรม Client เกิดความเสียหาย</VALUE>
+<VALUE Lang="th">กรุณาถอดถอดเกมออก แล้วติดตั้งเกมใหม่อีกครั้ง</VALUE>
+<VALUE Lang="th">กรุณาเริ่มเกมใหม่อีกครั้ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_FAILED_WB">
+<VALUE Lang="th">คุณได้ทำการเชื่อมต่อ Battle Server อยู่แล้ว ไม่สามารถเชื่อมต่อได้คะ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_PAGE_ID_ERROR">
+<VALUE Lang="th">ชื่อบัญชีไม่สามารถมีตัวอักษรพิเศษ หรือช่องว่าง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_PAGE_PW_ERROR">
+<VALUE Lang="th">รหัสผ่านไม่สามารถมีตัวอีกษรพิเศษ หรือช่องว่าง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_PAGE_RAND_NUMBER">
+<VALUE Lang="th">%1%th security code</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGIN_PAGE_RP_ERROR">
+<VALUE Lang="th">unable to use blank or ASCII code</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_1">
+<VALUE Lang="th">การเชื่อมต่อระหว่างเซิร์ฟเวอร์ถูกตัดขาด</VALUE>
+<VALUE Lang="th">คุณต้องการเชื่อมต่ออีกครั้งไหม</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_10">
+<VALUE Lang="th">บัญชีของผู้เล่นกำลังเชื่อมต่อ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_11">
+<VALUE Lang="th">ชื่อและรหัสผ่านไม่ถูกต้อง</VALUE>
+<VALUE Lang="th">กรุณายืนยันอีกครั้ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_12">
+<VALUE Lang="th">IP ของคุณถูกบล๊อค</VALUE>
+<VALUE Lang="th">กรุณาติดต่อ GM</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_13">
+<VALUE Lang="th">2nd ID is overlap. Try to use new ID.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_18LESS_FAILED">
+<VALUE Lang="th">ท่านอายุไม่ถึง18 ปี ไม่สามารถ Log-in เข้าเกมได้</VALUE>
+<VALUE Lang="th">กรุณากดปุ่มตกลง เพื่อออกจากเกม</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_18LESS_TIME_FAILED">
+<VALUE Lang="th">ท่านอายุไม่ถึง18 ปี ได้เล่นเกมครบ 3 ชั่วโมงแล้ว</VALUE>
+<VALUE Lang="th">กรุณากดปุ่มตกลง เพื่อออกจากเกม</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_18MORE_FAILED">
+<VALUE Lang="th">ท่านอายุครบ18 ปีแล้ว แต่ยังไม่ได้ลงทะเบียนเพื่อเล่นเกมในแบบ 24 ชั่วโมง</VALUE>
+<VALUE Lang="th">กรุณากดปุ่มตกลงเพื่อออกจากเกม</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_2">
+<VALUE Lang="th">กรุณาเลือกเซิฟร์ฟเวอร์ที่ต้องการเชื่อมต่อ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_3">
+<VALUE Lang="th">กรุณาเลือกเซิฟร์ฟเวอร์ที่ต้องการเชื่อมต่อ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_4">
+<VALUE Lang="th">ชื่อบัญชีของผู้ใช้ ไม่สามารถมี</VALUE>
+<VALUE Lang="th">ตัวอักษรพิเศษ หรือช่องว่าง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_5">
+<VALUE Lang="th">กรุณากรอกชื่อและรหัสผ่าน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_6">
+<VALUE Lang="th">กำลังตรวจสอบข้อมูล</VALUE>
+<VALUE Lang="th">โปรดรอสักครู่</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_8">
+<VALUE Lang="th">ระบบเกิดความผิดพลาดเนื่องจากการล็อกอินที่ไม่สำเร็จ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_9">
+<!--VALUE Lang="th">เกิดความผิดพลาดกับช่วงเวลาที่อนุญาตให้เล่นเกมของคุณ</VALUE-->
+<VALUE Lang="th">คุณ Login เร็วเกินไป กรุณารอภายในเวลา 15 วินาที</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_ADULT_FAILED">
+<VALUE Lang="th">ผู้ใหญ่ไม่สามารถล็อกอินได้</VALUE>
+<VALUE Lang="th">กรุณากดปุ่มยืนยัน ก่อนจะยกเลิก</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_APP_ACCOUNT_LOCKED">
+<VALUE Lang="th">กรุณาทำการปลดล็อกบัญชีของคุณจากแอพลิเคชั่นความปลอดภัย</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_BLOCK">
+<VALUE Lang="th">บัญชีของคุณถูกบล๊อค</VALUE>
+<VALUE Lang="th">กรุณาติดต่อ GM</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_EXPIRED_USER">
+<VALUE Lang="th">หมดเวลาสำหรับการยืนยันการล็อกอิน กรุณากดปุ่มยืนยัน เพื่อออกจากเกม</VALUE>
+<VALUE Lang="th">กรุณาลองใหม่อีกครั้ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_FULL">
+<VALUE Lang="th">จำนวนผู้เล่นในเซิร์ฟเวอร์เกินขีดจำกัดแล้ว</VALUE>
+<VALUE Lang="th">กรุณาลองเข้าใหม่ภายหลัง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_INVALID_LOGIN">
+<VALUE Lang="th">การล็อกอินผิดปกติ กรุณากดปุ่มยืนยัน เพื่อออกจากเกม</VALUE>
+<VALUE Lang="th">กรุณาลองใหม่อีกครั้ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_ITEM_TRANSFERING">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_NOGID">
+<VALUE Lang="th">การล็อกอินผิดปกติ กรุณากดปุ่มยืนยัน เพื่อออกจากเกม</VALUE>
+<VALUE Lang="th">กรุณาลองใหม่อีกครั้ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_NOUID">
+<VALUE Lang="th">หมดเวลาสำหรับการยืนยันการล็อกอิน กรุณากดปุ่มยืนยัน เพื่อออกจากเกม</VALUE>
+<VALUE Lang="th">กรุณาลองใหม่อีกครั้ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_OTP_INPUT">
+<VALUE Lang="th">กรุณากรอกรหัส OTP.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_RANDOM_PASS_FAILED">
+<VALUE Lang="th">Password ไม่ถูกต้อง (หรือ ไม่ได้ใส่ Password)</VALUE>
+<VALUE Lang="th">กรุณาใส่ Password ให้ถูกต้อง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_SERVER_RESPONSE">
+<VALUE Lang="th">กำลังเชื่อมต่อเซิร์ฟเวอร์</VALUE>
+<VALUE Lang="th">กรุณารอสักครู่</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_SSN_FAILED">
+<VALUE Lang="th">บัตรประชาชนของตัวละครไม่เข้ากัน</VALUE>
+<VALUE Lang="th">กรุณากดปุ่มยืนยัน ก่อนจะยกเลิก</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOGINSTAGE_UNKNOWN_FAILED">
+<VALUE Lang="th">ไม่พบบัญชีของคุณ</VALUE>
+<VALUE Lang="th">โปรดอ่านคำแนะนำใน FAQ จากเวบของเรา</VALUE>
+<VALUE Lang="th">กรุณาติดต่อ GM</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC0">
+<VALUE Lang="th">อาชีพเอ็กตรีมเกิดขึ้นจากนักเรียนที่ตั้งใจฝึกฝนอย่างดี จนมีความสามารถอันแรงกล้า</VALUE>
+<VALUE Lang="th">และมีความสามารถอันมากมายที่จะกำจัดศัตรู พวกเขาไม่ได้แค่เรียนรู้สกิลของทุกอาชีพเท่านั้น</VALUE>
+<VALUE Lang="th">แต่ยังสามารถเลือกสกิลได้หลากหลาย ไม่ว่าจะเป็นแบบประชิด แบบยิง เวทย์ และทั่วไป</VALUE>
+<VALUE Lang="th">และสามารถผสมผสานสกิลของแต่ละอาชีพในแบบที่ต้องการได้ สกิลต่อเนื่องคือสิ่งสำคัญมากที่สุดอย่างหนึ่ง</VALUE>
+<VALUE Lang="th">ของความสามารถในอาชีพเอ็กตรีม พวกเขาสามารถใส่หมัดพิเศษ หมัดที่มีไว้สำหรับใช้ประโยชน์พิเศษ</VALUE>
+<VALUE Lang="th">หมัดที่สามารถทำให้อาชีพเอ็กตรีมสามารถใช้สกิลทุกอย่าง ของทุกอาชีพได้ เพื่อทำให้ศัตรูเกรงขาม</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC1">
+<VALUE Lang="th">นักเรียนสายดาบ สามารถอดทนต่อการฝึกที่เข้มงวดได้ มีความมุ่งหมายในความมั่นคง แข็งแรง และว่องไว นักเรียนอาชีพนี้มักได้รับการยอมรับเสมอ เพราะสามารถป้องกันได้เป็นอย่างดีและและมีสกิลหลากหลาย ทำให้คู่ต่อสู้เกรงกลัวทั้งตอน PvP และ PvE ในการสู้รบ พวกเขาก็โจมตีได้รวดเร็วและรุนแรง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC2">
+<VALUE Lang="th">...</VALUE>
+<VALUE Lang="th">อาชีพที่ควบคุมจิตใจ และรวมรวมสมาธิเพื่อผลการยิงที่แม่นยำ</VALUE>
+<VALUE Lang="th">ชื่อเรียกนี้มาจากธนูของชาวตะวันตก แต่สามารถใช้ได้หมด ถ้าอาวุธตรงมีรูปร่างโค้งเหมือนคันธนู และใช้การเล็งเป็นสำคัญ</VALUE>
+<VALUE Lang="th">นอกจากนี้ คนทั่วไปมักจะสนใจในเรื่องของ ปืนและหอก นอกจากธนู</VALUE>
+<VALUE Lang="th">หากจะเทียบกับดาบแล้ว อาชีพนี้มีดีตรงที่ โจมตีจากระยะไกลได้ แม้ร่างกายจะอ่อนแอ</VALUE>
+<VALUE Lang="th">แต่พลังของธนูนั้นแรงไม่ใช่ย่อย สายธนูยังแบ่งเป็นโจมตีไกล และใกล้อีกด้วย</VALUE>
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC3">
+<VALUE Lang="th">นักเรียนสายหมัดไม่เคยที่จะหยุดฝึกฝนในการต่อสู้แบบรุนแรง เพื่อที่จะขยายขีดจำกัดในความสามารถของตัวเอง พวกเขามีความเก่งรอบด้านและติดอาวุธที่ดุร้ายที่มือและเท้า สายเด๊กมักจะเป็นพวกแนวหน้าที่โจมตีอย่างรวดเร็ว สายพาวโจมตีด้วยพลังอันหนักแน่นที่ไม่มีใครต้านทานได้ ส่วนสายสปินมีสัมผัสที่ล้ำลึกและความสามารถที่ล้ำหน้ากว่าอาชีพอื่นๆ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC4">
+<VALUE Lang="th">อาชีพนักเวทย์คือการรวมตัวของนักเรียน ที่มีพลังเวทย์ในการเคลื่อนย้ายสิ่งของ</VALUE>
+<VALUE Lang="th">พวกเขาสามารถช่วยเหลือนักเรียนคนอื่น หรือป้องกันการกระทำตัวไม่เหมาะสม พวกเขาสามารถทำให้ศัตรูอ่อนแอโดยการร่ายสกิลสาย Pow และร่ายบัฟเพื่อช่วยเหลือสมาชิกปาร์ตี้ด้วยสกิลสาย Dex</VALUE>
+<VALUE Lang="th">และยังร่ายสกิลสาย Spi เพื่อบัฟโดยตรงและรักษา อาชีพนักเวทย์มีความยากระดับกลางขึ้นไป เนื่องจากหน้าที่ของพวกเขาภายในปาร์ตี้จะถูกแบ่งอย่างชัดเจน โดยการจัดเรียงแต่ละสกิล</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC5">
+<VALUE Lang="th">ลักษณะพิเศษของกลุ่มนี้ก็คือ การคร่ำเคร่งอยู่กับการสมาคมวิทยาศาสตร์ พวกเขามีความสามารถในการประกอบปืนกล</VALUE>
+<VALUE Lang="th">ความสามารถในการใช้อาวุธปื่น ถูกแบ่งเป็น 3 อย่างคือ เคมี ชีวะ และกายภาพ</VALUE>
+<VALUE Lang="th">ในส่วนของเคมี สามารถลดความสามารถของผู้อื่น</VALUE>
+<VALUE Lang="th">ในส่วนของชีวะ สามารถยับยั้งการโจมตีของผู้อื่น หรือช่วยแก้สถานะผิดปกติได้</VALUE>
+<VALUE Lang="th">ในส่วนของกายภาพ สามารถเสกสมุนมาช่วยร่วมโจมตีได้</VALUE>
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC6">
+<VALUE Lang="th">ตัวแทนลับที่เลือดเย็น ผู้ซึ่งต้องหลบอยู่ภายใต้เงามืดเพื่อทำภารกิจให้สำเร็จ คือผู้เชี่ยวชาญในอาวุธอันหลากหลาย แต่ที่ถนัดที่สุดก็คืออาวุธทั้ง 3 อาชีพนินจากแบ่งออกเป็น 3 สายคือ นักฆ่า นำจำแลง และจอมโกง</VALUE>
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC7">
+<VALUE Lang="th">อาชีพนักมายากล เกิดขึ้นจากกลุ่มนักเรียนที่ฝึกฝนความแข็งแกร่งสำหรับการรบ ขึ้นมาจากความสามารถในการเล่นกล ไมว่าจะเป็นความไวของมือต่อหน้าผู้ชม กลเม็ดที่นักเรียนอันชาญฉลาดซ่อนเร้นต่อคู่ต่อสู้ อาวุธหลักของนักมายากลได้แก่กล่อง แส้ และไม้คทา รูปแบบการต่อสู้ขึ้นอยู่กับชนิดของอาวุธ ซึ่งเรียบหรูทีเดียว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC8">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_DEC9">
+<VALUE Lang="th">Shaper Class ตัวเอกนั้น มีทักษะพิเศษในการเอาเชนะศัตรู  ในทางกลับกันตัว ปฏิปักษ์ Shaper อาจจะดูโง่ไปหน่อยตอนแปลงร่าง แต่ก็แสดงให้เห็นถึงความชั่วร้ายในการเอาชนะศัตรูของเขา</VALUE>
+<VALUE Lang="th">มันเป็นเรื่องยากที่จะบอกได้ว่า ตัวเอก หรือตัว ปฏิปักษ์ Shaper ตัวไหนดีกว่ากัน ตัว Shaper เองยังมีความเชี่ยวชาญในการให้ความช่วยเหลือแก่พันธมิตร และการเสริมกำลังให้กับผู้อื่น อีกทั้งยังเป็นประโยชน์ในการออกล่า และเก่งกาจเรื่อง PvPs อีกด้วย.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_CLASS_ERROR">
+<VALUE Lang="th">กดปุ่มลูกศรซ้ายขวา เพื่อเลือกสายอาชีพก่อนนะคะ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_SCHOOL_DEC0">
+<VALUE Lang="th">ตำแหน่ง: ตั้งอยู่ทางทิศตะวันตก</VALUE>
+<VALUE Lang="th">สถาบันการศึกษาพิเศษแห่งแรก ที่ก่อตั้งโดยมูลนิธิของนักบุญ</VALUE>
+<VALUE Lang="th">มีข่าวลือว่ามีห้องทดลองอยู่ที่ไหนซักแห่ง ที่ค้นคว้าเกี่ยวกับดินแดนอีกมิติหนึ่ง และมีการทดลองหลายอย่างที่เป็นความลับอยู่ในห้องใต้ดิน</VALUE>
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_SCHOOL_DEC1">
+<VALUE Lang="th">ตำแหน่ง: ตั้งอยู่ทางทิศเหนือ</VALUE>
+<VALUE Lang="th">สถาบันการศึกษาพิเศษแห่งที่ 3 ที่ก่อตั้งโดยมูลนิธิของนักบุญ</VALUE>
+<VALUE Lang="th">สถาบันแห่งนี้ สร้างสนามพลังล้อมรอบทั้ง 4 ด้าน จากอีก 2 สถาบัน นักเรียนเกือบทั้งหมดของที่นี่ พื้นฐานมาจากตระกูลที่ร่ำรวย เป็นสถาบันที่มีชื่อเสียงในเรื่องของศิลปะ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_SCHOOL_DEC2">
+<VALUE Lang="th">ตำแหน่ง: ตั้งอยู่ทางทิศใต้</VALUE>
+<VALUE Lang="th">สถาบันการศึกษาพิเศษแห่งที่ 2 ที่ก่อตั้งโดยมูลนิธิของนักบุญ</VALUE>
+<VALUE Lang="th">สถาบันที่มีความชำนาญในด้านวิศวกรรม แต่ในด้านหลักสูตรพื้นฐานแล้ว ก็ไม่ต่างจากสถาบันอื่นๆ เลย เป็นสถาบันที่ควมคุมดูแลยากที่สุด ท่ามกลางของทั้ง 3 สถาบัน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_SCHOOL_ERROR">
+<VALUE Lang="th">กรุณาเลือกสถาบันก่อนนะคะ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_SEX_ERROR">
+<VALUE Lang="th">กรุณาเลือกเพศของตัวละครก่อนค่ะ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHAR_SELECT_STYLE_ERROR">
+<VALUE Lang="th">กรุณาเลือกหน้าตาและทรงผมก่อนค่ะ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEWCHAR_NAME_TOO_SHORT">
+<VALUE Lang="th">ชื่อตัวละครสั้นเกินไป</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NOT_SELECT_COUNTRY">
+<VALUE Lang="th">Please select your country or you will be not allowed to access the game.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGAMEMON_ERROR_AUTH_GAMEGUARD">
+<VALUE Lang="th">GameGuard file does not exist or is corrupted. Please install the GameGuard setup file.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGAMEMON_ERROR_CRYPTOAPI">
+<VALUE Lang="th">Window system files might be corrupted. Please reinstall the Internet Explorer(IE).</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGAMEMON_ERROR_DEFAULT">
+<VALUE Lang="th">Error occurred while running GameGuard. Please send all *.erl files in GameGuard folder to Game2@inca.co.kr via email.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGAMEMON_ERROR_EXECUTE">
+<VALUE Lang="th">Fail to run GameGuard. Please reinstall the GameGuard setup file.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGAMEMON_ERROR_EXIST">
+<VALUE Lang="th">GameGuard is already running. Try rebooting first and executing the game again.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGAMEMON_ERROR_GAME_EXIST">
+<VALUE Lang="th">There are multiple events of game execution or GameGuard is already running. Close the game then try again.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGAMEMON_ERROR_ILLEGAL_PRG">
+<VALUE Lang="th">Illegal program detected. Close all the unnecessary programs before running the game.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGAMEMON_ERROR_INIT">
+<VALUE Lang="th">GameGuard initialization error. Try rebooting and executing the game or close the program considered to cause a collision.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGAMEMON_ERROR_NPSCAN">
+<VALUE Lang="th">Failed to load virus and hacking tool scanning module. Possibly due to lack of memory or virus infection.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGAMEMON_GAMEHACK_DETECT">
+<VALUE Lang="th">Gamehack detected.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGAMEMON_GAMEHACK_DOUBT">
+<VALUE Lang="th">Game or GameGuard file corrupted.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGAMEMON_GAMEHACK_KILLED">
+<VALUE Lang="th">Gamehack detected.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGAMEMON_INIT_ERROR">
+<VALUE Lang="th">GameGuard initialization error : %1%</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGAMEMON_SPEEDHACK">
+<VALUE Lang="th">ตรวจพบ Speedhack</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGMUP_ERROR_ABORT">
+<VALUE Lang="th">GameGuard update has been aborted. Please check the status of Internet network or personal firewall settings when unable to connect continuously.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGMUP_ERROR_AUTH">
+<VALUE Lang="th">Fail to complete GameGuard update. Suspend Anti-Virus program temporarily and try the game, or check the settings of PC management programs if any.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NPGMUP_ERROR_CONNECT">
+<VALUE Lang="th">Fail to connect the GameGuard update server. Please try again after a while, or check personal Firewall settings if any.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="RN_MAP_WINDOW_MONSTER_EXPLAIN">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="RN_MAP_WINDOW_MONSTER_NORMAL">
+<VALUE Lang="th">ไม่โหดเท่าไหร่ แต่อย่าฆ่าเกินครั้งละ 8 ตัวล่ะ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="RN_MAP_WINDOW_MONSTER_STRONG">
+<VALUE Lang="th">โหดทีเดียว ห้ามฆ่าเกินครั้งละ 2 ตัว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="RN_MAP_WINDOW_MONSTER_VERY_STRONG">
+<VALUE Lang="th">โหดมาก โดนมันตีทีเดียวอาจตายได้</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="RN_MAP_WINDOW_MONSTER_WEAK">
+<VALUE Lang="th">อ่อนมาก ฆ่าครั้งละมากกว่า 8 ตัวก็ยังไหว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SECID_LENGTH_ERROR">
+<VALUE Lang="th">อักขระสำหรับรหัสผ่านคือ 6 ~ 14</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SECPASS_CHECKPAGE_TEXT">
+<VALUE Lang="th">ป้อนข้อมูลการตั้งค่ารหัสผ่านที่ 2</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SECPASS_EMPTY_ERROR">
+<VALUE Lang="th">ใส่รหัสผ่าน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SECPASS_EQUAL_ERROR">
+<VALUE Lang="th">ไม่สามารถใช้พาสเวิร์ดที่เหมือนกับไอดีได้</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SECPASS_FIRST_NUMBER">
+<VALUE Lang="th">ไม่สามาถใช้ตัวเลขเพื่อตั้งไอดีหรือพาสเวิร์ดก่อนตัวหนังสือได้</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SECPASS_LENGTH_ERROR">
+<VALUE Lang="th">ขนาดรหัสผ่านคือขั้นต่ำตัวอักษร 8 และสูงสุดตัวอักษร 12</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SECPASS_NOTEQUAL_ERROR">
+<VALUE Lang="th">รหัสผ่านที่ป้อนไม่ตรงกัน.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SECPASS_SETPAGE_TEXT">
+<VALUE Lang="th">ป้อนข้อมูลการตั้งรหัสผ่านที่ 2</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SELCET_CLUB_WINDOW_TITLE">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SELECT_AREA_STATIC">
+<VALUE Lang="th">พื้นที่เชื่อมต่อทางเลือก</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SELECT_CLUB_NOTIFY">
+<VALUE Lang="th">คุณสามารถเปลี่ยนคลับของคุณได้ในเกม</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SELECT_CLUB_WINDOW_SELECT_CLUB_INFO_0">
+<VALUE Lang="th">วันที่: %1%-%2%-%3%.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SELECT_CLUB_WINDOW_SELECT_CLUB_INFO_1">
+<VALUE Lang="th">สมาชิก: %1%.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SELECT_COUNTRY_ALREADY">
+<VALUE Lang="th">คุณได้ทำการเลือกประเทศแล้วคะ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SELECT_COUNTRY_CONFIRM">
+<VALUE Lang="th">สามารถเปลี่ยนประเทศได้เพียงครั้งเดียวหลังจากใช้ไอเท็ม</VALUE>
+<VALUE Lang="th">คุณต้องการเลือก.</VALUE>
+<VALUE Lang="th">%1% ใช่หรือไม่?</VALUE>
+</SENTENSE>
+ <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TEXT_1">
+    <VALUE Lang="th">คุณยังไม่ได้เลือกประเทศ.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TEXT_2">
+    <VALUE Lang="th">คุณต้องการเลือกประเทศนี้ใช่หรือไม่?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TEXT_3">
+    <VALUE Lang="th">[%1%] ได้รับการเลือกแล้ว.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TEXT_4">
+    <VALUE Lang="th">เมื่อเลือกประเทศแล้วจะไม่มามารถเปลี่ยนแปลงได้</VALUE>
+    <VALUE Lang="th">คุณเลือกประเทศของคุณแล้วใช่หรือไม่?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TEXT_5">
+    <VALUE Lang="th">คุณยังไม่ได้เข้าร่วมคลับใด</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TEXT_6">
+    <VALUE Lang="th">คุณต้องเข้าร่วมคลับก่อนที่จะเข้าร่วมใน World Battle Tournament</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TEXT_6_1">
+    <VALUE Lang="th">There was already an exist club that can be joined.</VALUE>
+    <VALUE Lang="th">Would you like to join the club before you start the game?</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_MODAL_TITLE">
+    <VALUE Lang="th">World Battle</VALUE>
+  </SENTENSE>
+<SENTENSE Ver="1" Id="SELECT_COUNTRY_NOTIFY">
+<VALUE Lang="th">กรุณาเลือกประเทศที่ต้องการเป็นสมาชิกคะ.</VALUE>
+<VALUE Lang="th">เมื่อทำการเลือกแล้ว จะเปลี่ยนประเทศได้ก็ต่อเมื่อใช้ไอเท็มเปลี่ยนประเทศเท่านั้น</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SELECT_COUNTRY_WINDOW_COUNTRY_CLUB_COUNT">
+    <VALUE Lang="th">คลับ: %1%.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_WINDOW_COUNTRY_DESC">
+    <VALUE Lang="th">ประเทศ: %1%. %2%.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_WINDOW_COUNTRY_NOTIFY">
+    <VALUE Lang="th">ไม่สามารถเปลี่ยนเป็นประเทศที่เลือกได้</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_WINDOW_COUNTRY_TOOLTIP">
+    <VALUE Lang="th">ประเทศ: %1%.  คลับ: %2%.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SELECT_COUNTRY_WINDOW_TITLE">
+    <VALUE Lang="th">กรุณาเลือกประเทศ</VALUE>
+  </SENTENSE>
+<SENTENSE Ver="1" Id="SERVER_INFO_RECV_FAILED">
+<VALUE Lang="th">การเชื่อมต่อไปยังเมนูของเซิร์ฟเวอร์ขัดข้อง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SERVERSTAGE_1">
+<VALUE Lang="th">กำลังโหลดข้อมูลจากเซิร์ฟเวอร์</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SERVERSTAGE_2">
+<VALUE Lang="th">กรุณาเลือกเซิฟร์ฟเวอร์ที่ต้องการเชื่อมต่อ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SERVERSTAGE_3">
+<VALUE Lang="th">คุณต้องการจะออกจากเกมหรือไม่</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SERVERSTAGE_4">
+<VALUE Lang="th">การเชื่อมต่อขัดข้อง</VALUE>
+<VALUE Lang="th">กดปุ่มตกลง เพื่อลองเชื่อมต่อใหม่</VALUE>
+<VALUE Lang="th">หรือกดปุ่มยกเลิกเพื่อออกจากเกม</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SERVERSTAGE_5">
+<VALUE Lang="th">การเชื่อมต่อไปที่เซิร์ฟเวอร์ขัดข้อง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SERVERSTAGE_6">
+<VALUE Lang="th">Battle Server Login Failed.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TOURNAMENT_SYSTEM_MESSAGE">
+<VALUE Lang="th">ได้เข้าร่วมการแข่งขันแล้ว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="WAITSERVER_DEL_CHARACTER">
+<VALUE Lang="th">ตัวละครกำลังจะถูกลบ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="WB_CHANGE_COUNTRY_FAIL">
+<VALUE Lang="th">You can not change your country to %1%.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="WB_CHANGE_COUNTRY_SUCCESS">
+<VALUE Lang="th">You have changed your country to %1%.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="WB_INPUT_MAKE_CLUB_NAME">
+<VALUE Lang="th">Please enter the club's name.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="WB_SERVER_ACCESS_ERROR">
+<VALUE Lang="th">ไม่สามารถเชื่อมต่อ Battle Server ได้คะ</VALUE>
+</SENTENSE>
+<WORD Ver="1" Id="NEW_CHAR_SELECT_CLASS_NAME">
+<VALUE Lang="th" Index="0">Extreme new class</VALUE>
+<VALUE Lang="th" Index="1">หมัด</VALUE>
+<VALUE Lang="th" Index="2">ดาบ</VALUE>
+<VALUE Lang="th" Index="3">ธนู</VALUE>
+<VALUE Lang="th" Index="4">เวทย์</VALUE>
+</WORD>
+<WORD Ver="1" Id="NEW_CHAR_SELECT_PREV_BUTTON">
+<VALUE Lang="th" Index="0">ย้อนกลับ</VALUE>
+<VALUE Lang="th" Index="1">ต่อไป</VALUE>
+</WORD>
+<WORD Ver="1" Id="NEW_CHAR_SELECT_SCHOOL_NAME">
+<VALUE Lang="th" Index="0">Sacred Gate</VALUE>
+<VALUE Lang="th" Index="1">Mystic Peak</VALUE>
+<VALUE Lang="th" Index="2">Phoenix</VALUE>
+</WORD>
+<WORD Ver="1" Id="NEW_CHAR_SELECT_SEX_NAME">
+<VALUE Lang="th" Index="0">ชาย</VALUE>
+<VALUE Lang="th" Index="1">หญิง</VALUE>
+</WORD>
+<WORD Ver="1" Id="NEW_CHAR_SELECT_STAGE_DEC">
+<VALUE Lang="th" Index="0">กรุณาเลือกสถาบัน</VALUE>
+<VALUE Lang="th" Index="1">เลือกเพศของตัวละคร</VALUE>
+<VALUE Lang="th" Index="2">กรุณากดปุ่มลูกศร</VALUE>
+<VALUE Lang="th" Index="3">เลือกหน้าตาและทรงผม</VALUE>
+</WORD>
+<WORD Ver="1" Id="NEW_CHAR_SELECT_STAGE_TITLE">
+<VALUE Lang="th" Index="0">เลือกสถาบัน</VALUE>
+<VALUE Lang="th" Index="1">เลือกเพศ</VALUE>
+<VALUE Lang="th" Index="2">เลือกอาชีพ</VALUE>
+<VALUE Lang="th" Index="3">เลือกหน้าตา</VALUE>
+</WORD>
+<WORD Ver="1" Id="SERVER_CHANNEL">
+<VALUE Lang="th" Index="0">Channel</VALUE>
+</WORD>
+<WORD Ver="1" Id="SERVER_NAME">
+<VALUE Lang="th" Index="0">Ran Online </VALUE>
+<VALUE Lang="th" Index="1">Ran Online </VALUE>
+<VALUE Lang="th" Index="2">Ran Online </VALUE>
+<VALUE Lang="th" Index="3">Ran Online </VALUE>
+<VALUE Lang="th" Index="4">Ran Online </VALUE>
+<VALUE Lang="th" Index="5">Ran Online </VALUE>
+<VALUE Lang="th" Index="6">Ran Online </VALUE>
+<VALUE Lang="th" Index="7">Ran Online </VALUE>
+<VALUE Lang="th" Index="8">Ran Online </VALUE>
+<VALUE Lang="th" Index="9">Ran Online </VALUE>
+<VALUE Lang="th" Index="10">Ran Online </VALUE>
+<VALUE Lang="th" Index="11">Ran Online </VALUE>
+<!--VALUE Lang="th" Index="0">Server0</VALUE>
+<VALUE Lang="th" Index="1">Harajuku</VALUE>
+<VALUE Lang="th" Index="2">Shinjuku</VALUE>
+<VALUE Lang="th" Index="3">Ginza</VALUE>
+<VALUE Lang="th" Index="4">Akihabara</VALUE>
+<VALUE Lang="th" Index="5">Shibuya</VALUE>
+<VALUE Lang="th" Index="6">Okinawa</VALUE>
+<VALUE Lang="th" Index="7">Golf</VALUE>
+<VALUE Lang="th" Index="8">Hotel</VALUE>
+<VALUE Lang="th" Index="9">Indigo</VALUE>
+<VALUE Lang="th" Index="10">Skip</VALUE>
+<VALUE Lang="th" Index="11">Skip</VALUE-->
+</WORD>
+<WORD Ver="1" Id="SERVER_PK">
+<VALUE Lang="th" Index="0">[TH]</VALUE>
+</WORD>
+</TEXT>
