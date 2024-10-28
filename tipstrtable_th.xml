@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<TEXT>
+<SENTENSE Ver="1" Id="0">
+<VALUE Lang="th">คลิกเม้าส์ซ้าย เพื่อโจมตี</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="1">
+<VALUE Lang="th">คลิกเม้าส์ปุ่มกลางค้างไว้ แล้วลากเม้าส์เพื่อเปลี่ยนมุมมอง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="10">
+<VALUE Lang="th">ลากสิ่งของที่รวมกันอยู่ ไปวางในช่องอื่น เพื่อแยกจำนวน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="11">
+<VALUE Lang="th">หยิบน้ำยาหรืออาหารจากช่องเก็บของ มาใส่ไว้ในช่องบริเวณด้านบนซ้ายของจอ ก็จะสามารถใช้ของนั้นได้อย่างรวดเร็ว โดยการกดปุ่มบนคีย์บอร์ดตามตัวอักษรที่แสดงอยู่ในแต่ละช่อง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="12">
+<VALUE Lang="th">การวิ่งไปโดยกดปุ่ม Alt ค้างไว้ด้วย จะเป็นการป้องกันการคลิกบนศัตรู และร้านขายของโดยไม่ตั้งใจ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="13">
+<VALUE Lang="th">กดปุ่ม Alt ค้างไว้ขณะเก็บของ เพื่อไม่สนใจสิ่งชักจูงรอบข้าง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="14">
+<VALUE Lang="th">กดปุ่ม C เพื่อแสดงข้อมูลของตัวละคร</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="15">
+<VALUE Lang="th">กดปุ่ม K เพื่อแสดงหน้าต่าง Skill</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="16">
+<VALUE Lang="th">เมื่อต้องการเรียนรู้ Skill ให้กดปุ่ม K แล้วอัพสกิลได้ตามแต้มสกิลที่มีอยู่</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="17">
+<VALUE Lang="th">หยิบ Skill มาใส่ในช่องบริเวณด้านซ้ายของจอ แล้วเลือกใช้โดยกดปุ่ม 1-5 ตาม Skill ที่ต้องการ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="18">
+<VALUE Lang="th">การใช้ skill ทำโดยคลิกขวาบนศัตรู</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="19">
+<VALUE Lang="th">กด Shift และ คลิกซ้าย บนผู้เล่นอื่น เพื่อทำกิจกรรมกับผู้อื่น เช่นซื้อขาย ท้าดวล หรือเข้าปาร์ตี้ เป็นต้น</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="2">
+<VALUE Lang="th">เลื่อนลูกล้อของเม้าส์ขึ้นนลง เพื่อซูมเข้า-ออก</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="20">
+<VALUE Lang="th">กดปุ่ม X เพื่อสลับสู่การตั้งท่าสู้ และแบบปกติ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="21">
+<VALUE Lang="th">กดปุ่ม Ctrl ขณะที่ซื้อของ เพื่อเป็นการซื้อของแบบด่วน โดยไม่ต้องผ่านขั้นตอนการยืนยัน เพื่อให้คุณซื้อของได้ง่าย และรวดเร็ว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="22">
+<VALUE Lang="th">กดปุ่ม Space bar เพื่อเก็บของ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="23">
+<VALUE Lang="th">หากต้องการซื้อขายของแบบไม่เสียภาษี ขอเชิญที่ตลาดปลอดภาษีจะดีกว่า</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="24">
+<VALUE Lang="th">โปรดระวังการแลกเปลี่ยนสิ่งของกับผู้อื่นโดยไม่ผ่านการตั้งร้าน เพราะอาจถูกหลอกสับเปลี่ยนของ หรือแก้ไขเงินโดยไม่รู้ตัว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="25">
+<VALUE Lang="th">หากเม้าส์ไม่มีลูกกลิ้ง ให้กดปุ่มลูกศรบนคีย์บอร์ด เพื่อปรับมุมมองตัวละคร</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="26">
+<VALUE Lang="th">กรุณาอย่าหลงเชื่อบุคคลที่ขอพาสเวิร์ด โดยอ้างว่าจะได้รางวัล เพราะทีมงานของแท้จะไม่ขอพาสเวิร์ดจากท่าน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="27">
+<VALUE Lang="th">กรุณาอย่าบอกไอดี และรหัสผ่าน กับเพื่อนสนิท เนื่องจากอาจผู้เป็นผู้อื่นปลอมตัวมา</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="28">
+<VALUE Lang="th">ไม่ควรคุยกับผู้อื่นที่กระซิบมาหาโดยไม่รู้จัก เนื่องจากอาจเป็นตัวปลอมมาหลอกขอรหัสผ่าน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="29">
+<VALUE Lang="th">พนักงานขาย Echo Mart จะอยู่ในศูนย์การศึกษาทุกสถาบัน พิกัด 10,3</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="3">
+<VALUE Lang="th">กดปุ่ม T &amp; D เพื่อแสดงหน้าต่างภารกิจ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="30">
+<VALUE Lang="th">เมื่ออัพค่า Pow จะได้ ค่าความแรง ,ถนัด และเล็ง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="31">
+<VALUE Lang="th">เมื่ออัพค่า Dex จะได้ ค่าความแรง ,ค่าป้องกัน ,ค่าถนัด ,ค่าเล็ง และค่าพลังงาน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="32">
+<VALUE Lang="th">เมื่ออัพค่า Spi จะได้ ค่าเวทย์ (MP) และค่าพลังงาน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="33">
+<VALUE Lang="th">เมื่ออัพค่า Str จะได้ ค่าชีวิต (HP)</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="34">
+<VALUE Lang="th">เมื่ออัพค่า Stm จะได้ ค่าอดทน (SP)</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="35">
+<VALUE Lang="th">สามารถค้นหาข้อมูลและข่าวคราวใหม่ๆ ได้จากเว็บไซต์เกม</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="4">
+<VALUE Lang="th">กดปุ่ม M เพื่อแสดงหน้าต่างแผนที่</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="5">
+<VALUE Lang="th">กดปุ่ม R &amp; NumLock เพื่อสลับระหว่างโหมดวิ่งและเดิน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="6">
+<VALUE Lang="th">กดปุ่ม Tab เพื่อย่อหรือขยายหน้าต่างช่องเก็บของใช้ด่วน บริเวณด้านบนซ้ายของจอ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="7">
+<VALUE Lang="th">กดปุ่ม '`' เพื่อย่อหรือขยายหน้าต่าง skill ใช้ด่วน บริเวณด้านซ้ายของจอ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="8">
+<VALUE Lang="th">กดปุ่ม H เพื่อแสดงหน้าต่างวิธีเล่นเกม</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="9">
+<VALUE Lang="th">กดปุ่ม I เพื่อแสดงหน้าต่างช่องเก็บของ</VALUE>
+</SENTENSE>
+</TEXT>

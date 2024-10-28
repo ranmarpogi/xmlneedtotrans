@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEXT>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_BEGIN">
+    <VALUE Lang="GS">%1%' alliance and '%2%' alliance began 'Alliance Battle'.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_BEGIN_REFUSE">
+    <VALUE Lang="GS">%1%' alliance rejected 'Alliance Battle' request from '%2%' alliance.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_ARMISTICE">
+    <VALUE Lang="GS">%1%' alliance and '%2%' alliance made treaty of truce.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_ARMISTICE_RESULT">
+    <VALUE Lang="GS">Alliance Battle Truce Result %1% : %2%</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_DRAW">
+    <VALUE Lang="GS">%1%' alliance and '%2%' alliance's 'Alliance Battle' ended in draw.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_SUBMISSION">
+    <VALUE Lang="GS">%1%' alliance surrendered to '%2%' alliance.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_WIN">
+    <VALUE Lang="GS">%1%' alliance has won the `Alliance Battle` over '%2%' alliance.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ALLIANCE_BATTLE_RESULT">
+    <VALUE Lang="GS">Alliance Battle Record : %1% %2% Win %3% Lose %4% Draw</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="APPLY_GUID_MAP_EFFECT">
+    <VALUE Lang="GS">The authenticated club has obtained %1% %2$2.2f%% effect.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ATTENDANCE_REWARD_POST_CONTENT">
+    <VALUE Lang="GS">This mail is the prize of attendance system.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ATTENDANCE_REWARD_POST_SENDERNAME">
+    <VALUE Lang="GS">RAN Online</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="ATTENDANCE_REWARD_POST_TITLE">
+    <VALUE Lang="GS">Attendance system's prize</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="BATTLELOYAL_REWARD_POST_TITLE">
+    <VALUE Lang="GS">Battle Royale Manager</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BANISHMENT_POST_CONTENT">
+    <VALUE Lang="GS">Expelled from Club.</VALUE>
+    <VALUE Lang="GS">Cannot join another Club for 1 day. However, you can extablish it.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BANISHMENT_POST_SENDER_NAME">
+    <VALUE Lang="GS">RAN World</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BANISHMENT_POST_TITLE">
+    <VALUE Lang="GS">Expelled Message</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_BEGIN">
+    <VALUE Lang="GS">%1%' club and '%2%' club began Club Battle.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_BEGIN_REFUSE">
+    <VALUE Lang="GS">%1%' club rejected 'Club Battle' request from '%2%' club.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_ARMISTICE">
+    <VALUE Lang="GS">%1%' club and '%2%' club made treaty of truce.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_ARMISTICE_RESULT">
+    <VALUE Lang="GS">Club Battle Truce Result %1% : %2%</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_DRAW">
+    <VALUE Lang="GS">Club Battle between '%1%' and '%2%' ended in draw.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_SUBMISSION">
+    <VALUE Lang="GS">%1%' club has surrendered to '%2%' club.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_WIN">
+    <VALUE Lang="GS">%1%' club defeated '%2%' club in the Club Battle.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_BATTLE_RESULT">
+    <VALUE Lang="GS">Club Battle Record : %1% %2% Win %3% Lose %4% Draw</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CLUB_DEATHMATCH_END_RANKING">
+    <VALUE Lang="GS">Rank %1% : '%2%' ( %3% / %4% )</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CTF_MSG_REWARD_POST_CONTENT">
+    <VALUE Lang="GS">Tyranny Win Reward has arrived</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="CTF_MSG_REWARD_POST_TITLE">
+    <VALUE Lang="GS">Tyranny Win Reward</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMCONFRONT_END_CDRAWN">
+    <VALUE Lang="GS">Club War between '%2%' and '%3%' has ended in draw at '%1%'.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMCONFRONT_END_CWIN">
+    <VALUE Lang="GS">Club War between '%2%' and '%3%' has ended at '%1%'. '%4%' is the winner club!</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMCONFRONT_END_PDRAWN">
+    <VALUE Lang="GS">Party Battle between '%2%' and '%3%' has ended in draw at '%1%'!</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMCONFRONT_END_PWIN">
+    <VALUE Lang="GS">Party Battle between '%2%' and '%3%' has ended at '%1%'. '%4%' party has won the battle!</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMCONFRONT_START_PARTY">
+    <VALUE Lang="GS">'%2%' and '%3%' has started Party Battle at '%1%'.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMCROWACT_KNOCK">
+    <VALUE Lang="GS">'%1%', the boss monster has appeared at %2%.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMCROWACT_REPULSE">
+    <VALUE Lang="GS">'%1%', the boss monster has been killed by %2%.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="EMGUIDCLUB_CERTIFIED">
+    <VALUE Lang="GS">The '%1%' Club has been certified as the lead Club of the '%2%' area.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="GROWTHGUIDE_MISSION_REWARD_POST_CONTENT">
+    <VALUE Lang="GS">Reward item for mission achievement. Achieve your mission every day and receive a lot of reward items.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="GROWTHGUIDE_MISSION_REWARD_POST_TITLE">
+    <VALUE Lang="GS">Mission reward has arrived</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="GROWTHGUIDE_RANKING_REWARD_POST_CONTENT">
+    <VALUE Lang="GS">Reward item for ranking achievement. The higher the ranking, the bigger the reward</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="GROWTHGUIDE_RANKING_REWARD_POST_TITLE">
+    <VALUE Lang="GS">Ranking reward has arrived</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="GROWTHGUIDE_TRAINING_REWARD_POST_CONTENT">
+    <VALUE Lang="GS">Reward item for training completion. Training reward depends on the character level.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="GROWTHGUIDE_TRAINING_REWARD_POST_TITLE">
+    <VALUE Lang="GS">Training reward has arrived</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOTTOSYSTEM_GIVE_MONEY_POST_CONTENT">
+    <VALUE Lang="GS">Congratulations to become the Lotto#%1% %2%Position Winner. (%2%Position Winner Prize %3% has been inserted. Please try to check it in your inventory).</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOTTOSYSTEM_GIVE_MONEY_POST_SENDERNAME">
+    <VALUE Lang="GS">RAN Online</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="LOTTOSYSTEM_GIVE_MONEY_POST_TITLE">
+    <VALUE Lang="GS">Announcement for Lotto#%1% %2%Position Winner</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PARTY_TENDER_POST_CONTENT">
+    <VALUE Lang="GS">Bid Item</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PARTY_TENDER_POST_SENDER_NAME">
+    <VALUE Lang="GS">Ran World</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PARTY_TENDER_POST_TITLE">
+    <VALUE Lang="GS">Winning Item on Bid.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PET_BOOK_REWARD_POST_CONTENT">
+    <VALUE Lang="GS">Pet drawing reward %1% has been acquired</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PET_BOOK_REWARD_POST_TITLE">
+    <VALUE Lang="GS">Pet drawing reward</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="POSTBOX_CHARGE_CONTENT">
+    <VALUE Lang="GS">Earned below gold for billed item from the buyer.</VALUE>
+    <VALUE Lang="GS">Click 'Accept' button to collect the gold.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="POSTBOX_CHARGE_TITLE">
+    <VALUE Lang="GS">Gold Paid for Item Sent</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PRIVATEMARKET_BUY_POST_CONTENT">
+    <VALUE Lang="GS">Item purchased from Personal Store.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PRIVATEMARKET_BUY_POST_SENDERNAME">
+    <VALUE Lang="GS">RAN World</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PRIVATEMARKET_BUY_POST_TITLE">
+    <VALUE Lang="GS">Item purchased from Personal Store</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PRIVATEMARKET_ROLLBACK_POST_CONTENT">
+    <VALUE Lang="GS">Payment for Fault Personal Store Item.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PRIVATEMARKET_ROLLBACK_POST_SENDERNAME">
+    <VALUE Lang="GS">RAN World</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="PRIVATEMARKET_ROLLBACK_POST_TITLE">
+    <VALUE Lang="GS">Payment for Fault Personal Store Item</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="SYSTEM_POST_SENDER_NAME">
+    <VALUE Lang="GS">RAN World</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="TEXT_FULL_INVENTORY_POST_CONTENTS">
+    <VALUE Lang="GS">Skip</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="TEXT_FULL_INVENTORY_POST_TITLE">
+    <VALUE Lang="GS">Skip</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="TEXT_RANMOBILE_DAILYREWARD_CONTENTS">
+    <VALUE Lang="GS">Ran In the Pocket daily reward has been sent to Mailbox</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="TEXT_RANMOBILE_DAILYREWARD_TITLE">
+    <VALUE Lang="GS">Ran In the Pocket daily reward</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="TEXT_RANMOBILE_EXCHANGE_CONTENTS">
+    <VALUE Lang="GS">RAN in the Pocket exchanged item has been arrived in the mailbox.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="TEXT_RANMOBILE_EXCHANGE_TITLE">
+    <VALUE Lang="GS">RAN in the Pocket Exchange Item</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="TEXT_SKILLREST_CONTENTS">
+    <VALUE Lang="GS">Character Skill has been reset and skill spheres have been inserted</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="TEXT_SKILLREST_TITLE">
+    <VALUE Lang="GS">Character Skill has been reset</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="WRAPPER_ITEM_RESTORE_POST_CONTENTS">
+    <VALUE Lang="GS">Skip</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="WRAPPER_ITEM_RESTORE_POST_TITLE">
+    <VALUE Lang="GS">Skip</VALUE>
+  </SENTENSE>
+  <WORD Ver="1" Id="BATTLELOYAL_TEXT">
+    <VALUE Lang="GS" Index="0">Welcome to the Battle Royale.</VALUE>
+    <VALUE Lang="GS" Index="1">First, please check your inventory's gold and then go to the Legendary Brawler to buy some basic equipments.</VALUE>
+    <VALUE Lang="GS" Index="2">After that, please assign the stats and skills while waiting to enter the battle.</VALUE>
+    <VALUE Lang="GS" Index="3">Please try to stay alive until the end and take all the glory. May the future brings you good fortune...</VALUE>
+    <VALUE Lang="GS" Index="4">%1% has been killed by other player. (no. of survivors: %2%)</VALUE>
+    <VALUE Lang="GS" Index="5">%1% has been killed by %2%. (no. of survivors: %3%)</VALUE>
+    <VALUE Lang="GS" Index="6">%1% has died in the danger zone. (no. of survivors: %2%)</VALUE>
+    <VALUE Lang="GS" Index="7">New safe zone has been established. Please move inside it in the given time.</VALUE>
+    <VALUE Lang="GS" Index="8">New safe zone will be established soon.</VALUE>
+    <VALUE Lang="GS" Index="9">%1% minute(s) until the new safe zone restriction.</VALUE>
+    <VALUE Lang="GS" Index="10">%1% second(s) until the new safe zone restriction.</VALUE>
+    <VALUE Lang="GS" Index="11">Due to the lack of participants, the battle has been canceled.</VALUE>
+    <VALUE Lang="GS" Index="12">%1% second(s) until the monsters start spawning.</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="BRIGHT_EVENT_MSG">
+    <VALUE Lang="GS" Index="0">Life Point event is now in progress.</VALUE>
+    <VALUE Lang="GS" Index="1">Character's Life Points won't be lost for killing other player characters during the event.</VALUE>
+    <VALUE Lang="GS" Index="2">No EXP lose for losing conscious during this event.</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="GROWTHGUIDE_MISSION_REWARD_POST_SENDERNAME">
+    <VALUE Lang="GS" Index="0">Mission manager</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="GROWTHGUIDE_RANKING_REWARD_POST_SENDERNAME">
+    <VALUE Lang="GS" Index="0">Ranking manager</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="GROWTHGUIDE_TRAINING_REWARD_POST_SENDERNAME">
+    <VALUE Lang="GS" Index="0">Training manager</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="MAP_EFFECT">
+    <VALUE Lang="GS" Index="0">Increase attack speed</VALUE>
+    <VALUE Lang="GS" Index="1">Increase moving speed</VALUE>
+    <VALUE Lang="GS" Index="2">Increase maximum HP rate</VALUE>
+    <VALUE Lang="GS" Index="3">Increase maximum MP rate</VALUE>
+    <VALUE Lang="GS" Index="4">All recovery rate</VALUE>
+    <VALUE Lang="GS" Index="5">Increase the attack</VALUE>
+    <VALUE Lang="GS" Index="6">Increase the defense</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="PRIVATE_MARKET_POINTSHOP_TRADE">
+    <VALUE Lang="GS" Index="0">Ran Point Trade System</VALUE>
+    <VALUE Lang="GS" Index="1">Previous Ran Point</VALUE>
+    <VALUE Lang="GS" Index="2">Current Ran Point</VALUE>
+    <VALUE Lang="GS" Index="3">Sale Price</VALUE>
+    <VALUE Lang="GS" Index="4">Tax</VALUE>
+    <VALUE Lang="GS" Index="5">Item from %1%</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="PVP_CTFLAG_UI_TEXT">
+    <VALUE Lang="GS" Index="0">Target : %1% point</VALUE>
+    <VALUE Lang="GS" Index="1">Red Team</VALUE>
+    <VALUE Lang="GS" Index="2">Blue Team</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="RN_COMPETITION_RESULT_TAB">
+    <VALUE Lang="GS" Index="0">Battle Result</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="RN_COMPETITION_RESULT_TITLE">
+    <VALUE Lang="GS" Index="0">Rank</VALUE>
+    <VALUE Lang="GS" Index="1">School</VALUE>
+    <VALUE Lang="GS" Index="2">Class</VALUE>
+    <VALUE Lang="GS" Index="3">Character Name</VALUE>
+    <VALUE Lang="GS" Index="4">Club</VALUE>
+    <VALUE Lang="GS" Index="5">Point</VALUE>
+    <VALUE Lang="GS" Index="6">Avoid Amount</VALUE>
+    <VALUE Lang="GS" Index="7">Heal Amount</VALUE>
+    <VALUE Lang="GS" Index="8">Kill</VALUE>
+    <VALUE Lang="GS" Index="9">Death</VALUE>
+    <VALUE Lang="GS" Index="10">Revive</VALUE>
+    <VALUE Lang="GS" Index="11">Reward</VALUE>
+    <VALUE Lang="GS" Index="12">No.</VALUE>
+    <VALUE Lang="GS" Index="13">Captured Number</VALUE>
+    <VALUE Lang="GS" Index="14">Club Master</VALUE>
+    <VALUE Lang="GS" Index="15">Mark</VALUE>
+    <VALUE Lang="GS" Index="16">Points</VALUE>
+    <VALUE Lang="GS" Index="17">Machine</VALUE>
+    <VALUE Lang="GS" Index="18">Certification</VALUE>
+    <VALUE Lang="GS" Index="19">Flag</VALUE>
+    <VALUE Lang="GS" Index="20">Country</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="RN_COMPETITION_RESULT_TITLE_TOUR">
+    <VALUE Lang="GS" Index="0">Ranking</VALUE>
+    <VALUE Lang="GS" Index="1">Campus</VALUE>
+    <VALUE Lang="GS" Index="2">Class</VALUE>
+    <VALUE Lang="GS" Index="3">Level</VALUE>
+    <VALUE Lang="GS" Index="4">Character Name</VALUE>
+    <VALUE Lang="GS" Index="5">No. of Victory</VALUE>
+    <VALUE Lang="GS" Index="6">Damage Dealt</VALUE>
+    <VALUE Lang="GS" Index="7">Heal Amount</VALUE>
+    <VALUE Lang="GS" Index="8">Reward</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="RNCDM_REJOIN_TEXT">
+    <VALUE Lang="GS" Index="0">Do you want to allow the entry request for CDM?</VALUE>
+    <VALUE Lang="GS" Index="1">OK</VALUE>
+    <VALUE Lang="GS" Index="2">Cancel</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="SYSTEM_POST_SENDER_CONTENTS">
+    <VALUE Lang="GS" Index="0">CDM Reward for the ranked at %1%</VALUE>
+    <VALUE Lang="GS" Index="1">Winner's Reward</VALUE>
+    <VALUE Lang="GS" Index="2">Club War Winner's Reward</VALUE>
+    <VALUE Lang="GS" Index="3">Club War Participant's Reward</VALUE>
+    <VALUE Lang="GS" Index="4">Reward for winning the Battle Islands war.</VALUE>
+    <VALUE Lang="GS" Index="5">Reward for participating in Battle Islands war.</VALUE>
+    <VALUE Lang="GS" Index="6">Participant's Reward</VALUE>
+    <VALUE Lang="GS" Index="7">Reward for clearing the Evil Spirit Altar</VALUE>
+    <VALUE Lang="GS" Index="8">Battle Royale ranking reward.</VALUE>
+    <VALUE Lang="GS" Index="9">Battle Royale action reward.</VALUE>
+    <VALUE Lang="GS" Index="10">VIP Additional Reward</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="TOURNAMENT_BETTING_WINNER">
+    <VALUE Lang="GS" Index="0">Skip</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="TOURNAMENT_PVP_SENDER">
+    <VALUE Lang="GS" Index="0">Skip</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="TOURNAMENT_WIN_MAIL_MESSAGE">
+    <VALUE Lang="GS" Index="0">Skip</VALUE>
+    <VALUE Lang="GS" Index="1">Skip</VALUE>
+    <VALUE Lang="GS" Index="2">Skip</VALUE>
+  </WORD>
+  <WORD Ver="1" Id="WEDDING_PROPOSAL_COMMON_MSG">
+    <VALUE Lang="GS" Index="0">Skip</VALUE>
+  </WORD>
+</TEXT>

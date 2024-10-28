@@ -1,0 +1,2174 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<TEXTURE_LIST>
+	<CONTROL Id="Button_Add_Down">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="62" Y="44" W="22" H="22" />
+	</CONTROL>
+	<CONTROL Id="Button_Add_Normal">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="106" Y="44" W="22" H="22" />
+	</CONTROL>
+	<CONTROL Id="Button_Add_Over">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="84" Y="44" W="22" H="22" />
+	</CONTROL>
+	<CONTROL Id="Button_Info_Down">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="62" Y="22" W="22" H="22" />
+	</CONTROL>
+	<CONTROL Id="Button_Info_Normal">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="106" Y="22" W="22" H="22" />
+	</CONTROL>
+	<CONTROL Id="Button_Info_Over">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="84" Y="22" W="22" H="22" />
+	</CONTROL>
+	<CONTROL Id="Color_Archer">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="66" W="16" H="16" />
+	</CONTROL>
+	<CONTROL Id="Color_Assasin">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="66" W="16" H="16" />
+	</CONTROL>
+	<CONTROL Id="Color_Black_Mid">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="36" Y="14" W="22" H="22" />
+	</CONTROL>
+	<CONTROL Id="Color_Black_Small">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="66" W="16" H="16" />
+	</CONTROL>
+	<CONTROL Id="Color_Brawler">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="66" W="16" H="16" />
+	</CONTROL>
+	<CONTROL Id="Color_Die">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="36" Y="36" W="22" H="22" />
+	</CONTROL>
+	<CONTROL Id="Color_Extreme">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="66" W="16" H="16" />
+	</CONTROL>
+	<CONTROL Id="Color_Scientist">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="66" W="16" H="16" />
+	</CONTROL>
+	<CONTROL Id="Color_Shaman">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="66" W="16" H="16" />
+	</CONTROL>
+	<CONTROL Id="Color_Sword">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="66" W="16" H="16" />
+	</CONTROL>
+	<CONTROL Id="Icon_Minimalize_Party">
+		<TEXTURE SizeX="128" SizeY="128">Party_Renewal.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="14" W="36" H="36" />
+	</CONTROL>
+  <CONTROL Id="MINIGAME_EVEN_DOWN">
+      <TEXTURE SizeX="512" SizeY="256">odd_even.dds</TEXTURE>
+      <TEXTURE_POS X="256" Y="128" W="256" H="128" />
+  </CONTROL>
+  <CONTROL Id="MINIGAME_EVEN_NORMAL">
+      <TEXTURE SizeX="512" SizeY="256">odd_even.dds</TEXTURE>
+      <TEXTURE_POS X="256" Y="0" W="256" H="128" />
+  </CONTROL>
+  <CONTROL Id="MINIGAME_ODD_DOWN">
+      <TEXTURE SizeX="512" SizeY="256">odd_even.dds</TEXTURE>
+      <TEXTURE_POS X="0" Y="128" W="256" H="128" />
+  </CONTROL>
+  <CONTROL Id="MINIGAME_ODD_NORMAL">
+      <TEXTURE SizeX="512" SizeY="256">odd_even.dds</TEXTURE>
+      <TEXTURE_POS X="0" Y="0" W="256" H="128" />
+  </CONTROL>
+  <CONTROL Id="expansion_lga">
+      <TEXTURE SizeX="64" SizeY="64">friend_edits_lga.dds</TEXTURE>
+      <TEXTURE_POS X="38" Y="0" W="13" H="13" />
+  </CONTROL>
+  <CONTROL Id="expansion_over_lga">
+      <TEXTURE SizeX="64" SizeY="64">friend_edits_lga.dds</TEXTURE>
+      <TEXTURE_POS X="38" Y="13" W="13" H="13" />
+  </CONTROL>
+  <CONTROL Id="gi_msg_lgc">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="120" Y="196" W="30" H="30" />
+  </CONTROL>
+  <CONTROL Id="gi_wsg_lgc">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="120" Y="226" W="30" H="30" />
+  </CONTROL>
+  <CONTROL Id="group_lga">
+      <TEXTURE SizeX="64" SizeY="64">friend_edits_lga.dds</TEXTURE>
+      <TEXTURE_POS X="19" Y="0" W="19" H="19" />
+  </CONTROL>
+  <CONTROL Id="group_open_lga">
+      <TEXTURE SizeX="64" SizeY="64">friend_edits_lga.dds</TEXTURE>
+      <TEXTURE_POS X="0" Y="0" W="19" H="19" />
+  </CONTROL>
+  <CONTROL Id="gua_msg_lgc">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="150" Y="196" W="30" H="30" />
+  </CONTROL>
+  <CONTROL Id="gua_wsg_lgc">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="150" Y="226" W="30" H="30" />
+  </CONTROL>
+  <CONTROL Id="guk_msg_lgc">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="0" Y="196" W="30" H="30" />
+  </CONTROL>
+  <CONTROL Id="guk_wsg_lgc">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="0" Y="226" W="30" H="30" />
+  </CONTROL>
+  <CONTROL Id="gum_msg_lgc">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="30" Y="196" W="30" H="30" />
+  </CONTROL>
+  <CONTROL Id="gum_wsg_lgc">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="30" Y="226" W="30" H="30" />
+  </CONTROL>
+  <CONTROL Id="gyouk_msg_lgc">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="90" Y="196" W="30" H="30" />
+  </CONTROL>
+  <CONTROL Id="gyouk_wsg_lgc">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="90" Y="226" W="30" H="30" />
+  </CONTROL>
+  <CONTROL Id="nin_m_lga">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="0" Y="0" W="100" H="40" />
+  </CONTROL>
+  <CONTROL Id="nin_mg_lga">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="0" Y="80" W="100" H="40" />
+  </CONTROL>
+  <CONTROL Id="nin_ms_lga">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="100" Y="-1" W="30" H="31" />
+  </CONTROL>
+  <CONTROL Id="nin_msg_lgc">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="180" Y="196" W="30" H="30" />
+  </CONTROL>
+  <CONTROL Id="nin_w_lga">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="0" Y="40" W="100" H="40" />
+  </CONTROL>
+  <CONTROL Id="nin_wg_lga">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="0" Y="120" W="100" H="40" />
+  </CONTROL>
+  <CONTROL Id="nin_ws_lga">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="100" Y="30" W="30" H="30" />
+  </CONTROL>
+  <CONTROL Id="nin_wsg_lgc">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="180" Y="226" W="30" H="30" />
+  </CONTROL>
+  
+<CONTROL Id="tri_ms_lga">
+	<TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+	<TEXTURE_POS X="100" Y="60" W="30" H="30" />
+</CONTROL>
+<CONTROL Id="tri_msg_lgc">
+	<TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+	<TEXTURE_POS X="210" Y="196" W="30" H="30" />
+</CONTROL>
+<CONTROL Id="tri_ws_lga">
+	<TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+	<TEXTURE_POS X="100" Y="90" W="30" H="30" />
+</CONTROL>
+<CONTROL Id="tri_wsg_lgc">
+	<TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+	<TEXTURE_POS X="210" Y="226" W="30" H="30" />
+</CONTROL>
+  
+  <CONTROL Id="party_lga">
+      <TEXTURE SizeX="64" SizeY="64">friend_edits_lga.dds</TEXTURE>
+      <TEXTURE_POS X="0" Y="19" W="10" H="13" />
+  </CONTROL>
+  <CONTROL Id="reduction_lga">
+      <TEXTURE SizeX="64" SizeY="64">friend_edits_lga.dds</TEXTURE>
+      <TEXTURE_POS X="51" Y="0" W="13" H="13" />
+  </CONTROL>
+  <CONTROL Id="reduction_over_lga">
+      <TEXTURE SizeX="64" SizeY="64">friend_edits_lga.dds</TEXTURE>
+      <TEXTURE_POS X="51" Y="13" W="13" H="13" />
+  </CONTROL>
+  <CONTROL Id="yang_msg_lgc">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="60" Y="196" W="30" H="30" />
+  </CONTROL>
+  <CONTROL Id="yang_wsg_lgc">
+      <TEXTURE SizeX="256" SizeY="256">outgui_character_lga.dds</TEXTURE>
+      <TEXTURE_POS X="60" Y="226" W="30" H="30" />
+  </CONTROL>
+ 
+	<!-- Lotto System Texture List -->
+	<CONTROL Id="LOTTO_BALL_1">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="3" Y="3" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_10">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="3" Y="39" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_11">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="39" Y="39" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_12">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="75" Y="39" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_13">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="111" Y="39" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_14">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="147" Y="39" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_15">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="183" Y="39" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_16">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="219" Y="39" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_17">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="255" Y="39" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_18">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="291" Y="39" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_19">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="3" Y="75" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_2">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="39" Y="3" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_20">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="39" Y="75" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_21">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="75" Y="75" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_22">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="111" Y="75" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_23">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="147" Y="75" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_24">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="183" Y="75" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_25">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="219" Y="75" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_26">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="255" Y="75" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_27">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="291" Y="75" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_28">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="3" Y="111" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_29">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="39" Y="111" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_3">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="75" Y="3" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_30">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="75" Y="111" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_31">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="111" Y="111" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_32">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="147" Y="111" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_33">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="183" Y="111" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_34">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="219" Y="111" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_35">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="255" Y="111" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_36">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="291" Y="111" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_37">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="3" Y="147" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_38">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="39" Y="147" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_39">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="75" Y="147" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_4">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="111" Y="3" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_40">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="111" Y="147" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_41">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="147" Y="147" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_42">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="183" Y="147" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_43">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="219" Y="147" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_44">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="255" Y="147" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_45">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="291" Y="147" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_5">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="147" Y="3" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_6">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="183" Y="3" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_7">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="219" Y="3" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_8">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="255" Y="3" W="31" H="31" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_BALL_9">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="291" Y="3" W="31" H="31" />
+    </CONTROL>
+
+	<CONTROL Id="LOTTO_MAINICON_COLOR">
+		<TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+		<TEXTURE_POS X="361" Y="109" W="35" H="35" />
+	</CONTROL>
+	<CONTROL Id="LOTTO_MAINICON_COLOR_LINE">
+		<TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+		<TEXTURE_POS X="361" Y="73" W="35" H="35" />
+	</CONTROL>
+	<CONTROL Id="LOTTO_MAINICON_GRAY">
+		<TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+		<TEXTURE_POS X="325" Y="73" W="35" H="35" />
+	</CONTROL>
+	<CONTROL Id="LOTTO_MAINICON_GRAY_LINE">
+		<TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+		<TEXTURE_POS X="325" Y="109" W="35" H="35" />
+	</CONTROL>
+	<CONTROL Id="LOTTO_TIME">
+		<TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+		<TEXTURE_POS X="397" Y="1" W="35" H="35" />
+	</CONTROL>
+	<CONTROL Id="LOTTO_ICON">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="325" Y="37" W="35" H="35" />
+    </CONTROL>
+	
+	<CONTROL Id="LOTTO_O">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="361" Y="1" W="35" H="35" />
+    </CONTROL>
+    <CONTROL Id="LOTTO_X">
+        <TEXTURE SizeX="512" SizeY="512">Lotto_UI_01.dds</TEXTURE>
+        <TEXTURE_POS X="361" Y="37" W="35" H="35" />
+    </CONTROL>
+	
+	<!-- Summon State Texture List -->
+	<CONTROL Id="SUMMON_STATEICON_NONHIRE">
+		<TEXTURE SizeX="512" SizeY="256">skill_trick.dds</TEXTURE>
+		<TEXTURE_POS X="350" Y="210" W="35" H="35" />
+	</CONTROL>
+	<CONTROL Id="SUMMON_STATEICON_DIE">
+		<TEXTURE SizeX="512" SizeY="256">skill_trick.dds</TEXTURE>
+		<TEXTURE_POS X="385" Y="210" W="35" H="35" />
+	</CONTROL>
+	<CONTROL Id="SUMMON_STATEICON_IDLE">
+		<TEXTURE SizeX="512" SizeY="256">skill_trick.dds</TEXTURE>
+		<TEXTURE_POS X="420" Y="210" W="35" H="35" />
+	</CONTROL>
+	<CONTROL Id="SUMMON_STATEICON_ATTACK">
+		<TEXTURE SizeX="512" SizeY="256">skill_trick.dds</TEXTURE>
+		<TEXTURE_POS X="455" Y="210" W="35" H="35" />
+	</CONTROL>
+	
+	<!-- Battle Server -->
+	<CONTROL Id="BATTLE_SERVER_BUTTON">
+        <TEXTURE SizeX="128" SizeY="128">battle_server.dds</TEXTURE>
+        <TEXTURE_POS X="0" Y="0" W="70" H="35" />
+    </CONTROL>
+    <CONTROL Id="EXIT_BATTLE_SERVER_BUTTON">
+        <TEXTURE SizeX="128" SizeY="128">battle_server.dds</TEXTURE>
+        <TEXTURE_POS X="0" Y="35" W="70" H="35" />
+    </CONTROL>
+	
+	<!-- Country Texture List -->
+	<CONTROL Id="COUNTRY_UCT">
+		<TEXTURE SizeX="128" SizeY="96">UCT.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_AIA">
+		<TEXTURE SizeX="128" SizeY="96">AIA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_ALB">
+		<TEXTURE SizeX="128" SizeY="96">ALB.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_ALG">
+		<TEXTURE SizeX="128" SizeY="96">ALG.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_AND">
+		<TEXTURE SizeX="128" SizeY="96">AND.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_ARG">
+		<TEXTURE SizeX="128" SizeY="96">ARG.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_ARM">
+		<TEXTURE SizeX="128" SizeY="96">ARM.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_ARU">
+		<TEXTURE SizeX="128" SizeY="96">ARU.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_ATF">
+		<TEXTURE SizeX="128" SizeY="96">ATF.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_ATG">
+		<TEXTURE SizeX="128" SizeY="96">ATG.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_AUS">
+		<TEXTURE SizeX="128" SizeY="96">AUS.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_AUT">
+		<TEXTURE SizeX="128" SizeY="96">AUT.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_AZE">
+		<TEXTURE SizeX="128" SizeY="96">AZE.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_BAN">
+		<TEXTURE SizeX="128" SizeY="96">BAN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_BAR">
+		<TEXTURE SizeX="128" SizeY="96">BBD.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_BEL">
+		<TEXTURE SizeX="128" SizeY="96">BEL.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_BER">
+		<TEXTURE SizeX="128" SizeY="96">BER.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_BHA">
+		<TEXTURE SizeX="128" SizeY="96">BHA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_BIH">
+		<TEXTURE SizeX="128" SizeY="96">BIH.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_BLR">
+		<TEXTURE SizeX="128" SizeY="96">BLR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_BRA">
+		<TEXTURE SizeX="128" SizeY="96">BRA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_BRN">
+		<TEXTURE SizeX="128" SizeY="96">BRN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_BRU">
+		<TEXTURE SizeX="128" SizeY="96">BRU.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_BUL">
+		<TEXTURE SizeX="128" SizeY="96">BUL.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_CAN">
+		<TEXTURE SizeX="128" SizeY="96">CAN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_CAY">
+		<TEXTURE SizeX="128" SizeY="96">CAY.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_CHI">
+		<TEXTURE SizeX="128" SizeY="96">CHI.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_CHN">
+		<TEXTURE SizeX="128" SizeY="96">CHN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_COK">
+		<TEXTURE SizeX="128" SizeY="96">COK.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_COL">
+		<TEXTURE SizeX="128" SizeY="96">COL.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_CPV">
+		<TEXTURE SizeX="128" SizeY="96">CPV.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_CRI">
+		<TEXTURE SizeX="128" SizeY="96">CRI.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_CRO">
+		<TEXTURE SizeX="128" SizeY="96">CRO.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_CUB">
+		<TEXTURE SizeX="128" SizeY="96">CUB.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_CXR">
+		<TEXTURE SizeX="128" SizeY="96">CXR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_CYP">
+		<TEXTURE SizeX="128" SizeY="96">CYP.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_CZE">
+		<TEXTURE SizeX="128" SizeY="96">CZE.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_DEN">
+		<TEXTURE SizeX="128" SizeY="96">DEN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_DMA">
+		<TEXTURE SizeX="128" SizeY="96">DMA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_ECU">
+		<TEXTURE SizeX="128" SizeY="96">ECU.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_EGY">
+		<TEXTURE SizeX="128" SizeY="96">EGY.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_ESP">
+		<TEXTURE SizeX="128" SizeY="96">ESP.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_EST">
+		<TEXTURE SizeX="128" SizeY="96">EST.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_FIN">
+		<TEXTURE SizeX="128" SizeY="96">FIN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_FLK">
+		<TEXTURE SizeX="128" SizeY="96">FLK.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_FRA">
+		<TEXTURE SizeX="128" SizeY="96">FRA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_FRO">
+		<TEXTURE SizeX="128" SizeY="96">FRO.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_FSM">
+		<TEXTURE SizeX="128" SizeY="96">FSM.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_GBR">
+		<TEXTURE SizeX="128" SizeY="96">GBR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_GEO">
+		<TEXTURE SizeX="128" SizeY="96">GEO.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_GER">
+		<TEXTURE SizeX="128" SizeY="96">GER.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_GIB">
+		<TEXTURE SizeX="128" SizeY="96">GIB.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_GRE">
+		<TEXTURE SizeX="128" SizeY="96">GRE.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_GRL">
+		<TEXTURE SizeX="128" SizeY="96">GRL.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_GRN">
+		<TEXTURE SizeX="128" SizeY="96">GRN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_GUM">
+		<TEXTURE SizeX="128" SizeY="96">GUAM.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_GUY">
+		<TEXTURE SizeX="128" SizeY="96">GUY.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_HKG">
+		<TEXTURE SizeX="128" SizeY="96">HKG.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_HUN">
+		<TEXTURE SizeX="128" SizeY="96">HUN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_INA">
+		<TEXTURE SizeX="128" SizeY="96">INA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_IND">
+		<TEXTURE SizeX="128" SizeY="96">IND.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_IRL">
+		<TEXTURE SizeX="128" SizeY="96">IRL.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_IRN">
+		<TEXTURE SizeX="128" SizeY="96">IRN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_ISL">
+		<TEXTURE SizeX="128" SizeY="96">ISL.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_ISR">
+		<TEXTURE SizeX="128" SizeY="96">ISR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_ISV">
+		<TEXTURE SizeX="128" SizeY="96">ISV.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_ITA">
+		<TEXTURE SizeX="128" SizeY="96">ITA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_JAM">
+		<TEXTURE SizeX="128" SizeY="96">JAM.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_JOR">
+		<TEXTURE SizeX="128" SizeY="96">JOR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_JPN">
+		<TEXTURE SizeX="128" SizeY="96">JPN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_KAZ">
+		<TEXTURE SizeX="128" SizeY="96">KAZ.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_KEN">
+		<TEXTURE SizeX="128" SizeY="96">KEN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_KGZ">
+		<TEXTURE SizeX="128" SizeY="96">KGZ.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_KOR">
+		<TEXTURE SizeX="128" SizeY="96">KOR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_KSA">
+		<TEXTURE SizeX="128" SizeY="96">KSA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_KUW">
+		<TEXTURE SizeX="128" SizeY="96">KUW.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_LAT">
+		<TEXTURE SizeX="128" SizeY="96">LAT.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_LCA">
+		<TEXTURE SizeX="128" SizeY="96">LCA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_LIB">
+		<TEXTURE SizeX="128" SizeY="96">LIB.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_LIE">
+		<TEXTURE SizeX="128" SizeY="96">LIE.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_LTU">
+		<TEXTURE SizeX="128" SizeY="96">LTU.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_LUX">
+		<TEXTURE SizeX="128" SizeY="96">LUX.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_MAC">
+		<TEXTURE SizeX="128" SizeY="96">MAC.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_MAR">
+		<TEXTURE SizeX="128" SizeY="96">MAR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_MAS">
+		<TEXTURE SizeX="128" SizeY="96">MAS.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_MDA">
+		<TEXTURE SizeX="128" SizeY="96">MDA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_MDV">
+		<TEXTURE SizeX="128" SizeY="96">MDV.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_MEX">
+		<TEXTURE SizeX="128" SizeY="96">MEX.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_MKD">
+		<TEXTURE SizeX="128" SizeY="96">MKD.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_MLT">
+		<TEXTURE SizeX="128" SizeY="96">MLT.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_MNP">
+		<TEXTURE SizeX="128" SizeY="96">MNP.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_MON">
+		<TEXTURE SizeX="128" SizeY="96">MON.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_MRI">
+		<TEXTURE SizeX="128" SizeY="96">MRI.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_NED">
+		<TEXTURE SizeX="128" SizeY="96">NED.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_NFK">
+		<TEXTURE SizeX="128" SizeY="96">NFK.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_NGR">
+		<TEXTURE SizeX="128" SizeY="96">NGR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_NIU">
+		<TEXTURE SizeX="128" SizeY="96">NIU.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_NOR">
+		<TEXTURE SizeX="128" SizeY="96">NOR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_NZL">
+		<TEXTURE SizeX="128" SizeY="96">NZL.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_OMA">
+		<TEXTURE SizeX="128" SizeY="96">OMA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_PAK">
+		<TEXTURE SizeX="128" SizeY="96">PAK.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_PAN">
+		<TEXTURE SizeX="128" SizeY="96">PAN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_PER">
+		<TEXTURE SizeX="128" SizeY="96">PER.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_PHI">
+		<TEXTURE SizeX="128" SizeY="96">PHI.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_PLW">
+		<TEXTURE SizeX="128" SizeY="96">PLW.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_POL">
+		<TEXTURE SizeX="128" SizeY="96">POL.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_POR">
+		<TEXTURE SizeX="128" SizeY="96">POR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_PUR">
+		<TEXTURE SizeX="128" SizeY="96">PUR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_PYF">
+		<TEXTURE SizeX="128" SizeY="96">PYF.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_QAT">
+		<TEXTURE SizeX="128" SizeY="96">QAT.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_ROM">
+		<TEXTURE SizeX="128" SizeY="96">ROM.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_RUS">
+		<TEXTURE SizeX="128" SizeY="96">RUS.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_SCG">
+		<TEXTURE SizeX="128" SizeY="96">SCG.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_SEN">
+		<TEXTURE SizeX="128" SizeY="96">SEN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_SEY">
+		<TEXTURE SizeX="128" SizeY="96">SEY.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_SHN">
+		<TEXTURE SizeX="128" SizeY="96">SHN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_SIN">
+		<TEXTURE SizeX="128" SizeY="96">SIN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_SKN">
+		<TEXTURE SizeX="128" SizeY="96">SKN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_SLO">
+		<TEXTURE SizeX="128" SizeY="96">SLO.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_SMR">
+		<TEXTURE SizeX="128" SizeY="96">SMR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_SRI">
+		<TEXTURE SizeX="128" SizeY="96">SRI.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_STP">
+		<TEXTURE SizeX="128" SizeY="96">STP.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_SUI">
+		<TEXTURE SizeX="128" SizeY="96">SUI.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_SUR">
+		<TEXTURE SizeX="128" SizeY="96">SUR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_SVK">
+		<TEXTURE SizeX="128" SizeY="96">SVK.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_SWE">
+		<TEXTURE SizeX="128" SizeY="96">SWE.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_TCA">
+		<TEXTURE SizeX="128" SizeY="96">TCA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_THA">
+		<TEXTURE SizeX="128" SizeY="96">THA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_TKL">
+		<TEXTURE SizeX="128" SizeY="96">TKL.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_TRI">
+		<TEXTURE SizeX="128" SizeY="96">TRI.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_TUN">
+		<TEXTURE SizeX="128" SizeY="96">TUN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_TUR">
+		<TEXTURE SizeX="128" SizeY="96">TUR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_TUV">
+		<TEXTURE SizeX="128" SizeY="96">TUV.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_TWN">
+		<TEXTURE SizeX="128" SizeY="96">TWN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_TZA">
+		<TEXTURE SizeX="128" SizeY="96">TZA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_UGA">
+		<TEXTURE SizeX="128" SizeY="96">UGA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_UKR">
+		<TEXTURE SizeX="128" SizeY="96">UKR.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_UNION">
+		<TEXTURE SizeX="128" SizeY="96">UNION.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_URU">
+		<TEXTURE SizeX="128" SizeY="96">URU.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_USA">
+		<TEXTURE SizeX="128" SizeY="96">USA.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_UZB">
+		<TEXTURE SizeX="128" SizeY="96">UZB.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<CONTROL Id="COUNTRY_VAT">
+		<TEXTURE SizeX="128" SizeY="96">VAT.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_VEN">
+		<TEXTURE SizeX="128" SizeY="96">VEN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_VIE">
+		<TEXTURE SizeX="128" SizeY="96">VIE.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_VIN">
+		<TEXTURE SizeX="128" SizeY="96">VIN.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	<CONTROL Id="COUNTRY_ZIM">
+		<TEXTURE SizeX="128" SizeY="96">ZIM.DDS</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="128" H="96" />
+	</CONTROL>
+	
+	<!-- Mini Country Texture List -->
+	<CONTROL Id="MINI_COUNTRY_AFG">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ALB">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ALG">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ASA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_AND">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_AGO">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_AIA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ATG">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ARG">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ARM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ARU">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_AUS">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="176" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_AUT">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="192" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_AZE">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="208" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BHA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="224" Y="0" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BRN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="240" Y="0" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_BAN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BAR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BLR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BEL">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BIZ">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BEN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BER">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BHU">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BOL">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BIH">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BOT">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BVT">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="176" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BRA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="192" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_IOT">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="208" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_IVB">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="224" Y="11" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BRU">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="240" Y="11" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_BUL">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BUR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_BDI">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CAM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CMR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CAN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CPV">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CAY">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CAF">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CHA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CHI">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CHN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="176" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CXR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="192" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CCK">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="208" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_COL">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="224" Y="22" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_COM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="240" Y="22" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_CGO">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_COK">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CRI">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CIV">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CRO">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CUB">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CYP">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_CZE">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_DOD">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_DEN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_DJI">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_DMA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="176" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_DOM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="192" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ECU">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="208" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_EGY">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="224" Y="33" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ESA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="240" Y="33" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_GEQ">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ERI">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_EST">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ETH">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_FLK">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_FRO">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_FSM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_FIJ">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_FIN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_FRA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_PYF">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_GAB">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="176" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_GAM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="192" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_PSE">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="208" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_GEO">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="224" Y="44" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_GER">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="240" Y="44" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_GHA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_GIB">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_GRE">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_GRL">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_GRN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_GUM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_GUA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_GUI">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_GBS">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_GUY">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_HAI">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_HMD">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="176" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_VAT">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="192" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_HON">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="208" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_HKG">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="224" Y="55" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_HUN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="240" Y="55" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_ISL">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_IND">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_INA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_IRN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_IRQ">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_IRL">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_IOM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ISR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ITA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_JAM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_JPN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_JOR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="176" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_KAZ">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="192" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_KEN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="208" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_KIR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="224" Y="66" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_KUW">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="240" Y="66" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_KGZ">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_LAO">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_LAT">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_LIB">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_LES">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_LBR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_LBA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_LIE">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_LTU">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_LUX">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MAC">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MKD">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="176" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MAD">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="192" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MAW">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="208" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MAS">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="224" Y="77" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MDV">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="240" Y="77" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_MLI">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MLT">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MHL">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MTN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MRI">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MYT">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MEX">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MDA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MON">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MGL">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MSR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MAR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="176" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MOZ">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="192" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MMR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="208" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_NAM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="224" Y="88" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_NRU">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="240" Y="88" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_NEP">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_NED">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_AHO">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_NCL">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_NZL">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_NCA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_NIG">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_NGR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_NIU">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_NFK">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_PRK">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_MNP">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="176" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_NOR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="192" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_OMA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="208" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_PAK">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="224" Y="99" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_PLW">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="240" Y="99" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_PAN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_PNG">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_PAR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_PER">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_PHI">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_PCN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_POL">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_POR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_PUR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_QAT">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ZAF">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ROM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="176" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_RUS">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="192" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_RWA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="208" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SHN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="224" Y="110" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SKN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="240" Y="110" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_LCA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SPM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_VIN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SAM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SMR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_STP">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_KSA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SEN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SCG">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SEY">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SLE">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SIN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="176" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SVK">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="192" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SLO">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="208" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SOL">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="224" Y="121" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SOM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="240" Y="121" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_ATF">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SGS">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_KOR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ESP">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SRI">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SUD">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SUR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SJM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SWZ">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SWE">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SUI">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_SYR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="176" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_TWN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="192" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_TJK">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="208" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_TZA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="224" Y="132" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_THA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="240" Y="132" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_TLS">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_TOG">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_TKL">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_TGA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_TRI">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_TUN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_TUR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_TKM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_TCA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_TUV">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_UGA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_UKR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="176" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_GBR">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="192" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_USA">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="208" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_URU">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="224" Y="143" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_UZB">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="240" Y="143" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_VAN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="154" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_VEN">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="16" Y="154" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_VIE">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="32" Y="154" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ISV">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="48" Y="154" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_WLF">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="64" Y="154" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ESH">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="154" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_YEM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="96" Y="154" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ZAM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="112" Y="154" W="16" H="11" />
+	</CONTROL>
+	<CONTROL Id="MINI_COUNTRY_ZIM">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="128" Y="154" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_UCT">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="144" Y="154" W="16" H="11" />
+	</CONTROL>
+	
+	<CONTROL Id="MINI_COUNTRY_UNION">
+		<TEXTURE SizeX="256" SizeY="256">national_flag_16X11.dds</TEXTURE>
+		<TEXTURE_POS X="160" Y="154" W="16" H="11" />
+	</CONTROL>
+	
+	<!-- Common Background Texture List -->
+	<CONTROL Local="Common" Id="NO_LINE_WHITE_BACKGROUND">
+		<BORDER X="1" Y="1" W="1" H="1" />
+		<TEXTURE SizeX="256" SizeY="128">Gui_Attend_Record.dds</TEXTURE>
+		<TEXTURE_POS X="214" Y="55" W="20" H="20" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="NO_LINE_GRAY_BACKGROUND">
+		<BORDER X="1" Y="1" W="1" H="1" />
+		<TEXTURE SizeX="512" SizeY="512">Interface_Main.dds</TEXTURE>
+		<TEXTURE_POS X="305" Y="10" W="5" H="5" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="WHITE_LINE_GRAY_BACKGROUND">
+		<BORDER X="1" Y="1" W="1" H="1" />
+		<TEXTURE SizeX="256" SizeY="128">Gui_Attend_Record.dds</TEXTURE>
+		<TEXTURE_POS X="40" Y="0" W="20" H="20" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="BLACK_LINE_DARKGRAY_BACKGROUND">
+		<BORDER X="2" Y="2" W="2" H="2" />
+		<TEXTURE SizeX="512" SizeY="512">Interface_Main.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="121" W="35" H="35" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="WHITE_LINE_BLACK_BACKGROUND">
+		<BORDER X="2" Y="2" W="2" H="2" />
+		<TEXTURE SizeX="128" SizeY="128">Activities_gui.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="80" W="20" H="20" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="WHITE_LINE_DARKGRAY_BACKGROUND">
+		<BORDER X="2" Y="2" W="2" H="2" />
+		<TEXTURE SizeX="128" SizeY="128">Activities_gui.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="100" W="20" H="20" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="YELLOW_LINE_GRAY_BACKGROUND">
+		<BORDER X="1" Y="1" W="1" H="1" />
+		<TEXTURE SizeX="512" SizeY="128">GUI_Combination.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="105" W="20" H="20" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="WHITE_ROUNDED_LINE_DARKGRAY_BACKGROUND">
+		<BORDER X="5" Y="5" W="5" H="5" />
+		<TEXTURE SizeX="256" SizeY="128">Gui_Attend_Record.dds</TEXTURE>
+		<TEXTURE_POS X="20" Y="95" W="20" H="20" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="BLUE_LINE_BACKGROUND">
+		<BORDER X="5" Y="5" W="5" H="5" />
+		<TEXTURE SizeX="256" SizeY="128">Gui_Attend_Record.dds</TEXTURE>
+		<TEXTURE_POS X="80" Y="95" W="20" H="20" />
+	</CONTROL>
+	
+	<CONTROL Local="Common" Id="RAN_UI_BASIC_BACKGROUND_1">
+		<BORDER X="1" Y="1" W="1" H="1" />
+		<TEXTURE SizeX="256" SizeY="128">Gui_Attend_Record.dds</TEXTURE>
+		<TEXTURE_POS X="214" Y="0" W="10" H="55" />
+	</CONTROL>
+	
+	<!-- Basic Button Texture List -->
+	<CONTROL Local="Common" Id="RAN_RNBUTTON_DEFAULT_TEXTURE">
+		<BORDER X="3" Y="3" W="3" H="3" />
+		<TEXTURE SizeX="256" SizeY="128">Gui_Attend_Record.dds</TEXTURE>
+		<TEXTURE_POS X="127" Y="50" W="14" H="24" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="RAN_RNBUTTON_OVER_TEXTURE">
+		<BORDER X="3" Y="3" W="3" H="3" />
+		<TEXTURE SizeX="256" SizeY="128">Gui_Attend_Record.dds</TEXTURE>
+		<TEXTURE_POS X="180" Y="89" W="14" H="24" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="RAN_RNBUTTON_CLICK_TEXTURE">
+		<BORDER X="3" Y="3" W="3" H="3" />
+		<TEXTURE SizeX="256" SizeY="128">Gui_Attend_Record.dds</TEXTURE>
+		<TEXTURE_POS X="194" Y="89" W="14" H="24" />
+	</CONTROL>
+	
+	<CONTROL Local="Common" Id="RAN_UPDATE_BUTTON_DEFAULT_TEXTURE">
+		<BORDER X="3" Y="3" W="3" H="3" />
+		<TEXTURE SizeX="256" SizeY="128">Gui_Attend_Record.dds</TEXTURE>
+		<TEXTURE_POS X="102" Y="20" W="16" H="16" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="RAN_UPDATE_BUTTON_OVER_TEXTURE">
+		<BORDER X="3" Y="3" W="3" H="3" />
+		<TEXTURE SizeX="256" SizeY="128">Gui_Attend_Record.dds</TEXTURE>
+		<TEXTURE_POS X="102" Y="36" W="16" H="16" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="RAN_UPDATE_BUTTON_CLICK_TEXTURE">
+		<BORDER X="3" Y="3" W="3" H="3" />
+		<TEXTURE SizeX="256" SizeY="128">Gui_Attend_Record.dds</TEXTURE>
+		<TEXTURE_POS X="102" Y="52" W="16" H="16" />
+	</CONTROL>
+
+	<CONTROL Local="Common" Id="RAN_HELP_BUTTON_DEFAULT_TEXTURE">
+		<BORDER X="3" Y="3" W="3" H="3" />
+		<TEXTURE SizeX="128" SizeY="128">Activities_gui.dds</TEXTURE>
+		<TEXTURE_POS X="90" Y="40" W="16" H="16" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="RAN_HELP_BUTTON_OVER_TEXTURE">
+		<BORDER X="3" Y="3" W="3" H="3" />
+		<TEXTURE SizeX="128" SizeY="128">Activities_gui.dds</TEXTURE>
+		<TEXTURE_POS X="106" Y="56" W="16" H="16" />
+	</CONTROL>
+	
+	<!-- Basic Tab Button Texture List -->
+	<CONTROL Local="Common" Id="RAN_TAB_BUTTON_ACTIVE">
+		<BORDER X="2" Y="2" W="2" H="1" />
+		<TEXTURE SizeX="256" SizeY="128">Gui_Attend_Record.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="20" H="20" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="RAN_TAB_BUTTON_INACTIVE">
+		<BORDER X="2" Y="3" W="2" H="1" />
+		<TEXTURE SizeX="256" SizeY="128">Gui_Attend_Record.dds</TEXTURE>
+		<TEXTURE_POS X="20" Y="0" W="20" H="20" />
+	</CONTROL>
+	
+	<!-- Basic Check Bos Texture List -->
+	<CONTROL Local="Common" Id="RAN_CHECK_BOX_ACTIVE">
+		<BORDER X="0" Y="0" W="0" H="0" />
+		<TEXTURE SizeX="64" SizeY="64">Quest_UI.dds</TEXTURE>
+		<TEXTURE_POS X="15" Y="36" W="14" H="14" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="RAN_CHECK_BOX_INACTIVE">
+		<BORDER X="0" Y="0" W="0" H="0" />
+		<TEXTURE SizeX="64" SizeY="64">Quest_UI.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="36" W="14" H="14" />
+	</CONTROL>
+	
+	<!-- Basic Combo Box Texture List -->
+	<CONTROL Local="Common" Id="RAN_COMBO_BOX_BACKGROUND">
+		<BORDER X="2" Y="2" W="2" H="2" />
+		<TEXTURE SizeX="128" SizeY="128">post_interface.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="20" H="20" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="RAN_COMBO_BOX_BUTTON_DEFAULT_TEXTURE">
+		<BORDER X="2" Y="2" W="2" H="2" />
+		<TEXTURE SizeX="64" SizeY="32">Activites_arrow.dds</TEXTURE>
+		<TEXTURE_POS X="0" Y="0" W="21" H="13" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="RAN_COMBO_BOX_BUTTON_OVER_TEXTURE">
+		<BORDER X="2" Y="2" W="2" H="2" />
+		<TEXTURE SizeX="64" SizeY="32">Activites_arrow.dds</TEXTURE>
+		<TEXTURE_POS X="21" Y="0" W="21" H="13" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="RAN_COMBO_BOX_BUTTON_CLICK_TEXTURE">
+		<BORDER X="2" Y="2" W="2" H="2" />
+		<TEXTURE SizeX="64" SizeY="32">Activites_arrow.dds</TEXTURE>
+		<TEXTURE_POS X="42" Y="0" W="21" H="13" />
+	</CONTROL>
+	
+</TEXTURE_LIST>

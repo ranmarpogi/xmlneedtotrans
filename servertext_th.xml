@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<TEXT>
+<SENTENSE Ver="1" Id="ALLIANCE_BATTLE_BEGIN">
+<VALUE Lang="th">พันธมิตร %1% และพันธมิตร %2% ได้เริ่มต่อสู้แบบพันธมิตร</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="ALLIANCE_BATTLE_BEGIN_REFUSE">
+<VALUE Lang="th">พันธมิตร %1% ได้ปฏิเสธคำขอต่อู้แบบพันธมิตรจากพันธมิตร %2%</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_ARMISTICE">
+<VALUE Lang="th">พันธมิตร %1%และพันธมิตร %2% ได้ตกลงพักรบ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_ARMISTICE_RESULT">
+<VALUE Lang="th">สรุปผลคะแนนของการพักรบของพันธมิตร %d : %d</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_DRAW">
+<VALUE Lang="th">พันธมิตร %1% และพันธมิตร %2% ได้เสมอกันในการต่อสู้ระหว่างพันธมิตร</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_SUBMISSION">
+<VALUE Lang="th">พันธมิตร %1% ยอมแพ้ต่อพันธมิตร %2%</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="ALLIANCE_BATTLE_OVER_WIN">
+<VALUE Lang="th">พันธมิตร %1% ได้ชนะการต่อสู้ระหว่างพันธมิตรกับพันธมิตร %2%</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="ALLIANCE_BATTLE_RESULT">
+<VALUE Lang="th">ผลการต่อสู้ระหว่างพันธมิตร : ชนะ %1% %2% แพ้ %3% เสมอ %4%</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="APPLY_GUID_MAP_EFFECT">
+<VALUE Lang="th">ยืนยันว่าคลับได้รับ %1% %2$2.2f%% แล้ว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="ATTENDANCE_REWARD_POST_CONTENT">
+<VALUE Lang="th">จดหมายนี้เป็นรางวัลของหลักสูตรสมุดเช็คชื่อ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="ATTENDANCE_REWARD_POST_SENDERNAME">
+<VALUE Lang="th">Ran Online</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="ATTENDANCE_REWARD_POST_TITLE">
+<VALUE Lang="th">รางวัลของหลักสูตรสมุดเช็คชื่อ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="BATTLELOYAL_REWARD_POST_TITLE">
+<VALUE Lang="th">Battle Royale Manager</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CLUB_BANISHMENT_POST_CONTENT">
+<VALUE Lang="th">คุณถูกไล่ออกจากคลับ</VALUE>
+<VALUE Lang="th">คุณไม่สามารถเข้าคลับอื่นได้ภายใน 1วัน หลังจากถูกไล่ออก แต่สามารถสร้างคลับเองได้ทันที</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CLUB_BANISHMENT_POST_SENDER_NAME">
+<VALUE Lang="th">Ran Online</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CLUB_BANISHMENT_POST_TITLE">
+<VALUE Lang="th">ข้อคามไล่ออก</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CLUB_BATTLE_BEGIN">
+<VALUE Lang="th">คลับ %1% และคลับ %2% ได้เริ่มต่อสู้คลับแบทเทิล</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CLUB_BATTLE_BEGIN_REFUSE">
+<VALUE Lang="th">คลับ %1% ได้ปฏิเสธคำขอต่อสู้แบบคลับแบทเทิลจากคลับ %2%</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_ARMISTICE">
+<VALUE Lang="th">คลับ %1% และคลับ %2% ได้ตกลงพักรบ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_ARMISTICE_RESULT">
+<VALUE Lang="th">สรุปผลคะแนนของการพักรบ %d : %d</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_DRAW">
+<VALUE Lang="th">คลับแบทเทิลระหว่างคลับ %1% และ %2% จบลงด้วยผลเสมอกัน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_SUBMISSION">
+<VALUE Lang="th">คลับ %1% ยอมแพ้ต่อคลับ %2%</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CLUB_BATTLE_OVER_WIN">
+<VALUE Lang="th">คลับ %1% เอาชนะคลับ %2% ในคลับแบทเทิล</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CLUB_BATTLE_RESULT">
+<VALUE Lang="th">ผลการต่อสู้ระหว่างคลับ : ชนะ %1% %2% แพ้ %3% เสมอ %4%</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CLUB_DEATHMATCH_END_RANKING">
+<VALUE Lang="th">อันดับ %1% : %2% (%3%/%4%)</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CTF_MSG_REWARD_POST_CONTENT">
+<VALUE Lang="th">ได้รับของรางวัลผู้ชนะ Tyranny</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="CTF_MSG_REWARD_POST_TITLE">
+<VALUE Lang="th">ของรางวัลผู้ชนะ Tyranny</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EMCONFRONT_END_CDRAWN">
+<VALUE Lang="th">ไฟท์คลับระหว่าง %2% และ %3% จบลงที่ %1% และผลคือเสมอกัน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EMCONFRONT_END_CWIN">
+<VALUE Lang="th">ไฟท์คลับระหว่าง %2% และ %3% จบลงที่ %1% และคลับ %4% คือผู้ชนะ!</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EMCONFRONT_END_PDRAWN">
+<VALUE Lang="th">การดวลปาร์ตี้ระหว่าง %2% และ %3% จบลงที่ %1% และผลคือเสมอกัน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EMCONFRONT_END_PWIN">
+<VALUE Lang="th">การดวลปาร์ตี้ระหว่าง %2% และ %3% จบลงที่ %1% และปาร์ตี้ %4%คือผู้ชนะ!</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EMCONFRONT_START_PARTY">
+<VALUE Lang="th">%2% และ %3% ได้เริ่มดวลปาร์ตี้ที่ %1%</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EMCROWACT_KNOCK">
+<VALUE Lang="th">บอส %1% ปรากฏตัวที่ %2% แล้ว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EMCROWACT_REPULSE">
+<VALUE Lang="th">บอส %1% ถูกฆ่าโดย %2%</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EMGUIDCLUB_CERTIFIED">
+<VALUE Lang="th">คลับ %1% ได้รับการยืนยันว่าเป็นผู้นำที่แมพ %2%</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="GROWTHGUIDE_MISSION_REWARD_POST_CONTENT">
+<VALUE Lang="th">รางวัลสำหรับภารกิจที่ทำสำเร็จ หากทำสำเร็จจะได้รับรางวัลมากมาย</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="GROWTHGUIDE_MISSION_REWARD_POST_TITLE">
+<VALUE Lang="th">ภารกิจที่ดำเนินการอยู่</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="GROWTHGUIDE_RANKING_REWARD_POST_CONTENT">
+<VALUE Lang="th">รายการรางวัลสำหรับความสำเร็จในการจัดอันดับ เมื่ออันดับสูงขึ้นจะได้รับรางวัลที่มากขึ้น</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="GROWTHGUIDE_RANKING_REWARD_POST_TITLE">
+<VALUE Lang="th">ได้รับรางวัลการจัดอันดับแล้ว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="GROWTHGUIDE_TRAINING_REWARD_POST_CONTENT">
+<VALUE Lang="th">รายการรางวัลสำหรับการฝึกฝน. รางวัลกันฝึกฝนขึ้นอยู่กับระดับของตัวละคร</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="GROWTHGUIDE_TRAINING_REWARD_POST_TITLE">
+<VALUE Lang="th">รางวัลการฝึกฝน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOTTOSYSTEM_GIVE_MONEY_POST_CONTENT">
+<VALUE Lang="th">ยินดีด้วย กับผู้ที่ชนะล็อตโต้รอบ #%1% รางวัลที่ %2% (รางวัลผู้ที่ %2% คือ %3% จะถูกใส่เข้าไปในเป้ กรุณาเช็คดูด้วย)</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOTTOSYSTEM_GIVE_MONEY_POST_SENDERNAME">
+<VALUE Lang="th">Ran Online</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="LOTTOSYSTEM_GIVE_MONEY_POST_TITLE">
+<VALUE Lang="th">ประกาศผลผู้ชนะล็อตโต้รอบ #%1% รางวัลที่ %2%</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHARACTER_POST_CONTENT">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="NEW_CHARACTER_POST_TITLE">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="PARTY_TENDER_POST_CONTENT">
+<VALUE Lang="th">ไอเท็มประมูล</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="PARTY_TENDER_POST_SENDER_NAME">
+<VALUE Lang="th">Ran World</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="PARTY_TENDER_POST_TITLE">
+<VALUE Lang="th">ชนะการประมูลไอเท็ม</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="PET_BOOK_REWARD_POST_CONTENT">
+<VALUE Lang="th">%1% ได้รับรางวัลสะสมภาพสัตว์เลี้ยง %2% แล้ว</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="PET_BOOK_REWARD_POST_TITLE">
+<VALUE Lang="th">รางวัลสะสมภาพสัตว์เลี้ยง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="POSTBOX_CHARGE_CONTENT">
+<VALUE Lang="th">ฝ่ายตรงข้ามยอมจ่ายเงินซื้อไอเทม , คุณได้รับเงินที่จ่ายมาดังนี้</VALUE>
+<VALUE Lang="th">กรุณากดปุ่มรับเพื่อรับเงิน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="POSTBOX_CHARGE_TITLE">
+<VALUE Lang="th">ยอดเงินซื้อไอเทม</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="PRIVATEMARKET_BUY_POST_CONTENT">
+<VALUE Lang="th">ไอเท็มที่คุณซื้อจากร้านค้า ผ่านบัตรค้นหาร้านค้า</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="PRIVATEMARKET_BUY_POST_SENDERNAME">
+<VALUE Lang="th">RAN Online</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="PRIVATEMARKET_BUY_POST_TITLE">
+<VALUE Lang="th">ไอเท็มที่คุณซื้อจากร้านค้า ผ่านบัตรค้นหาร้านค้า</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="PRIVATEMARKET_ROLLBACK_POST_CONTENT">
+<VALUE Lang="th">ไอเท็มในร้านที่จ่ายเงินไม่ตรง</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="PRIVATEMARKET_ROLLBACK_POST_SENDERNAME">
+<VALUE Lang="th">RAN Online</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="PRIVATEMARKET_ROLLBACK_POST_TITLE">
+<VALUE Lang="th">ไอเท็มในร้านไม่ได้จ่ายเงิน</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="SYSTEM_POST_SENDER_NAME">
+<VALUE Lang="th">RAN Online</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TEXT_FULL_INVENTORY_POST_CONTENTS">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TEXT_FULL_INVENTORY_POST_TITLE">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TEXT_RANMOBILE_DAILYREWARD_CONTENTS">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TEXT_RANMOBILE_DAILYREWARD_TITLE">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TEXT_RANMOBILE_EXCHANGE_CONTENTS">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TEXT_RANMOBILE_EXCHANGE_TITLE">
+<VALUE Lang="th">Skip</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TEXT_SKILLREST_CONTENTS">
+<VALUE Lang="th">รีสกิลของตัวละครเรียบร้อยและได้รับลูกแก้วจิตวิญญาณ</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="TEXT_SKILLREST_TITLE">
+<VALUE Lang="th">รีสกิลของตัวละครเรียบร้อย</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="WRAPPER_ITEM_RESTORE_POST_CONTENTS">
+<VALUE Lang="th">ไอเท็มเหล่านี้จะส่งมอบให้ในแบบที่ห่ออยู่</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="WRAPPER_ITEM_RESTORE_POST_TITLE">
+<VALUE Lang="th">ไอเท็มที่ถูกห่อกำลังดำเนินการ</VALUE>
+</SENTENSE>
+<WORD Ver="1" Id="BATTLELOYAL_TEXT">
+<VALUE Lang="th" Index="0">Welcome to the Battle Royale.</VALUE>
+<VALUE Lang="th" Index="1">โปรดตรวจสอบจำนวนเงินในช่องเก็บของตัวละคร จากนั้นไปที่ Legendary Brawler เพื่อทำการซื้ออุปกรณ์พื้นฐาน</VALUE>
+<VALUE Lang="th" Index="2">จากนั้นกรุณากำหนดค่า Stats และ Skill ต่างๆในขณะที่รอการเข้าสู่สนามรบ</VALUE>
+<VALUE Lang="th" Index="3">จงมีชีวิรอดให้ถึงคนสุดท้ายและฉลองชัยชนะ. ในอนาคตอาจทำให้คุณโชคดี ...</VALUE>
+<VALUE Lang="th" Index="4">%1% ถูกฆ่าโดยผู้เล่นรายอื่น (จำนวนผู้รอดชีวิต:%2%)</VALUE>
+<VALUE Lang="th" Index="5">%1% ถูกฆ่าตายโดย%2% (จำนวนผู้รอดชีวิต:%3%)</VALUE>
+<VALUE Lang="th" Index="6">%1% ตายในเขตอันตราย (จำนวนผู้รอดชีวิต:%2%)</VALUE>
+<VALUE Lang="th" Index="7">เขตปลอดภัยใหม่ปรากฏขึ้น. โปรดย้ายไปในเวลาที่กำหนด</VALUE>
+<VALUE Lang="th" Index="8">เขตปลอดภัยใหม่จะปรากฏขึ้นในเร็ว ๆ นี้</VALUE>
+<VALUE Lang="th" Index="9">%1% นาที จะจำกัดเขตปลอดภัยใหม่</VALUE>
+<VALUE Lang="th" Index="10">%1% วินาที จะจำกัดเขตปลอดภัยใหม่</VALUE>
+<VALUE Lang="th" Index="11">เนื่องจากการขาดผู้เข้าร่วม การรบจึงถูกยกเลิก</VALUE>
+<VALUE Lang="th" Index="12">%1% วินาที จนกว่ามอนเตอร์จะเริ่มวางไข่</VALUE>
+</WORD>
+<WORD Ver="1" Id="BRIGHT_EVENT_MSG">
+<VALUE Lang="th" Index="0">ขณะนี้ระบบเปิด free PK อยู่นะคะ</VALUE>
+<VALUE Lang="th" Index="1">คุณสามารถประลองกันได้โดยไม่เสียค่าความดีค่ะ</VALUE>
+<VALUE Lang="th" Index="2">...</VALUE>
+</WORD>
+<WORD Ver="1" Id="GROWTHGUIDE_MISSION_REWARD_POST_SENDERNAME">
+<VALUE Lang="th" Index="0">รายการภารกิจ</VALUE>
+</WORD>
+<WORD Ver="1" Id="GROWTHGUIDE_RANKING_REWARD_POST_SENDERNAME">
+<VALUE Lang="th" Index="0">รายการการจัดอันดับ</VALUE>
+</WORD>
+<WORD Ver="1" Id="GROWTHGUIDE_TRAINING_REWARD_POST_SENDERNAME">
+<VALUE Lang="th" Index="0">Training manager</VALUE>
+</WORD>
+<WORD Ver="1" Id="MAP_EFFECT">
+<VALUE Lang="th" Index="0">เพิ่มความเร็วในการโจมตี</VALUE>
+<VALUE Lang="th" Index="1">เพิ่มความเร็วในการเคลื่อนที่</VALUE>
+<VALUE Lang="th" Index="2">% เพิ่ม HP สูงสุด</VALUE>
+<VALUE Lang="th" Index="3">% เพิ่ม MP สูงสุด</VALUE>
+<VALUE Lang="th" Index="4">% การฟื้นฟูทั้งหมด</VALUE>
+<VALUE Lang="th" Index="5">เพิ่ม % การโจมตี</VALUE>
+<VALUE Lang="th" Index="6">เพิ่มค่าป้องกัน</VALUE>
+</WORD>
+<WORD Ver="1" Id="PRIVATE_MARKET_POINTSHOP_TRADE">
+<VALUE Lang="th" Index="0">ระบบแลก Ran Point</VALUE>
+<VALUE Lang="th" Index="1">Ran Point ก่อนหน้า</VALUE>
+<VALUE Lang="th" Index="2">Ran Point ตอนนี้</VALUE>
+<VALUE Lang="th" Index="3">ราคาขาย</VALUE>
+<VALUE Lang="th" Index="4">ภาษี</VALUE>
+<VALUE Lang="th" Index="5">ไอเท็มจาก %1%</VALUE>
+</WORD>
+<WORD Ver="1" Id="PVP_CTFLAG_UI_TEXT">
+<VALUE Lang="th" Index="0">คะแนนเป้าหมาย : %1% แต้ม</VALUE>
+<VALUE Lang="th" Index="1">ฝ่ายแดง</VALUE>
+<VALUE Lang="th" Index="2">ฝ่ายน้ำเงิน</VALUE>
+</WORD>
+<WORD Ver="1" Id="RN_COMPETITION_RESULT_TAB">
+<VALUE Lang="th" Index="0">ผลการแข่งขัน</VALUE>
+</WORD>
+<WORD Ver="1" Id="RN_COMPETITION_RESULT_TITLE">
+<VALUE Lang="th" Index="0">อันดับ</VALUE>
+<VALUE Lang="th" Index="1">โรงเรียน</VALUE>
+<VALUE Lang="th" Index="2">อาชีพ</VALUE>
+<VALUE Lang="th" Index="3">ชื่อตัวละคร</VALUE>
+<VALUE Lang="th" Index="4">ชื่อคลับ</VALUE>
+<VALUE Lang="th" Index="5">ได้แต้ม</VALUE>
+<VALUE Lang="th" Index="6">หลบหลีกได้</VALUE>
+<VALUE Lang="th" Index="7">ฮีลได้</VALUE>
+<VALUE Lang="th" Index="8">ฆ่า</VALUE>
+<VALUE Lang="th" Index="9">ตาย</VALUE>
+<VALUE Lang="th" Index="10">คืนชีพ</VALUE>
+<VALUE Lang="th" Index="11">รางวัล</VALUE>
+<VALUE Lang="th" Index="12">ลำดับ</VALUE>
+<VALUE Lang="th" Index="13">ยึดได้</VALUE>
+<VALUE Lang="th" Index="14">ชื่อหัวคลับ</VALUE>
+<VALUE Lang="th" Index="15">คลับ</VALUE>
+<VALUE Lang="th" Index="16">แต้มที่ได้</VALUE>
+<VALUE Lang="th" Index="17">จำนวนเครื่องรับรองที่ยึดได้</VALUE>
+<VALUE Lang="th" Index="18">จำนวนที่ยืนยันสำเร็จ</VALUE>
+<VALUE Lang="th" Index="19">ธง</VALUE>
+<VALUE Lang="th" Index="20">ประเทศ</VALUE>
+</WORD>
+<WORD Ver="1" Id="RN_COMPETITION_RESULT_TITLE_TOUR">
+<VALUE Lang="th" Index="0">อันดับ</VALUE>
+<VALUE Lang="th" Index="1">สถาบัน</VALUE>
+<VALUE Lang="th" Index="2">อาชีพ</VALUE>
+<VALUE Lang="th" Index="3">ลเวล</VALUE>
+<VALUE Lang="th" Index="4">ชื่อตัวละคร</VALUE>
+<VALUE Lang="th" Index="5">อันดับของผู้ชนะ</VALUE>
+<VALUE Lang="th" Index="6">ทำดาเมจได้</VALUE>
+<VALUE Lang="th" Index="7">จำนวนการรักษา</VALUE>
+<VALUE Lang="th" Index="8">รางวัล</VALUE>
+</WORD>
+<WORD Ver="1" Id="RNCDM_REJOIN_TEXT">
+<VALUE Lang="th" Index="0">คุณต้องการอนุญาติให้เล่น CDM หรือไม่?</VALUE>
+<VALUE Lang="th" Index="1">ตกลง</VALUE>
+<VALUE Lang="th" Index="2">ยกเลิก</VALUE>
+</WORD>
+<WORD Ver="1" Id="SYSTEM_POST_SENDER_CONTENTS">
+<VALUE Lang="th" Index="0">รางวัล CDM สำหรับอันดับที่ %1%</VALUE>
+<VALUE Lang="th" Index="1">รางวัลของผู้ชนะ</VALUE>
+<VALUE Lang="th" Index="2">รางวัลสำหรับผู้ชนะกิจกรรมวอร์ที่ห้องคอม</VALUE>
+<VALUE Lang="th" Index="3">รางวัลสำหรับผู้ที่ร่วมกิจกรรมวอร์ที่ห้องคอม</VALUE>
+<VALUE Lang="th" Index="4">รางวัลสำหรับเข้าร่วม Battle Islands</VALUE>
+<VALUE Lang="th" Index="5">Skip</VALUE>
+<VALUE Lang="th" Index="6">รางวัลของผู้ชนะ</VALUE>
+<VALUE Lang="th" Index="7">รางวัลจากการเอาชนะดันเจี้ยน Evil Spirit Altar</VALUE>
+<VALUE Lang="th" Index="8">Battle Royale ranking reward.</VALUE>
+<VALUE Lang="th" Index="9">Battle Royale action reward.</VALUE>
+<VALUE Lang="th" Index="10">VIP Additional Reward</VALUE>
+</WORD>
+<WORD Ver="1" Id="TOURNAMENT_BETTING_WINNER">
+<VALUE Lang="th" Index="0">Skip</VALUE>
+</WORD>
+<WORD Ver="1" Id="TOURNAMENT_PVP_SENDER">
+<VALUE Lang="th" Index="0">Skip</VALUE>
+</WORD>
+<WORD Ver="1" Id="TOURNAMENT_WIN_MAIL_MESSAGE">
+<VALUE Lang="th" Index="0">%s รางวัลสำหรับที่หนึ่ง</VALUE>
+<VALUE Lang="th" Index="1">%s รางวัลสำหรับอันดับที่ %d</VALUE>
+<VALUE Lang="th" Index="2">%s รางวัลสำหรับการเล่น %d รอบ</VALUE>
+</WORD>
+<WORD Ver="1" Id="WEDDING_PROPOSAL_COMMON_MSG">
+<VALUE Lang="th" Index="0">Skip</VALUE>
+</WORD>
+</TEXT>

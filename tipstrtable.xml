@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEXT>
+  <SENTENSE Ver="1" Id="0">
+    <VALUE Lang="th">Press the left mouse button to attack.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="1">
+    <VALUE Lang="th">Press the mouse wheel button</VALUE>
+    <VALUE Lang="th">to rotate the view.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="10">
+    <VALUE Lang="th">Drag the item that stack together</VALUE>
+    <VALUE Lang="th">to an empty space will split it.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="11">
+    <VALUE Lang="th">Put the potion from the inventory to the item shortcut menu at the top left, and the potion can be used by pressing the shortcut key.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="12">
+    <VALUE Lang="th">Move while holding down the 'Alt' button</VALUE>
+    <VALUE Lang="th">to ignore the influence of monsters and</VALUE>
+    <VALUE Lang="th">private markets.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="13">
+    <VALUE Lang="th">Hold down 'Alt' to pick up item without being influenced by the surrounding.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="14">
+    <VALUE Lang="th">Press 'C' to view the character information.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="15">
+    <VALUE Lang="th">Press 'K' to view the skill information.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="16">
+    <VALUE Lang="th">Must purchase the skill books from the class trainers in order to learn skills.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="17">
+    <VALUE Lang="th">Put the skills from the skill window to the skill shortcut menu at the left, and the skill can be used by pressing 1~0 (for A Type), 1~5, Q~T (for B Type).</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="18">
+    <VALUE Lang="th">Press the right mouse button to use the skill.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="19">
+    <VALUE Lang="th">Select the other character by holding down 'Shift' and press the left mouse button to view the menu on that character.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="2">
+    <VALUE Lang="th">Scroll the mouse wheel</VALUE>
+    <VALUE Lang="th">to zoom in and out.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="20">
+    <VALUE Lang="th">Press 'X' to switch between combat and non-combat mode.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="21">
+    <VALUE Lang="th">Holding 'Ctrl' while purchase item to purchase the item faster and no need to go through the confirmation.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="22">
+    <VALUE Lang="th">Press space bar to pick up item.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="3">
+    <VALUE Lang="th">Press 'D'(Type B) or 'T'(Type A) to view the quest information.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="4">
+    <VALUE Lang="th">Press 'M' to view the map window.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="5">
+    <VALUE Lang="th">Press 'R' or 'NumLock' to switch between</VALUE>
+    <VALUE Lang="th">walk and run mode.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="6">
+    <VALUE Lang="th">Press 'Tab' to maximize/minimize</VALUE>
+    <VALUE Lang="th">the item shortcut menu</VALUE>
+    <VALUE Lang="th">at the top left of the screen.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="7">
+    <VALUE Lang="th">Press '`' to maximize/minimize</VALUE>
+    <VALUE Lang="th">the skill shortcut menu</VALUE>
+    <VALUE Lang="th">at the left of the screen.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="8">
+    <VALUE Lang="th">Press 'H' to view the online help window.</VALUE>
+  </SENTENSE>
+  <SENTENSE Ver="1" Id="9">
+    <VALUE Lang="th">Press 'I' to view the inventory window.</VALUE>
+  </SENTENSE>
+</TEXT>

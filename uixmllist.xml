@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<INTERFACE>
+	<!-- <UIXML>uitest.xml</UIXML> -->
+	<UIXML>UIInner/DPS/DPSWindow.xml</UIXML>
+	<UIXML>UIInner/MiniGame/OddEven/OddEvenWindow.xml</UIXML>
+	<UIXML>UIInner/Party/PartyWindowRenewal.xml</UIXML>
+	<UIXML>UIInner/Party/PartyYesNoWindow.xml</UIXML>
+	<UIXML>UIInner/Party/PartyStateWindow.xml</UIXML>
+	<UIXML>UIInner/Party/PartyDiceTenderWindow.xml</UIXML>
+	<UIXML>UIInner/Party/ExpeditionInviteWindow.xml</UIXML>
+	<UIXML>UIInner/Party/CheckReadyWindow.xml</UIXML>
+	<UIXML>UIInner/Party/PartyDistributionWindow.xml</UIXML>
+	<UIXML>UIInner/Friend/UIRnFriendWindow.xml</UIXML>
+	<UIXML>UIInner/Util/UIUtil.xml</UIXML>
+	<UIXML>UIInner/Notify/UINotifyWindow.xml</UIXML>
+	<UIXML>UIInner/MarketSearch/UIPrivateMarketSearchBuy.xml</UIXML>
+	<UIXML>UIInner/ItemRepair/ItemRepairWindow.xml</UIXML>
+	<UIXML>UIInner/Competition/PVE.xml</UIXML>
+	<UIXML>UIInner/ItemRebuild/ItemRebuildRenewal.xml</UIXML>
+	<UIXML>UIInner/RnAttendance/UIRnAttendance.xml</UIXML>
+	<UIXML>UIInner/RnCDMProgress/UIRnCDMProgress.xml</UIXML>
+	<UIXML>UIInner/RnCDMRankWindow/UIRnCDMRankWinodw.xml</UIXML>
+	<UIXML>UIInner/MiniGame/ColorProperty/ColorProperty.xml</UIXML>	
+	<UIXML>UIInner/product/ProductResetWindow.xml</UIXML>
+	<UIXML>UIInner/MiniGame/TexasHoldem/TexasHoldemWindow.xml</UIXML>
+	<UIXML>UIInner/MultiMapMoveDisplay/MultiMapMoveDisplay.xml</UIXML>
+	<UIXML>UIInner/Charactor/CharactorAdditionalWindow.xml</UIXML>
+	<UIXML>UIInner/RnCompetitiom/RnCompetition.xml</UIXML>
+	<UIXML>UIInner/FlyCameraControl/FlyCameraControlWindow.xml</UIXML>
+	<UIXML>UIInner/SetitemWindow/SetitemPreviewWindow.xml</UIXML>
+	
+	<!-- Lotto System UI -->
+	<UIXML>UIInner/LottoSystemUI/MainUI.xml</UIXML>
+	<UIXML>UIInner/LottoSystemUI/BuyLottoUI.xml</UIXML>
+	<UIXML>UIInner/LottoSystemUI/BuyListInfo.xml</UIXML>
+	<UIXML>UIInner/LottoSystemUI/WinManListInfo.xml</UIXML>
+	<UIXML>UIInner/LottoSystemUI/BuyListComponentUI.xml</UIXML>
+	<UIXML>UIInner/LottoSystemUI/DrawingDateComponentUI.xml</UIXML>
+	<UIXML>UIInner/LottoSystemUI/AccumulateMoneyComponentUI.xml</UIXML>
+	<UIXML>UIInner/LottoSystemUI/WinNumComponentUI.xml</UIXML>
+	<UIXML>UIInner/LottoSystemUI/WinManListComponentUI.xml</UIXML>
+	<UIXML>UIInner/LottoSystemUI/DisplayUI.xml</UIXML>
+	<UIXML>UIInner/LottoSystemUI/NotifyButton.xml</UIXML>
+	<UIXML>UIInner/LottoSystemUI/MachineViewerComponentUI.xml</UIXML>
+
+	<!-- Tournament UI -->
+	<UIXML>UIInner/Tournament/TournamentDashboard.xml</UIXML>
+	<UIXML>UIInner/Tournament/TourToTo.xml</UIXML>
+	<UIXML>UIInner/Tournament/tournamentInfo.xml</UIXML>
+	<UIXML>UIInner/Tournament/TournamentInfoTexture.xml</UIXML>
+	<UIXML>UIInner/Tournament/TournamentMoreInformation.xml</UIXML>
+	
+	<!-- Summon UI -->
+	<UIXML>UIInner/SummonUI/SummonStateUI.xml</UIXML>
+	
+	<!-- World Battle System UI -->
+	<UIXML>UIInner/WorldBattleSystem/WorldBattleButton.xml</UIXML>
+	<UIXML>UIInner/SelectiveFormBox/SelectiveformBox.xml</UIXML>
+
+</INTERFACE>

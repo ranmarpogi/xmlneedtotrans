@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<INTERFACE>
+	<!-- 윈도우 기본 컨트롤 -->
+	<CONTROL Local="Common" Id="RNFRIEND_WINDOW">
+		<WINDOW_POS X="0" Y="0" W="395" H="380" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="RNFRIEND_WINDOW_WHITE">
+		<WINDOW_POS X="4" Y="42" W="387" H="335" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="RNFRIEND_FRIEND_BUTTON">
+		<WINDOW_POS X="4" Y="22" W="96" H="20" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="RNFRIEND_BLOCK_BUTTON">
+		<WINDOW_POS X="102" Y="22" W="96" H="20" />
+	</CONTROL>
+	<!-- 윈도우 내부 -->
+		<!-- 친구 페이지 -->
+		<CONTROL Local="Common" Id="RNFRIEND_FRIEND_TAB">
+			<WINDOW_POS X="4" Y="24" W="379" H="300" />
+		</CONTROL>
+			<!-- 페이지 내부 -->
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_SIZE">
+				<WINDOW_POS X="4" Y="0" W="379" H="25" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_SELECTEDBOX_SIZE">
+				<WINDOW_POS X="0" Y="3" W="364" H="22" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_SELECTEDBOX_SUB">
+				<WINDOW_POS X="4" Y="0" W="379" H="25" />
+			</CONTROL>
+			<!-- 상단 컨트롤 -->
+			 <CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_TOP">
+				<WINDOW_POS X="4" Y="24" W="379" H="26" /> 
+			</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_FRIEND_LISTCOUNT">
+					<WINDOW_POS X="15" Y="24" W="100" H="25" />
+				</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_FRIEND_GROUPCOUNT">
+					<WINDOW_POS X="150" Y="24" W="60" H="25" />
+				</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_FRIEND_VIEWTEXT">
+					<WINDOW_POS X="250" Y="24" W="35" H="25" /> 
+				</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_FRIEND_VIEWCOMBO">
+					<WINDOW_POS X="292" Y="26" W="70" H="21" /> 
+				</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_FRIEND_VIEWCOMBO_BUTTON">
+					<WINDOW_POS X="363" Y="25" W="15" H="21" /> 
+				</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_FRIEND_VIEWCOMBO_ROLLOVER">
+					<WINDOW_POS X="292" Y="48" W="70" H="30" /> 
+				</CONTROL>
+			<!-- 중단 친구목록 -->
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_SCROLL">
+				<WINDOW_POS X="372" Y="52" W="10" H="246" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_0">
+				<WINDOW_POS X="0" Y="49" W="379" H="26" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_1">
+				<WINDOW_POS X="0" Y="74" W="379" H="26" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_2">
+				<WINDOW_POS X="0" Y="99" W="379" H="26" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_3">
+				<WINDOW_POS X="0" Y="124" W="379" H="26" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_4">
+				<WINDOW_POS X="0" Y="149" W="379" H="26" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_5">
+				<WINDOW_POS X="0" Y="174" W="379" H="26" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_6">
+				<WINDOW_POS X="0" Y="199" W="379" H="26" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_7">
+				<WINDOW_POS X="0" Y="224" W="379" H="26" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_8">
+				<WINDOW_POS X="0" Y="249" W="379" H="26" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_9">
+				<WINDOW_POS X="0" Y="274" W="379" H="26" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_10">
+				<WINDOW_POS X="0" Y="299" W="379" H="26" />
+			</CONTROL>
+				<!-- 아이템(친구목록 구성)들 -->
+				<CONTROL Local="Common" Id="RNFRIEND_ITEM_PARTYSTATE">
+					<WINDOW_POS X="12" Y="6" W="10" H="13" />
+				</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_ITEM_CLASS">
+					<WINDOW_POS X="28" Y="3" W="21" H="21" />
+				</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_ITEM_GROUPARROW">
+					<WINDOW_POS X="7" Y="6" W="13" H="13" />
+				</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_ITEM_GROUPIMG">
+					<WINDOW_POS X="22" Y="3" W="19" H="19" />
+				</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_ITEM_GROUPNAME">
+					<WINDOW_POS X="43" Y="0" W="135" H="25" />
+				</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_ITEM_LEVEL">
+					<WINDOW_POS X="58" Y="0" W="40" H="25" />
+				</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_ITEM_CHARNAME">
+					<WINDOW_POS X="92" Y="0" W="100" H="25" />
+				</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_ITEM_MAPNAME">
+					<WINDOW_POS X="197" Y="0" W="100" H="25" />
+				</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_ITEM_COORD">
+					<WINDOW_POS X="297" Y="0" W="50" H="25" />
+				</CONTROL>
+				<CONTROL Local="Common" Id="RNFRIEND_ITEM_CHANNEL">
+					<WINDOW_POS X="347" Y="0" W="20" H="25" />
+				</CONTROL>		
+			<!-- 하단 버튼과 기타 컨트롤 -->
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_BOTTOM_0">
+				<WINDOW_POS X="4" Y="299" W="379" H="26" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_ROW_BOTTOM_1">
+				<WINDOW_POS X="4" Y="299" W="379" H="26" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_TEXTEDIT_SIZE">
+				<WINDOW_POS X="0" Y="0" W="178" H="21" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_TEXTEDIT">
+				<WINDOW_POS X="16" Y="303" W="178" H="21" />
+			</CONTROL>			
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_TEXTEDIT_POS_BG">
+				<WINDOW_POS X="8" Y="301" W="178" H="21" />
+			</CONTROL>					
+
+			<CONTROL Local="Common" Id="RNFRIEND_FRIEND_TEXTEDIT_POS">
+				<WINDOW_POS X="25" Y="301" W="180" H="21" />
+			</CONTROL>					
+			<CONTROL Local="Common" Id="RNFRIEND_BUTTON_ADD">
+				<WINDOW_POS X="200" Y="301" W="80" H="21" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_BUTTON_ADDGROUP">
+				<WINDOW_POS X="295" Y="301" W="80" H="21" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_BUTTON_ADDPARTY">
+				<WINDOW_POS X="8" Y="327" W="80" H="21" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_BUTTON_WHISPER">
+				<WINDOW_POS X="105" Y="327" W="80" H="21" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_BUTTON_BLOCK">
+				<WINDOW_POS X="200" Y="327" W="80" H="21" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_BUTTON_DELETE">
+				<WINDOW_POS X="295" Y="327" W="80" H="21" />
+			</CONTROL>
+		<!-- 차단 페이지 -->
+		<CONTROL Local="Common" Id="RNFRIEND_BLOCK_TAB">
+			<WINDOW_POS X="4" Y="24" W="379" H="326" />
+		</CONTROL>
+			<!-- 상단 컨트롤 -->
+			 <CONTROL Local="Common" Id="RNFRIEND_BLOCK_ROW_TOP">
+				<WINDOW_POS X="4" Y="24" W="379" H="26" /> 
+			</CONTROL>
+			<!-- 중단 차단 -->
+			<CONTROL Local="Common" Id="RNFRIEND_BLOCK_SCROLL">
+				<WINDOW_POS X="372" Y="52" W="10" H="246" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_BLOCK_LIST_BG">
+				<WINDOW_POS X="4" Y="49" W="379" H="275" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_ITEM_BLOK_CHARNAME">
+				<WINDOW_POS X="60" Y="0" W="100" H="25" />
+			</CONTROL>
+			<!-- 하단 버튼과 기타 컨트롤 -->
+			<CONTROL Local="Common" Id="RNFRIEND_BLOCK_TEXTEDIT_SIZE">
+				<WINDOW_POS X="0" Y="0" W="178" H="21" />
+			</CONTROL>
+			<CONTROL Local="Common" Id="RNFRIEND_BLOCK_TEXTEDIT_POS_BG">
+				<WINDOW_POS X="8" Y="326" W="178" H="21" />
+			</CONTROL>					
+			<CONTROL Local="Common" Id="RNFRIEND_BLOCK_TEXTEDIT">
+				<WINDOW_POS X="16" Y="328" W="178" H="21" />
+			</CONTROL>					
+			<CONTROL Local="Common" Id="RNFRIEND_BLOCK_TEXTEDIT_POS">
+				<WINDOW_POS X="11" Y="326" W="180" H="21" />
+			</CONTROL>		
+			<CONTROL Local="Common" Id="RNFRIEND_BLOCK_ROW_BOTTOM">
+				<WINDOW_POS X="4" Y="324" W="379" H="26" />
+			</CONTROL>
+	<!-- 친구창 팝업 메뉴 -->
+	<!-- 전체 크기 -->
+	<CONTROL Local="Common" Id="RNFRIEND_POPMENU">
+		<WINDOW_POS X="0" Y="0" W="255" H="200" />
+	</CONTROL>
+		<!-- 좌측 -->
+		<CONTROL Local="Common" Id="RNFRIEND_POPMENU_BOX">
+			<WINDOW_POS X="0" Y="0" W="140" H="0" />
+		</CONTROL>
+		<!-- SUB메뉴 기본 크기 -->
+		<CONTROL Local="Common" Id="RNFRIEND_POPMENU_SUB_BASIC">
+			<WINDOW_POS X="135" Y="52" W="115" H="0" />
+		</CONTROL>
+		<!-- 한줄 추가될때마다 늘어나야하는 Y 사이즈 -->
+		<CONTROL Local="Common" Id="RNFRIEND_POPMENU_SIZE_ADD">
+			<WINDOW_POS X="0" Y="0" W="0" H="18" />
+		</CONTROL>
+</INTERFACE>
