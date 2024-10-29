@@ -25,3 +25,29 @@
 ## Note on Error Handling
 
 The `translate_strings.py` script includes error handling for XML parsing errors. If an XML file is not well-formed, the script will print an error message indicating the file and the nature of the parsing error.
+
+## Handling Detached HEAD State
+
+If you encounter a detached HEAD state while using the `translate_strings.py` script, follow these steps to push your changes to the remote branch:
+
+1. Configure the git user name:
+   ```
+   git config --global user.name "github-actions[bot]"
+   ```
+
+2. Add the changes:
+   ```
+   git add .
+   ```
+
+3. Commit the changes:
+   ```
+   git commit -m "Translate strings to English"
+   ```
+
+4. Push the changes to the remote branch:
+   ```
+   git push origin HEAD:<name-of-remote-branch>
+   ```
+
+5. If you encounter any errors during the git operations, the script will print an error message indicating the nature of the error.

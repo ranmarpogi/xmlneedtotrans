@@ -1,6 +1,7 @@
 import os
 import xml.etree.ElementTree as ET
 from googletrans import Translator
+import subprocess
 
 def translate_xml_file(file_path):
     try:
@@ -33,6 +34,15 @@ def main():
             print(f'Translated {xml_file}')
         else:
             print(f'{xml_file} not found')
+
+    # Handle detached HEAD state and push changes to the remote branch
+    try:
+        subprocess.run(['git', 'config', '--global', 'user.name', 'github-actions[bot]'], check=True)
+        subprocess.run(['git', 'add', '.'], check=True)
+        subprocess.run(['git', 'commit', '-m', 'Translate strings to English'], check=True)
+        subprocess.run(['git', 'push', 'origin', 'HEAD:<name-of-remote-branch>'], check=True)
+    except subprocess.CalledProcessError as e:
+        print(f"Error during git operations: {e}")
 
 if __name__ == '__main__':
     main()
