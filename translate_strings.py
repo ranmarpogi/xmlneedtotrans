@@ -3,16 +3,19 @@ import xml.etree.ElementTree as ET
 from googletrans import Translator
 
 def translate_xml_file(file_path):
-    tree = ET.parse(file_path)
-    root = tree.getroot()
-    translator = Translator()
+    try:
+        tree = ET.parse(file_path)
+        root = tree.getroot()
+        translator = Translator()
 
-    for value in root.iter('VALUE'):
-        if value.text:
-            translated_text = translator.translate(value.text, dest='en').text
-            value.text = translated_text
+        for value in root.iter('VALUE'):
+            if value.text:
+                translated_text = translator.translate(value.text, dest='en').text
+                value.text = translated_text
 
-    tree.write(file_path, encoding='utf-8', xml_declaration=True)
+        tree.write(file_path, encoding='utf-8', xml_declaration=True)
+    except ET.ParseError as e:
+        print(f"Error parsing {file_path}: {e}")
 
 def main():
     xml_files = [
